@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="myName" value="manisha1"/> 
+    <classes>
+      <class name="net.metrosystems.seleniumtests.TestFlowDE"/>
+     <!--   <class name="net.metrosystems.seleniumtests.SeleniumTestsApplicationTests"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

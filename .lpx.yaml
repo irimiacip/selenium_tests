@@ -1,0 +1,36 @@
+# inspired by https://git.metrosystems.net/op-examples/spring-boot-simple/blob/master/.lpx.yaml
+
+customer: mcc
+vertical: mrc
+
+from: openjdk:8-jdk
+
+build: ./scripts/build.sh
+
+services:
+- id: seleniumtests
+  type: java
+  copy:
+  - ./target/selenium-tests-0.0.1-SNAPSHOT.jar /mrc-seleniumtests.jar
+  - ./scripts/run.sh /run.sh
+  exec: /run.sh
+  check: true
+  scale: single # temporary to not waste kubernetes resources on peng
+  resources:
+    limits:
+      memory: "1500Mi"
+      cpu: "1.5"
+
+watchers:
+  - dan-catalin.delea@metrosystems.net
+  - vlad.dascalu@metrosystems.net
+  - adrian.turtoi@metrosystems.net
+  - irina-miruna.radu@metrosystems.net
+  - stefan.zaharia@metrosystems.net
+  - ciprian.irimia@metrosystems.net
+slack-channels:
+  - '@sebastian'
+  - '@dan-catalin.delea'
+  - '@vlad.dascalu'
+  - '@adrian.turtoi'
+  - '@irimiacip'

@@ -1,0 +1,42 @@
+logging:
+  config: classpath:logback-json.xml
+
+spring:
+  profiles.include: ${DRP_CF_STAGE}
+  data:
+      elasticsearch:
+        cluster-name: ${DRP_EV_ELASTICSEARCH_CLUSTERNAME}
+        cluster-nodes: ${DRP_EV_ELASTICSEARCH_URLS}
+  main.banner-mode: 'off'
+  output.ansi.enabled: never
+
+mrc:
+  datadog:
+    common-tags:
+      stage: ${DRP_CF_STAGE:dev}
+      vertical: ${DRP_CF_VERTICAL:mrc}
+      servicename: ${DRP_CF_SERVICE:grouping-service}
+
+management:
+  health:
+    defaults.enabled: true
+    diskspace.enabled: true
+  metrics:
+    export:
+      datadog:
+        enabled: false
+        apiKey: ${DRP_EV_DATADOG_API_KEY}
+        application-key: 9fc61930117a4804ea1f41fbfba7426e9807588c
+        step: PT5M
+
+---
+# additional settings on pp environment (see spring.profiles.include above)
+spring.profiles: pp
+
+management.metrics.export.datadog.enabled: false
+
+---
+# additional settings on prod environment (see spring.profiles.include above)
+spring.profiles: prod
+
+management.metrics.export.datadog.enabled: false

@@ -1,0 +1,31 @@
+<!DOCTYPE configuration>
+<configuration>
+	<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder class="net.logstash.logback.encoder.AccessEventCompositeJsonEncoder">
+			<providers>
+				<timestamp/>
+				<stackTrace/>
+				<logstashMarkers/>
+				<pattern>
+					<pattern>
+						{
+							"@hostname" : "${HOSTNAME}",
+							"@vertical" : "${DRP_CF_VERTICAL}",
+							"@type": "service",
+							"@service-name": "groupingservice",
+							"@service-version": "${DRP_CF_VERSION}",
+							"stage": "${DRP_CF_STAGE}",
+
+							"levelText": "ACCESS",
+							"userAgent": "%i{User-Agent}",
+							"method": "%m",
+							"statusCode": "%s",
+							"message": "%r"
+						}
+					</pattern>
+				</pattern>
+			</providers>
+		</encoder>
+	</appender>
+	<appender-ref ref="CONSOLE" />
+</configuration>

@@ -1,0 +1,38 @@
+server:
+  address: ${DRP_CF_HTTP_ADDR:0.0.0.0}
+  port: ${DRP_CF_HTTP_PORT:8090}
+
+logback:
+  access:
+    enabled: false
+
+management:
+  endpoints:
+    enabled-by-default: true
+    web.exposure.include: '*' # see http://localhost:8087/actuator/
+  health:
+    diskspace.enabled: true
+    elasticsearch.enabled: false
+    defaults.enabled: true
+  metrics:
+    export:
+      datadog:
+        enabled: false
+
+
+spring:
+  jackson:
+    date-format: org.codehaus.jackson.map.util.ISO8601DateFormat
+    serialization:
+      write_dates_as_timestamps: false
+  resources:
+      chain:
+        enabled: true
+        html-application-cache: true
+        gzipped: true
+        strategy:
+          content:
+            enabled: true
+            paths: /built/**
+      # Add test resources for normal runtime, will be disabled by peng profile
+      static-locations: file:src/main/resources/static,file:src/test/resources/static-test/

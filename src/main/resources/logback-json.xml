@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+
+		<!--
+		Documentation: https://github.com/logstash/logstash-logback-encoder
+		-->
+		<encoder class="net.logstash.logback.encoder.LoggingEventCompositeJsonEncoder">
+			<providers>
+				<timestamp/>
+				<stackTrace/>
+				<!-- Render Logstash Markers as json Field, used to add per Log statement fields -->
+				<logstashMarkers/>
+				<!--&lt;!&ndash; Set the retention field to business or technical based on the markers containe in the log event &ndash;&gt;-->
+				<!--<provider class="net.metrosystems.coni2.system.log.RetentionFieldProvider"/>-->
+				<mdc/>
+				<pattern>
+					<pattern>
+						{
+						"@hostname" : "${HOSTNAME}",
+						"@vertical" : "${DRP_CF_VERTICAL}",
+						"@type": "service",
+
+						"@service-name": "groupingservice",
+						"@service-version": "${DRP_CF_VERSION}",
+
+						<!-- The Trace ID is written into the MDC by TraceIdService
+						-->
+						"@trace-id" : "%mdc{@trace-id}",
+						<!-- Custom Fields not defined by PENG -->
+						"stage": "${DRP_CF_STAGE}",
+						"thread": "%thread",
+						"logger": "%logger",
+						"levelText": "%level",
+						"message": "%message"
+						}
+					</pattern>
+				</pattern>
+			</providers>
+		</encoder>
+	</appender>
+
+	<springProfile name="dev">
+		<!-- configuration to be enabled when the "dev" profile is active -->
+	</springProfile>
+
+	<springProfile name="pp">
+		<!-- configuration to be enabled when the "pp" profile is active -->
+	</springProfile>
+
+
+	<logger name="net.metrosystems.inbox" level="DEBUG"/>
+	<logger name="net.metrosystems.inbox.web.ctrl.CheckController" level="WARN"/>
+
+	<logger name="org.springframework.web" level="INFO"/>
+
+	<root level="INFO">
+		<appender-ref ref="STDOUT"/>
+	</root>
+
+</configuration>
