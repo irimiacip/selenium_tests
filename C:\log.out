@@ -167,3 +167,90 @@
 2018-11-22 12:08:21 INFO  TestFlowDE2:45 - perform login
 2018-11-22 12:08:27 INFO  TestFlowDE2:58 - login succesfully
 2018-11-22 12:08:47 INFO  TestFlowDE2:70 - Insert Customer for credit amount = 5000
+2018-11-22 21:36:23 INFO  TestFlowDE1:36 - start load data 
+2018-11-22 21:36:27 INFO  TestFlowDE1:39 - end start load data 
+2018-11-22 21:36:27 INFO  TestFlowDE1:40 - check login page 
+2018-11-22 21:36:31 INFO  TestFlowDE1:44 - login page loadded correctly
+2018-11-22 21:36:31 INFO  TestFlowDE1:45 - perform login
+2018-11-22 21:36:37 INFO  TestFlowDE1:58 - login succesfully
+2018-11-22 21:36:55 INFO  TestFlowDE1:70 - Insert Customer for credit amount = 5000
+2018-11-22 21:37:52 INFO  TestFlowDE2:36 - start load data 
+2018-11-22 21:37:59 INFO  TestFlowDE2:39 - end start load data 
+2018-11-22 21:37:59 INFO  TestFlowDE2:40 - check login page 
+2018-11-22 21:38:05 INFO  TestFlowDE2:44 - login page loadded correctly
+2018-11-22 21:38:05 INFO  TestFlowDE2:45 - perform login
+2018-11-22 21:38:11 INFO  TestFlowDE2:58 - login succesfully
+2018-11-22 21:38:32 INFO  TestFlowDE2:70 - Insert Customer for credit amount = 5000
+2018-12-05 14:43:47 INFO  TestFlowDE1:36 - start load data 
+2018-12-05 14:43:56 INFO  TestFlowDE2:36 - start load data 
+2018-12-05 14:44:24 INFO  TestFlowDE1:36 - start load data 
+2018-12-05 14:44:27 INFO  TestFlowDE1:39 - end start load data 
+2018-12-05 14:44:27 INFO  TestFlowDE1:40 - check login page 
+2018-12-05 14:44:57 INFO  TestFlowDE2:36 - start load data 
+2018-12-05 14:51:56 INFO  TestFlowDE1:36 - start load data 
+2018-12-05 14:52:12 INFO  TestFlowDE1:39 - end start load data 
+2018-12-05 14:52:12 INFO  TestFlowDE1:40 - check login page 
+2018-12-05 14:52:15 INFO  TestFlowDE1:44 - login page loadded correctly
+2018-12-05 14:52:15 INFO  TestFlowDE1:45 - perform login
+2018-12-05 14:52:22 INFO  TestFlowDE1:58 - login succesfully
+2018-12-05 14:52:35 INFO  TestFlowDE1:70 - Insert Customer for credit amount = 5000
+2018-12-05 14:53:27 INFO  TestFlowDE2:36 - start load data 
+2018-12-05 14:53:36 INFO  TestFlowDE2:39 - end start load data 
+2018-12-05 14:53:36 INFO  TestFlowDE2:40 - check login page 
+2018-12-05 14:53:39 INFO  TestFlowDE2:44 - login page loadded correctly
+2018-12-05 14:53:39 INFO  TestFlowDE2:45 - perform login
+2018-12-05 14:53:46 INFO  TestFlowDE2:58 - login succesfully
+2018-12-05 14:53:59 INFO  TestFlowDE2:70 - Insert Customer for credit amount = 5000
+2018-12-05 14:55:10 INFO  TestFlowDE1:36 - start load data 
+2018-12-05 14:55:12 INFO  TestFlowDE1:39 - end start load data 
+2018-12-05 14:55:12 INFO  TestFlowDE1:40 - check login page 
+2018-12-05 14:55:14 INFO  TestFlowDE1:44 - login page loadded correctly
+2018-12-05 14:55:14 INFO  TestFlowDE1:45 - perform login
+2018-12-05 14:55:21 INFO  TestFlowDE1:58 - login succesfully
+2018-12-05 14:55:35 INFO  TestFlowDE1:70 - Insert Customer for credit amount = 5000
+2018-12-05 14:56:27 INFO  TestFlowDE2:36 - start load data 
+2018-12-05 14:57:22 INFO  TestFlowDE1:36 - start load data 
+2018-12-05 14:57:25 INFO  TestFlowDE1:39 - end start load data 
+2018-12-05 14:57:25 INFO  TestFlowDE1:40 - check login page 
+2018-12-05 14:57:27 INFO  TestFlowDE1:44 - login page loadded correctly
+2018-12-05 14:57:27 INFO  TestFlowDE1:45 - perform login
+2018-12-05 14:57:33 INFO  TestFlowDE1:58 - login succesfully
+2018-12-05 14:57:46 INFO  TestFlowDE1:70 - Insert Customer for credit amount = 5000
+2018-12-05 14:58:37 INFO  TestFlowDE2:36 - start load data 
+2018-12-05 14:58:39 INFO  TestFlowDE2:39 - end start load data 
+2018-12-05 14:58:39 INFO  TestFlowDE2:40 - check login page 
+2018-12-05 14:58:40 INFO  TestFlowDE2:44 - login page loadded correctly
+2018-12-05 14:58:40 INFO  TestFlowDE2:45 - perform login
+2018-12-05 14:58:46 INFO  TestFlowDE2:58 - login succesfully
+2018-12-05 14:58:59 INFO  TestFlowDE2:70 - Insert Customer for credit amount = 5000
+2018-12-11 18:34:01 INFO  TestFlowDE1:36 - start load data 
+2019-01-15 13:13:41 INFO  TestFlowDE1:36 - start load data 
+2019-01-15 13:13:41 INFO  TestFlowDE2:36 - start load data 
+2019-01-15 13:14:17 INFO  TestFlowDE1:36 - start load data 
+2019-01-15 13:14:17 INFO  TestFlowDE2:36 - start load data 
+2019-01-15 13:17:09 INFO  TestFlowDE1:36 - start load data 
+2019-01-15 13:17:10 INFO  TestFlowDE2:36 - start load data 
+2019-01-15 17:19:48 INFO  TestFlowDE1:36 - start load data 
+2019-01-15 17:19:49 INFO  TestFlowDE2:36 - start load data 
+2019-01-15 17:22:00 INFO  TestFlowDE1:36 - start load data 
+2019-01-15 17:22:01 INFO  TestFlowDE2:36 - start load data 
+2019-01-15 17:32:45 INFO  TestFlowDE1:36 - start load data 
+2019-01-15 17:32:46 INFO  TestFlowDE2:36 - start load data 
+2019-01-15 17:33:35 INFO  TestFlowDE1:36 - start load data 
+2019-01-15 17:33:36 INFO  TestFlowDE2:36 - start load data 
+2019-01-15 17:34:10 INFO  TestFlowDE1:36 - start load data 
+2019-01-15 17:34:21 INFO  TestFlowDE1:39 - end start load data 
+2019-01-15 17:34:21 INFO  TestFlowDE1:40 - check login page 
+2019-01-15 17:34:51 INFO  TestFlowDE2:36 - start load data 
+2019-01-15 17:35:01 INFO  TestFlowDE2:39 - end start load data 
+2019-01-15 17:35:01 INFO  TestFlowDE2:40 - check login page 
+2019-01-16 16:38:07 INFO  TestFlowDE1:36 - start load data 
+2019-01-16 16:38:08 INFO  TestFlowDE2:36 - start load data 
+2019-01-16 16:38:37 INFO  TestFlowDE1:36 - start load data 
+2019-01-16 16:38:40 INFO  TestFlowDE2:36 - start load data 
+2019-01-16 16:41:01 INFO  TestFlowDE1:36 - start load data 
+2019-01-16 16:41:13 INFO  TestFlowDE1:39 - end start load data 
+2019-01-16 16:41:13 INFO  TestFlowDE1:40 - check login page 
+2019-01-16 16:41:44 INFO  TestFlowDE2:36 - start load data 
+2019-01-16 16:41:55 INFO  TestFlowDE2:39 - end start load data 
+2019-01-16 16:41:55 INFO  TestFlowDE2:40 - check login page 

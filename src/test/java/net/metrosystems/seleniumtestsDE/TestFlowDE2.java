@@ -46,16 +46,18 @@ String browser = System.getProperty("propertyName");
         login.typeUserName(jsondata.get(7));
 		login.typePassword(jsondata.get(8));
 		login.clickOnLoginButton();  
+		logger.info("check login");
+		Thread.sleep(5000);   	
+		String title = driver.getTitle();
+		Assert.assertEquals(title, "Metro Risk Check");	  
+		logger.info("login succesfully");
 	  
 	    }
 			
 	@Test (priority = 1)
    public void test1App() throws InterruptedException  {
 
-    	Thread.sleep(5000);   	
-    	String title = driver.getTitle();
-    	Assert.assertEquals(title, "Metro Risk Check");	  
-    	 logger.info("login succesfully");
+    
 	MainPage mainpage = new MainPage(driver);
 	boolean objectscheck_mainpage = mainpage.object_check();
 	Assert.assertTrue(objectscheck_mainpage);
