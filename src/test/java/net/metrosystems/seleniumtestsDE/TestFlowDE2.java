@@ -93,7 +93,7 @@ String browser = System.getProperty("propertyName");
 
 	@AfterClass
 	public void after() {
-		driver.close();
+		driver.quit();
 	}
 	//mvn clean test -Dvar1="firefox"
 	

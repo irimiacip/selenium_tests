@@ -19,9 +19,7 @@ public class LoadDrivers {
 	
 	
   	    public static final String USERNAME = "METRO_FINS_MRC";
-	//public static final String USERNAME = "catalinmorariu";
 	  	public static final String ACCESS_KEY = "32f0fc00-750c-44a2-8def-61b30b9b4f09";
-  	  //public static final String ACCESS_KEY = "3ad60678-70fd-4cf3-ab18-df365d8ca47f";
 	  	public static final String URL = "https://" + "METRO_FINS_MRC" + ":" + "32f0fc00-750c-44a2-8def-61b30b9b4f09" + "@ondemand.saucelabs.com:443/wd/hub";
 		
     public  static  WebDriver Driver(String browser , String url) throws IOException {
@@ -32,15 +30,20 @@ public class LoadDrivers {
     	  		//System.setProperty("webdriver.gecko.driver","/home/ciprian/Downloads/drivers/geckodriver");
     	  		System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir") + "/src/main/resources/drivers/geckodriver");
     	  		
-    	  	 
+           	  	DesiredCapabilities caps = DesiredCapabilities.firefox();
+           	    //caps.setCapability("platform", "Windows 10");
+           	    caps.setCapability("platform", "Linux");
+           	    caps.setCapability("version", "latest");
+           	 
+           	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
     	  		
-    	  		FirefoxOptions  options = new FirefoxOptions();
+/*    	  		FirefoxOptions  options = new FirefoxOptions();
                 options.addArguments("disable-infobars");
     	  		String hubURL = "http://10.97.178.217:4444/wd/hub";
-    	  		WebDriver driver = new RemoteWebDriver(new URL(hubURL), options);
+    	  		WebDriver driver = new RemoteWebDriver(new URL(hubURL), options);*/
     	  		
     	  		 //WebDriver driver = new FirefoxDriver();
-    			driver.manage().window().maximize() ;
+    			driver.manage().window().maximize();
     			driver.get(url);
 
     			return driver;	
@@ -50,7 +53,8 @@ public class LoadDrivers {
     	  		
   
        	  	DesiredCapabilities caps = DesiredCapabilities.chrome();
-       	    caps.setCapability("platform", "Windows 10");
+       	    //caps.setCapability("platform", "Windows 10");
+       	    caps.setCapability("platform", "Linux");
        	    caps.setCapability("version", "latest");
        	 
        	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);

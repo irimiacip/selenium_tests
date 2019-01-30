@@ -1,24 +1,21 @@
 package net.metrosystems.seleniumtestsDE;
+import java.io.IOException;
+import java.util.List;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import com.google.common.base.Function;
+
 import Pages.LimitCheck;
 import Pages.LoginPage;
 import Pages.MainPage;
 import net.metrosystems.seleniumtests.CredentialJson;
 import net.metrosystems.seleniumtests.DBconnect;
 import net.metrosystems.seleniumtests.LoadDrivers;
-import java.io.IOException;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.concurrent.TimeUnit;
-import org.apache.log4j.Logger;
-import org.openqa.selenium.WebDriver;
-import org.postgresql.Driver;
-import org.testng.Assert;
 
 
 
@@ -91,9 +88,10 @@ String browser = System.getProperty("propertyName");
 			
 		} 
 
+
 	@AfterClass
 	public void after() {
-		driver.close();
+		driver.quit();
 	}
 	//mvn clean test -Dvar1="firefox" -DtestngFile=testngDE.xml
 	
