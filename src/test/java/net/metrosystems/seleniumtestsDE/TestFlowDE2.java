@@ -9,6 +9,8 @@ import Pages.MainPage;
 import net.metrosystems.seleniumtests.CredentialJson;
 import net.metrosystems.seleniumtests.DBconnect;
 import net.metrosystems.seleniumtests.LoadDrivers;
+import net.metrosystems.seleniumtests.QuitDrivers;
+
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -92,8 +94,16 @@ String browser = System.getProperty("propertyName");
 		} 
 
 	@AfterClass
-	public void after() {
-		driver.quit();
+	public void after() throws IOException {
+		
+		String name =  driver.getClass().getName();
+  		if (name.contains("InternetExplorerDriver")) {
+  			driver.quit();
+  		QuitDrivers.quitDriver();	
+  		}else {
+  			driver.quit();
+
+  		}
 	}
 	//mvn clean test -Dvar1="firefox"
 	

@@ -24,7 +24,11 @@ public class LoadDrivers {
 		
     public  static  WebDriver Driver(String browser , String url) throws IOException {
     	
-
+    	if (OperatingSystem.results().contains("Windows")){   		
+    		OperatingSystem.proxymetro();	 
+    		System.out.println("windowssss");
+    	}
+    	
     	  if (browser.equals("firefox")) {
     		  System.out.println("Afiseaza input value :"+ browser);
     	  		//System.setProperty("webdriver.gecko.driver","/home/ciprian/Downloads/drivers/geckodriver");
@@ -47,7 +51,7 @@ public class LoadDrivers {
     			driver.get(url);
 
     			return driver;	
-    	  	  }else {
+    	  	  }else if (browser.equals("chrome")){
     	  		//System.setProperty("webdriver.chrome.driver","/home/ciprian/Downloads/drivers/chromedriver");
     	  		System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") + "/src/main/resources/drivers/chromedriver");
     	  		
@@ -72,7 +76,20 @@ public class LoadDrivers {
 
     	  	 	   
     	  		return driver;     	  		
-    	  	  }
+    	  	  } else {
+      	  		System.setProperty("webdriver.ie.driver",System.getProperty("user.dir") + "/src/main/resources/drivers/IEDriverServer.exe");
+      	  	  
+             	  	DesiredCapabilities caps = DesiredCapabilities.internetExplorer();
+             	    caps.setCapability("platform", "Windows 10");
+             	    caps.setCapability("version", "latest");
+             	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
+             	        	
+          	  		driver.manage().window().maximize() ;
+          	  		driver.get(url);
+          	  	 	   
+          	  		return driver;     	  		
+      	  	  }
+    	  
     }
     
     	
