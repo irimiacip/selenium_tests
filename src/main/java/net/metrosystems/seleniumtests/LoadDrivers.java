@@ -60,7 +60,12 @@ public class LoadDrivers {
        	    //caps.setCapability("platform", "Windows 10");
        	    caps.setCapability("platform", "Linux");
        	    caps.setCapability("version", "latest");
-       	 
+        
+       	    
+       	    
+       	    
+       	    
+       	    
        	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
        	 
     	 /* 		ChromeOptions options = new ChromeOptions();
@@ -82,9 +87,19 @@ public class LoadDrivers {
              	  	DesiredCapabilities caps = DesiredCapabilities.internetExplorer();
              	    caps.setCapability("platform", "Windows 10");
              	    caps.setCapability("version", "latest");
+             	    
+             	   
+             	   
+             	 //  caps.setCapability("app","sauce-storage:test.exe");
+             	  caps.setCapability("prerun", WindowsExecutable.callExe());
+             	    
+             	  // test.loadInternetExplorerDesiredCaps();
              	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
-             	        	
+              	//   caps.setCapability("executable","sauce-storage:test.exe");
+
           	  		driver.manage().window().maximize() ;
+              	//   caps.setCapability("app","sauce-storage:test.exe");
+
           	  		driver.get(url);
           	  	 	   
           	  		return driver;     	  		
