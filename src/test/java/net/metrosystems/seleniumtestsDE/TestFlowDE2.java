@@ -51,7 +51,7 @@ String browser = System.getProperty("propertyName");
 		logger.info("check login");
 		Thread.sleep(5000);   	
 		String title = driver.getTitle();
-		Assert.assertEquals(title, "Metro Risk Check");	  
+		Assert.assertEquals(title, "MRC");	  
 		logger.info("login succesfully");
 	  
 	    }
