@@ -76,7 +76,7 @@ String browser = System.getProperty("propertyName");
 	String title = driver.getTitle();
 	Thread.sleep(5000);
 	System.out.println("afisare titlul: = " + title);
-	    	Assert.assertEquals(title, "Metro Risk Check");	  	    		
+	    	Assert.assertEquals(title, "MRC");	  	    		
 			LimitCheck limit = new LimitCheck(driver);			
      		limit.LimitCheckclick();
 			limit.InsertCustomer(jsondata.get(11)); // insert first value from test_data (customer number)
