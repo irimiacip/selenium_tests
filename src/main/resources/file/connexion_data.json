@@ -5,7 +5,7 @@
   "country":"DE",
   "database_type":"PostgreSql", 
   "database_connection":["mcc_test9","3TUwMU0pBFM22VT$9vQO","jdbc:postgresql://psql0.opsql.mrcpp0.test9.mcc.be-gcw1.metroscales.io","5432"],
-  "appl_connection":["ciprian.irimia@metrosystems.net","Metro_2019#02","https://mrc-pp.metrosystems.net/creditlimit#/"],
+  "appl_connection":["ciprian.irimia@metrosystems.net","Metro_2019#02","https://mrc-dev.metrosystems.net/creditlimit#/"],
   "test_data": ["30/92355","656/234","customervaluede_3","customervaluede_4"]
   },
   
