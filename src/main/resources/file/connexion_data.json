@@ -4,7 +4,7 @@
   "env_data":"PP",
   "country":"DE",
   "database_type":"PostgreSql", 
-  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$9vQO","jdbc:postgresql://psql0.opsql.mrcpp0.test9.mcc.be-gcw1.metroscales.io","5432"],
+  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","jdbc:postgresql://psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
   "appl_connection":["ciprian.irimia@metrosystems.net","Metro_2019#02","https://mrc-dev.metrosystems.net/creditlimit#/"],
   "test_data": ["30/92355","656/234","customervaluede_3","customervaluede_4"]
   },
@@ -14,7 +14,7 @@
   "env_data":"PP",
   "country":"ES",
   "database_type":"PostgreSql", 
-  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$9vQO","psql0.opsql.mrcpp0.test9.mcc.be-gcw1.metroscales.io","5432"],
+  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
   "appl_connection":["user","pass","link"],
   "test_data": ["customervaluees_1","customervaluees_2","customervaluedes_3","customervaluees_4"]
   },
@@ -24,7 +24,7 @@
   "env_data":"PP",
   "country":"AT",
   "database_type":"PostgreSql", 
-  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$9vQO","psql0.opsql.mrcpp0.test9.mcc.be-gcw1.metroscales.io","5432"],
+  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
   "appl_connection":["user","pass","link"],
   "test_data": ["customervalueat_1","customervalueat_2","customervalueat_3","customervalueat_4"]  
   },
@@ -34,7 +34,7 @@
   "env_data":"PP",
   "country":"PK",
   "database_type":"PostgreSql", 
-  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$9vQO","psql0.opsql.mrcpp0.test9.mcc.be-gcw1.metroscales.io","5432"],
+  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
   "appl_connection":["user","pass","link"],
   "test_data": ["customervaluepk_1","customervaluepk_2","customervaluepk_3","customervaluepk_4"]  
   }
