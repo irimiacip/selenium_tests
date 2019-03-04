@@ -66,7 +66,7 @@ public class MainPage {
 		 }	 
 	 public void inbox() throws InterruptedException {
 		 Thread.sleep(1000);
-		 driver.findElement(inbox_img).click();
+		 driver.findElement(inbox_img).click(); 
 		 Thread.sleep(1000);
 		 driver.navigate().back();
 		 driver.findElement(inbox).click();

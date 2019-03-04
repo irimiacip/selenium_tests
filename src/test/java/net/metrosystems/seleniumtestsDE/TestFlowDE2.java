@@ -1,8 +1,15 @@
 package net.metrosystems.seleniumtestsDE;
+import java.io.IOException;
+import java.util.List;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import com.google.common.base.Function;
+
 import Pages.LimitCheck;
 import Pages.LoginPage;
 import Pages.MainPage;
@@ -11,24 +18,13 @@ import net.metrosystems.seleniumtests.DBconnect;
 import net.metrosystems.seleniumtests.LoadDrivers;
 import net.metrosystems.seleniumtests.QuitDrivers;
 
-import java.io.IOException;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.concurrent.TimeUnit;
-import org.apache.log4j.Logger;
-import org.openqa.selenium.WebDriver;
-import org.postgresql.Driver;
-import org.testng.Assert;
-
 
 
 public class TestFlowDE2 {
 	public WebDriver driver;
 	public static List<String> jsondata;
 	public static List<String> dbvalue;
-final static Logger logger = Logger.getLogger(TestFlowDE2.class);
+final static Logger logger = Logger.getLogger(TestFlowDE1.class);
 
 String browser = System.getProperty("propertyName");
 	
@@ -36,8 +32,8 @@ String browser = System.getProperty("propertyName");
 	@BeforeClass
 	public void  before() throws IOException, InterruptedException {
 		logger.info("start load data ");
-		jsondata=CredentialJson.returnCredential(0);
-		 driver = LoadDrivers.Driver(browser,jsondata.get(9));
+		jsondata=CredentialJson.returnCredential(0); // return first block from json (country DE)
+		driver = LoadDrivers.Driver(browser,jsondata.get(9));
 		logger.info("end start load data ");	
 		logger.info("check login page ");
 		LoginPage login = new LoginPage(driver);
@@ -53,7 +49,7 @@ String browser = System.getProperty("propertyName");
 		String title = driver.getTitle();
 		Assert.assertEquals(title, "Metro Risk Check");	  
 		logger.info("login succesfully");
-	  
+		
 	    }
 			
 	@Test (priority = 1)
@@ -65,7 +61,8 @@ String browser = System.getProperty("propertyName");
 	Assert.assertTrue(objectscheck_mainpage);
 	mainpage.limitcheck();
 	mainpage.history();
-	mainpage.inbox();
+	//mainpage.inbox();
+
 	}   
 
 	@Test (priority = 2)
@@ -83,8 +80,7 @@ String browser = System.getProperty("propertyName");
 			limit.SearchCustomer();
 			for (int i = 0; i<jsondata.size(); i++) {
 				System.out.println(jsondata.get(i));
-			}
-			
+			}			
 			dbvalue=DBconnect.getPostrgresSqlConnection(jsondata.get(5), jsondata.get(3), jsondata.get(4));
 			
 			for (int i = 0 ; i<dbvalue.size(); i++) {
@@ -92,6 +88,7 @@ String browser = System.getProperty("propertyName");
 			}
 			
 		} 
+
 
 	@AfterClass
 	public void after() throws IOException {
@@ -105,6 +102,6 @@ String browser = System.getProperty("propertyName");
 
   		}
 	}
-	//mvn clean test -Dvar1="firefox"
+	//mvn clean test -Dvar1="firefox" -DtestngFile=testngDE.xml
 	
 }

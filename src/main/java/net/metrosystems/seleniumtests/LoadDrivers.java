@@ -38,6 +38,7 @@ public class LoadDrivers {
            	    //caps.setCapability("platform", "Windows 10");
            	    caps.setCapability("platform", "Linux");
            	    caps.setCapability("version", "latest");
+           	    caps.setCapability("screenResolution", "1024x768");
            	 
            	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
     	  		
@@ -60,38 +61,30 @@ public class LoadDrivers {
        	    //caps.setCapability("platform", "Windows 10");
        	    caps.setCapability("platform", "Linux");
        	    caps.setCapability("version", "latest");
-        
-       	    
-       	    
-       	    
-       	    
-       	    
-       	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
-       	 
+       	    caps.setCapability("screenResolution", "1024x768");
+
+       	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);       	 
     	 /* 		ChromeOptions options = new ChromeOptions();
                 options.setExperimentalOption("useAutomationExtension", false);
                 options.addArguments("disable-infobars");
                 String hubURL = "http://10.97.178.217:4444/wd/hub";
    	  		    WebDriver driver = new RemoteWebDriver(new URL(hubURL), options);*/
-   	  		 
-   	  		 
     	  		//WebDriver driver = new ChromeDriver();
     	  		driver.manage().window().maximize() ;
-    	  		driver.get(url);
-
-    	  	 	   
+    	  		driver.get(url);   
     	  		return driver;     	  		
-    	  	  } else {
+    	  	  } else if (browser.equals("Iexplorer")){
       	  		System.setProperty("webdriver.ie.driver",System.getProperty("user.dir") + "/src/main/resources/drivers/IEDriverServer.exe");
       	  	  
              	  	DesiredCapabilities caps = DesiredCapabilities.internetExplorer();
              	    caps.setCapability("platform", "Windows 10");
              	    caps.setCapability("version", "latest");
-             	    
+               	    caps.setCapability("screenResolution", "1920x1200");
+
              	   
              	   
              	 //  caps.setCapability("app","sauce-storage:test.exe");
-             	  caps.setCapability("prerun", WindowsExecutable.callExe());
+         //    	  caps.setCapability("prerun", WindowsExecutable.callExe());
              	    
              	  // test.loadInternetExplorerDesiredCaps();
              	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
@@ -103,6 +96,46 @@ public class LoadDrivers {
           	  		driver.get(url);
           	  	 	   
           	  		return driver;     	  		
+      	  	  } else if (browser.equals("ChromeW")) {
+      	  		System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") + "/src/main/resources/drivers/chromedriver.exe");
+        	  	  
+         	  	DesiredCapabilities caps = DesiredCapabilities.internetExplorer();
+         	    caps.setCapability("platform", "Windows 10");
+         	    caps.setCapability("version", "latest");
+           	    caps.setCapability("screenResolution", "1280x1024");
+         	 //  caps.setCapability("app","sauce-storage:test.exe");
+     //    	  caps.setCapability("prerun", WindowsExecutable.callExe());
+         	    
+         	  // test.loadInternetExplorerDesiredCaps();
+         	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
+          	//   caps.setCapability("executable","sauce-storage:test.exe");
+
+      	  		driver.manage().window().maximize() ;
+          	//   caps.setCapability("app","sauce-storage:test.exe");
+
+      	  		driver.get(url);
+      	  	 	   
+      	  		return driver;   
+      	  	  } else {
+      	  		System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir") + "/src/main/resources/drivers/geckodriver.exe");
+      	  	  
+         	  	DesiredCapabilities caps = DesiredCapabilities.internetExplorer();
+         	    caps.setCapability("platform", "Windows 10");
+         	    caps.setCapability("version", "latest");
+           	    caps.setCapability("screenResolution", "1280x1024");
+         	 //  caps.setCapability("app","sauce-storage:test.exe");
+     //    	  caps.setCapability("prerun", WindowsExecutable.callExe());
+         	    
+         	  // test.loadInternetExplorerDesiredCaps();
+         	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
+          	//   caps.setCapability("executable","sauce-storage:test.exe");
+
+      	  		driver.manage().window().maximize() ;
+          	//   caps.setCapability("app","sauce-storage:test.exe");
+
+      	  		driver.get(url);
+      	  	 	   
+      	  		return driver; 
       	  	  }
     	  
     }

@@ -33,7 +33,7 @@ String browser = System.getProperty("propertyName");
 	public void  before() throws IOException, InterruptedException {
 		logger.info("start load data ");
 		jsondata=CredentialJson.returnCredential(0); // return first block from json (country DE)
-		 driver = LoadDrivers.Driver(browser,jsondata.get(9));
+		driver = LoadDrivers.Driver(browser,jsondata.get(9));
 		logger.info("end start load data ");	
 		logger.info("check login page ");
 		LoginPage login = new LoginPage(driver);
@@ -49,7 +49,7 @@ String browser = System.getProperty("propertyName");
 		String title = driver.getTitle();
 		Assert.assertEquals(title, "Metro Risk Check");	  
 		logger.info("login succesfully");
-	  
+		
 	    }
 			
 	@Test (priority = 1)
@@ -61,7 +61,8 @@ String browser = System.getProperty("propertyName");
 	Assert.assertTrue(objectscheck_mainpage);
 	mainpage.limitcheck();
 	mainpage.history();
-	mainpage.inbox();
+	//mainpage.inbox();
+
 	}   
 
 	@Test (priority = 2)
@@ -79,8 +80,7 @@ String browser = System.getProperty("propertyName");
 			limit.SearchCustomer();
 			for (int i = 0; i<jsondata.size(); i++) {
 				System.out.println(jsondata.get(i));
-			}
-			
+			}			
 			dbvalue=DBconnect.getPostrgresSqlConnection(jsondata.get(5), jsondata.get(3), jsondata.get(4));
 			
 			for (int i = 0 ; i<dbvalue.size(); i++) {
