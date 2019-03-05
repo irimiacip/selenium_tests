@@ -9,8 +9,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class MainPage {
+import net.metrosystems.seleniumtests.CredentialJson;
 
+public class MainPage {
+	public static List<String> jsondata;
 	static WebDriver driver;
 
 	 By limitcheck = By.partialLinkText("Limit Check");
@@ -67,6 +69,12 @@ public class MainPage {
 	 public void inbox() throws InterruptedException {
 		 Thread.sleep(1000);
 		 driver.findElement(inbox_img).click(); 
+		 jsondata=CredentialJson.returnCredential(0);
+		 LoginPage login = new LoginPage(driver);
+		 login.typeUserName(jsondata.get(7));
+			login.typePassword(jsondata.get(8));
+			login.clickOnLoginButton(); 
+
 		 Thread.sleep(1000);
 		 driver.navigate().back();
 		 driver.findElement(inbox).click();
