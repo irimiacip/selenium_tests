@@ -68,6 +68,7 @@ public class MainPage {
 		 }	 
 	 public void inbox() throws InterruptedException {
 		 Thread.sleep(9000);
+		 System.out.println("TEST INBOX BEHAVIOUR");
 		 driver.findElement(inbox_img).click(); 
 		 jsondata=CredentialJson.returnCredential(0);
 		 LoginPage login = new LoginPage(driver);
