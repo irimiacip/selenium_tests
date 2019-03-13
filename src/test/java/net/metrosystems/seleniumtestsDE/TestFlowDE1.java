@@ -47,6 +47,7 @@ String browser = System.getProperty("propertyName");
 		logger.info("check login");
 		Thread.sleep(9000);   	
 		String title = driver.getTitle();
+		System.out.println("afisare titlul 1: = " + title);
 		Assert.assertEquals(title, "Metro Risk Check");	  
 		logger.info("login succesfully");
 		
@@ -72,7 +73,7 @@ String browser = System.getProperty("propertyName");
 		Thread.sleep(5000);   	
 	String title = driver.getTitle();
 	Thread.sleep(5000);
-	System.out.println("afisare titlul: = " + title);
+	System.out.println("afisare titlul 2: = " + title);
 	    	Assert.assertEquals(title, "Metro Risk Check");	  	    		
 			LimitCheck limit = new LimitCheck(driver);			
      		limit.LimitCheckclick();
