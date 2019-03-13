@@ -62,7 +62,7 @@ String browser = System.getProperty("propertyName");
 	Assert.assertTrue(objectscheck_mainpage);
 	mainpage.limitcheck();
 	mainpage.history();
-	mainpage.inbox();
+	//mainpage.inbox();
 
 	}   
 
