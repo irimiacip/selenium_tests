@@ -45,7 +45,7 @@ String browser = System.getProperty("propertyName");
 		login.typePassword(jsondata.get(8));
 		login.clickOnLoginButton();  
 		logger.info("check login");
-		Thread.sleep(5000);   	
+		Thread.sleep(9000);   	
 		String title = driver.getTitle();
 		Assert.assertEquals(title, "Metro Risk Check");	  
 		logger.info("login succesfully");
