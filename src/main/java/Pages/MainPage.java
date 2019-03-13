@@ -67,7 +67,7 @@ public class MainPage {
 		 driver.navigate().back();
 		 }	 
 	 public void inbox() throws InterruptedException {
-		 Thread.sleep(1000);
+		 Thread.sleep(9000);
 		 driver.findElement(inbox_img).click(); 
 		 jsondata=CredentialJson.returnCredential(0);
 		 LoginPage login = new LoginPage(driver);
