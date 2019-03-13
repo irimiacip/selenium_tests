@@ -15,7 +15,7 @@ public class LoginPage {
 	
 	 public boolean check_objects() {
 		 boolean init = false;
-		 WebDriverWait wait = new WebDriverWait(driver,30);
+		 WebDriverWait wait = new WebDriverWait(driver,90);
 		 WebElement element1 = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("user_id")));
 		 WebElement element2 = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("password")));
 		 WebElement element3 = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("submit")));		 
