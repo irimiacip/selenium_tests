@@ -1,4 +1,6 @@
 package net.metrosystems.seleniumtestsDE;
+import static org.testng.Assert.assertEquals;
+
 import java.io.IOException;
 import java.util.List;
 
@@ -14,6 +16,7 @@ import net.metrosystems.seleniumtests.CredentialJson;
 import net.metrosystems.seleniumtests.DBconnect;
 import net.metrosystems.seleniumtests.LoadDrivers;
 import net.metrosystems.seleniumtests.QuitDrivers;
+import pages.Inbox;
 import pages.LimitCheck;
 import pages.LoginPage;
 import pages.MainPage;
@@ -53,40 +56,21 @@ String browser = System.getProperty("propertyName");
 		
 	    }
 			
-	@Test (priority = 1)
+//	@Test(priority = 1)
+   // go to inbox
+	public void test1App() throws InterruptedException {
+
+		Inbox inbox = new Inbox(driver);
+		
+		inbox.inboxclick(); // open inbox
+		
+		inbox.selectcustomer(); // select customer
+		
+		assertEquals(inbox.amount(),"1,000");
+        
+		inbox.click_cancel();//cancel request flow
+	}
 	
-	// VINERI
-   public void test1App()   {
-
-  // go to history 
-		//search by the customer
-
-	}   
-
-	@Test (priority = 2)
-		//VINERI
-	public void test2App()  {
-
-			// go to audittrail
-		// check rols (CC )  next is (SM)
-		} 
-
-	@Test (priority = 3)
-	
-	public void test3App()  {
-
-			// go to IN BOX
-		// select customer
-		// CANCEL THE REQUEST
-		} 
-
-	@Test (priority = 4)
-	
-	public void test4App()  {
-
-		// check database 
-		// aproval process state = CANCEL 
-		} 
 	@AfterClass
 	public void after() throws IOException {
 		

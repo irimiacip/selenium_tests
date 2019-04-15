@@ -5,7 +5,7 @@
   <parameter name="myName" value="manisha1"/> 
     <classes>
    <class name="net.metrosystems.seleniumtestsDE.TestFlowDE1"/>
-<!--  <class name="net.metrosystems.seleniumtestsDE.TestFlowDE2"/> -->
+  <class name="net.metrosystems.seleniumtestsDE.TestFlowDE2"/> 
     
      <!--  <class name="net.metrosystems.seleniumtests.TestFlowDE"/> -->
      <!--   <class name="net.metrosystems.seleniumtests.SeleniumTestsApplicationTests"/> -->

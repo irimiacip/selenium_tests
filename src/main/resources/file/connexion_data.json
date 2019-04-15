@@ -2,7 +2,7 @@
   {
   "id":1,
   "env_data":"PP",
-  "country":"DE",
+  "country":"ES",
   "database_type":"PostgreSql", 
   "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","jdbc:postgresql://psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
   "appl_connection":["ciprian.irimia@metrosystems.net","Metro_2019#03","https://mrc-dev.metrosystems.net/creditlimit#/"],
@@ -14,9 +14,9 @@
   "env_data":"PP",
   "country":"ES",
   "database_type":"PostgreSql", 
-  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
-  "appl_connection":["user","pass","link"],
-  "test_data": ["customervaluees_1","customervaluees_2","customervaluedes_3","customervaluees_4"]
+  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","jdbc:postgresql://psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
+  "appl_connection":["ciprian.irimia@metrosystems.net","Metro_2019#03","https://mrc-dev.metrosystems.net/creditlimit#/"],
+  "test_data": ["BARLCOS SC,ES 15/32901","656/234","customervaluede_3","customervaluede_4"]
   },
   
   {
