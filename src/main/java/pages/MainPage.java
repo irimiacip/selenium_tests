@@ -1,4 +1,4 @@
-package Pages;
+package pages;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,15 +15,26 @@ public class MainPage {
 	public static List<String> jsondata;
 	static WebDriver driver;
 
-	 By limitcheck = By.partialLinkText("Limit Check");
-	 By history = By.partialLinkText("History");
-	 By inbox = By.partialLinkText("Inbox");	 
-	 By limitcheck_img = By.xpath("//img[starts-with(@alt,'Limit Check')]");
-	 By history_img = By.xpath("//img[starts-with(@alt,'History')]");
-	 By inbox_img = By.xpath("//img[starts-with(@alt,'Inbox')]");
+	      //By limitcheck = By.partialLinkText("Limit Check");
+	By limitcheck = By.cssSelector("a[href*='limitCheck']"); 
+	
+	        // By history = By.partialLinkText("History");
+		By history = By.cssSelector(".launchpad-tiles-tablet > a:nth-child(2) > div:nth-child(1) > h3"); 
 
-	
-	
+	 
+	        //By inbox = By.partialLinkText("Inbox");	
+		By inbox = By.cssSelector(".launchpad-tiles-tablet > a:nth-child(3) > div:nth-child(1) > h3:nth-child(1)");	
+	 
+	      //By limitcheck_img = By.xpath("//img[starts-with(@alt,'Limit Check')]");
+		By limitcheck_img = By.cssSelector("a[href*='limitCheck']");
+		
+		//By history_img = By.xpath("//img[starts-with(@alt,'History')]");
+		By history_img = By.cssSelector("a[href*='history']");
+				
+		//By inbox_img = By.xpath("//img[starts-with(@alt,'Inbox')]");		
+		By inbox_img = By.cssSelector("a[href*='inbox']");
+
+		
 	public boolean object_check() {
 		boolean init = false;
 		
@@ -66,15 +77,18 @@ public class MainPage {
 		 Thread.sleep(1000);
 		 driver.navigate().back();
 		 }	 
+	 
+
+		 
 	 public void inbox() throws InterruptedException {
-		 Thread.sleep(9000);
-		 System.out.println("TEST INBOX BEHAVIOUR");
-		 driver.findElement(inbox_img).click(); 
-		 jsondata=CredentialJson.returnCredential(0);
-		 LoginPage login = new LoginPage(driver);
-		 login.typeUserName(jsondata.get(7));
-			login.typePassword(jsondata.get(8));
-			login.clickOnLoginButton(); 
+		 //Thread.sleep(9000);
+		 //System.out.println("TEST INBOX BEHAVIOUR");
+		// driver.findElement(inbox_img).click(); 
+		// jsondata=CredentialJson.returnCredential(0);
+		// LoginPage login = new LoginPage(driver);
+		// login.typeUserName(jsondata.get(7));
+		//	login.typePassword(jsondata.get(8));
+		//	login.clickOnLoginButton(); 
 
 		 Thread.sleep(1000);
 		 driver.navigate().back();

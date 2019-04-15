@@ -1,0 +1,705 @@
+INFO	2019-03-14 12:16:53,503	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 12:17:14,228	20725	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 12:17:14,228	20725	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 12:17:25,722	32219	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-03-14 12:17:25,722	32219	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-03-14 12:17:30,341	36838	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-03-14 12:17:39,785	46282	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-03-14 12:18:24,765	91262	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-03-14 12:21:29,505	276002	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 12:21:45,539	292036	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 12:21:45,540	292037	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 12:21:54,523	301020	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-03-14 12:21:54,524	301021	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-03-14 12:21:58,207	304704	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-03-14 12:22:07,729	314226	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-03-14 12:22:26,121	332618	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-03-14 12:40:21,439	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 12:40:39,219	17780	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 12:40:39,219	17780	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 12:40:53,978	32539	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-03-14 12:40:53,979	32540	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-03-14 12:40:59,598	38159	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-03-14 12:41:08,851	47412	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-03-14 12:41:31,611	70172	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-03-14 12:42:25,458	124019	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 12:42:39,203	137764	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 12:42:39,203	137764	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 12:42:48,823	147384	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-03-14 12:42:48,823	147384	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-03-14 12:42:51,892	150453	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-03-14 12:43:01,183	159744	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-03-14 12:43:17,789	176350	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-03-14 12:48:28,626	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 12:48:44,644	16018	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 12:48:44,645	16019	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 12:48:53,824	25198	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-03-14 12:48:53,825	25199	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-03-14 12:48:59,100	30474	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-03-14 12:49:08,342	39716	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-03-14 12:49:27,284	58658	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-03-14 12:50:13,479	104853	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 12:50:25,153	116527	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 12:50:25,153	116527	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 12:50:32,597	123971	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-03-14 12:50:32,597	123971	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-03-14 12:50:35,672	127046	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-03-14 12:50:44,921	136295	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-03-14 12:51:01,586	152960	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-03-14 12:57:30,879	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 12:57:48,139	17260	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 12:57:48,139	17260	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 12:58:21,114	50235	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 12:58:31,781	60902	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 12:58:31,781	60902	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 13:04:05,792	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 13:04:19,708	13916	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 13:04:19,709	13917	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 13:05:49,870	104078	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 13:06:05,921	120129	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 13:06:05,922	120130	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 13:33:50,377	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 13:34:03,468	13091	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 13:34:03,469	13092	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 13:34:10,926	20549	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-03-14 13:34:10,927	20550	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-03-14 13:34:13,918	23541	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-03-14 13:34:23,216	32839	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-03-14 13:35:16,609	86232	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-03-14 13:36:09,929	139552	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-03-14 13:36:23,048	152671	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-03-14 13:36:23,048	152671	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-03-14 13:36:33,125	162748	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-03-14 13:36:33,126	162749	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-03-14 13:36:37,313	166936	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-03-14 13:36:46,553	176176	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-03-14 13:37:27,684	217307	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 13:17:00,794	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 13:17:13,152	12358	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 13:17:13,154	12360	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 13:17:19,505	18711	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 13:17:19,507	18713	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 13:17:25,465	24671	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 13:17:34,695	33901	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 13:18:12,191	71397	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 13:18:23,637	82843	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 13:18:23,647	82853	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 13:18:23,649	82855	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 13:20:35,364	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 13:20:49,090	13726	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 13:20:49,094	13730	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 13:20:55,422	20058	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 13:20:55,424	20060	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 13:20:59,031	23667	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 13:21:08,325	32961	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 13:21:34,163	58799	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 13:22:28,271	112907	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 13:22:28,281	112917	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 13:22:28,283	112919	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 13:25:01,827	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 13:25:19,749	17922	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 13:25:19,749	17922	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 13:25:27,101	25274	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 13:25:27,102	25275	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 13:25:30,174	28347	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 13:25:40,231	38404	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 13:26:11,870	70043	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 13:27:05,413	123586	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 13:27:05,423	123596	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 13:27:05,425	123598	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 13:29:34,406	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 13:29:46,886	12480	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 13:29:46,886	12480	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 13:29:57,089	22683	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 13:29:57,092	22686	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 13:30:00,690	26284	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 13:30:10,905	36499	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 13:30:38,098	63692	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 13:31:31,242	116836	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 13:31:31,251	116845	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 13:31:31,253	116847	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 13:36:45,454	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 13:37:00,070	14616	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 13:37:00,072	14618	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 13:37:06,024	20570	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 13:37:06,025	20571	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 13:37:09,020	23566	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 13:37:18,306	32852	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 13:37:45,071	59617	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 13:38:40,473	115019	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 13:38:41,497	116043	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 13:38:41,501	116047	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 13:41:07,418	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 13:41:23,150	15732	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 13:41:23,150	15732	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 13:41:30,987	23569	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 13:41:30,987	23569	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 13:41:34,016	26598	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 13:41:43,656	36238	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 13:42:21,811	74393	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 13:43:15,271	127853	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 13:43:24,294	136876	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 13:43:24,298	136880	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 13:45:05,062	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 13:45:18,769	13707	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 13:45:18,770	13708	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 13:45:27,000	21938	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 13:45:27,001	21939	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 13:45:29,851	24789	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 13:45:39,101	34039	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 13:46:06,105	61043	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 13:46:59,638	114576	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 13:54:31,538	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 13:54:45,534	13996	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 13:54:45,536	13998	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 13:54:53,888	22350	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 13:54:53,889	22351	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 13:54:58,411	26873	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 13:55:07,822	36284	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 13:55:35,130	63592	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 13:56:30,542	119004	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 13:56:40,732	129194	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 14:03:01,254	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 14:03:15,650	14396	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 14:03:15,650	14396	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 14:03:21,700	20446	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 14:03:21,701	20447	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 14:03:24,669	23415	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 14:03:33,914	32660	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 14:04:02,790	61536	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 14:04:57,354	116100	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 14:05:04,208	122954	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 14:06:01,308	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 14:06:21,257	19949	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 14:06:21,257	19949	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 14:06:31,200	29892	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 14:06:31,201	29893	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 14:06:34,090	32782	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 14:06:43,374	42066	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 14:07:11,249	69941	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 14:08:07,839	126531	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 14:08:14,676	133368	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 14:08:14,678	133370	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 14:08:18,544	137236	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 14:08:18,544	137236	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 14:08:19,047	137739	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 14:09:08,321	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 14:09:20,882	12561	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 14:09:20,883	12562	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 14:09:28,671	20350	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 14:09:28,672	20351	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 14:09:32,574	24253	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 14:09:41,856	33535	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 14:10:06,907	58586	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 14:11:01,429	113108	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 14:11:08,352	120031	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 14:11:08,866	120545	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 14:11:30,540	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 14:11:44,423	13883	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 14:11:44,424	13884	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 14:11:50,594	20054	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 14:11:50,595	20055	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 14:11:54,848	24308	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 14:12:04,078	33538	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 14:12:31,302	60762	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 14:13:24,919	114379	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 14:13:31,464	120924	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 14:13:34,385	123845	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 14:13:38,751	128211	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 14:13:39,459	128919	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 14:13:39,460	128920	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 14:13:39,908	129368	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 14:13:39,911	129371	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 14:21:27,889	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 14:21:45,396	17507	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 14:21:45,396	17507	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 14:21:53,489	25600	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 14:21:53,491	25602	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 14:21:57,624	29735	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 14:22:07,007	39118	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 14:22:34,081	66192	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 14:23:17,484	109595	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 14:23:23,887	115998	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 14:23:24,316	116427	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 14:24:08,753	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 14:24:48,066	39313	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 14:24:48,067	39314	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 14:24:54,672	45919	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 14:24:54,674	45921	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 14:24:58,717	49964	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 14:25:07,962	59209	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 14:25:35,994	87241	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 14:26:29,289	140536	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 14:26:35,097	146344	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 14:26:38,630	149877	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 14:26:39,079	150326	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-08 14:26:40,429	151676	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-08 14:26:41,672	152919	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-08 14:26:46,667	157914	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 14:26:48,702	159949	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 14:26:48,703	159950	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 14:26:50,619	161866	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 14:26:50,621	161868	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 14:37:15,658	1	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 14:37:31,404	15747	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 14:37:31,404	15747	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 14:37:39,343	23686	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 14:37:39,344	23687	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 14:37:42,826	27169	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 14:37:52,078	36421	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 14:38:17,036	61379	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 14:39:11,021	115364	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 14:39:17,945	122288	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 14:39:18,464	122807	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 14:40:16,561	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 14:40:30,625	14064	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 14:40:30,626	14065	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 14:40:36,737	20176	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 14:40:36,737	20176	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 14:40:39,616	23055	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 14:40:48,869	32308	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 14:41:14,876	58315	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 14:42:10,024	113463	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 14:42:16,369	119808	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 14:42:19,856	123295	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 14:42:20,377	123816	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-08 14:42:20,888	124327	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-08 14:42:21,442	124881	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-08 14:42:25,593	129032	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 14:42:26,318	129757	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 14:42:26,319	129758	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 14:42:26,859	130298	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 14:42:26,861	130300	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 14:46:46,967	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 14:47:00,889	13922	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 14:47:00,889	13922	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 14:47:08,486	21519	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 14:47:08,488	21521	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 14:47:11,669	24702	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 14:47:20,928	33961	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 14:47:47,358	60391	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 14:48:41,623	114656	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 14:48:47,434	120467	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 14:48:51,408	124441	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 14:48:52,075	125108	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-08 14:48:52,910	125943	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-08 14:48:53,417	126450	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-08 14:48:58,738	131771	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 14:48:59,453	132486	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 14:48:59,453	132486	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 14:48:59,882	132915	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 14:48:59,885	132918	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 14:52:55,233	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 14:53:08,355	13122	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 14:53:08,356	13123	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 14:53:15,351	20118	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 14:53:15,352	20119	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 14:53:18,911	23678	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 14:53:28,183	32950	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 14:53:55,165	59932	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 14:54:50,368	115135	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 14:54:56,160	120927	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 14:54:59,992	124759	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 14:55:00,581	125348	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-08 14:55:01,096	125863	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-08 14:55:02,251	127018	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-08 14:55:07,506	132273	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 14:55:08,279	133046	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 14:55:08,279	133046	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 14:55:08,818	133585	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 14:55:08,820	133587	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 15:00:56,418	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 15:01:08,172	11754	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 15:01:08,174	11756	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 15:01:15,748	19330	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 15:01:15,750	19332	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 15:01:20,041	23623	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 15:01:29,329	32911	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 15:01:56,672	60254	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 15:02:49,884	113466	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 15:02:55,686	119268	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 15:02:59,548	123130	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 15:03:00,157	123739	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-08 15:03:00,686	124268	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-08 15:03:01,409	124991	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-08 15:03:06,793	130375	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 15:03:07,493	131075	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 15:03:07,493	131075	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 15:03:08,217	131799	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 15:03:08,219	131801	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 15:08:01,260	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 15:08:14,225	12965	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 15:08:14,227	12967	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 15:08:21,463	20203	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 15:08:21,464	20204	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 15:08:24,606	23346	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 15:08:33,869	32609	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 15:09:01,279	60019	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 15:09:55,298	114038	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 15:10:01,063	119803	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 15:10:07,538	126278	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 15:10:08,185	126925	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-08 15:10:08,678	127418	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-08 15:10:10,733	129473	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-08 15:10:15,315	134055	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 15:10:16,053	134793	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 15:10:16,054	134794	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 15:10:16,572	135312	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 15:10:16,574	135314	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 15:16:15,481	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 15:16:29,729	14248	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 15:16:29,730	14249	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 15:16:37,028	21547	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 15:16:37,029	21548	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 15:16:41,195	25714	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 15:16:51,752	36271	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 15:17:17,110	61629	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 15:18:10,991	115510	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 15:18:17,026	121545	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 15:18:21,018	125537	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 15:18:21,536	126055	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-08 15:18:22,053	126572	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-08 15:18:22,574	127093	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-08 15:18:27,448	131967	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 15:18:28,772	133291	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 15:18:28,773	133292	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 15:18:29,254	133773	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 15:18:29,257	133776	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 15:44:03,844	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 15:44:17,058	13214	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 15:44:17,058	13214	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 15:44:23,450	19606	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 15:44:23,451	19607	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 15:44:26,210	22366	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 15:44:35,429	31585	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 15:44:58,212	54368	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 15:45:51,048	107204	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 15:45:56,779	112935	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 15:46:00,355	116511	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 15:46:00,805	116961	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-08 15:46:01,879	118035	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-08 15:46:02,337	118493	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-08 15:46:06,286	122442	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 15:46:07,458	123614	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 15:46:07,459	123615	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 15:46:07,957	124113	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 15:46:07,959	124115	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 23:47:27,455	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 23:47:41,763	14308	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 23:47:41,765	14310	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 23:47:49,073	21618	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 23:47:49,073	21618	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 23:47:51,976	24521	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 23:48:01,256	33801	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 23:48:32,690	65235	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 23:49:25,936	118481	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 23:49:31,690	124235	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 23:49:35,195	127740	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 23:49:35,663	128208	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-08 23:49:36,229	128774	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-08 23:49:36,777	129322	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-08 23:49:43,149	135694	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 23:49:43,904	136449	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 23:49:43,904	136449	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 23:49:44,423	136968	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 23:49:44,425	136970	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-08 23:53:55,621	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-08 23:54:07,379	11758	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-08 23:54:07,380	11759	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-08 23:54:16,050	20429	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-08 23:54:16,052	20431	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-08 23:54:20,586	24965	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-08 23:54:29,873	34252	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-08 23:54:55,145	59524	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-08 23:55:48,261	112640	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-08 23:55:54,041	118420	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-08 23:55:57,519	121898	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-08 23:55:58,173	122552	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-08 23:55:58,690	123069	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-08 23:55:59,215	123594	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-08 23:56:10,543	134922	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-08 23:56:11,525	135904	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-08 23:56:11,526	135905	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-08 23:56:12,065	136444	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-08 23:56:12,067	136446	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-09 00:04:12,493	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-09 00:04:26,436	13943	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-09 00:04:26,436	13943	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-09 00:04:33,330	20837	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-09 00:04:33,336	20843	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-09 00:04:36,581	24088	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-09 00:04:45,850	33357	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-09 00:05:09,360	56867	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-09 00:06:02,965	110472	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-09 00:06:09,336	116843	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-09 00:06:12,992	120499	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-09 00:06:13,500	121007	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-09 00:06:14,005	121512	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-09 00:06:14,555	122062	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-09 00:06:27,031	134538	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-09 00:06:27,977	135484	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-09 00:06:27,977	135484	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-09 00:06:28,477	135984	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-09 00:06:28,480	135987	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-09 00:09:07,096	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-09 00:09:43,138	36042	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-09 00:09:43,139	36043	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-09 00:09:50,154	43058	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-09 00:09:50,155	43059	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-09 00:09:52,958	45862	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-09 00:10:02,209	55113	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-09 00:10:24,861	77765	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-09 00:11:18,130	131034	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-09 00:11:23,865	136769	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-09 00:11:27,334	140238	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-09 00:11:28,348	141252	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-09 00:11:28,844	141748	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-09 00:11:29,315	142219	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-09 00:11:41,425	154329	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-09 00:11:42,278	155182	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-09 00:11:42,278	155182	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-09 00:11:42,720	155624	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-09 00:11:42,722	155626	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-09 00:11:43,358	156262	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open atachement page
+INFO	2019-04-09 00:11:43,358	156262	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	add comments
+INFO	2019-04-09 00:11:45,469	158373	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	done
+INFO	2019-04-09 00:11:45,470	158374	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check sent comment
+INFO	2019-04-09 00:11:47,113	160017	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent succesfully
+INFO	2019-04-09 11:10:05,302	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-09 11:10:20,935	15633	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-09 11:10:20,936	15634	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-09 11:10:32,605	27303	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-09 11:10:32,606	27304	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-09 11:10:37,493	32191	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-09 11:10:49,193	43891	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-09 11:11:28,519	83217	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-09 11:12:22,375	137073	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-09 11:12:28,250	142948	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-09 11:12:50,272	164970	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-09 11:12:51,596	166294	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-09 11:12:51,597	166295	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-09 11:12:52,342	167040	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-09 11:12:52,343	167041	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-09 11:12:53,225	167923	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open atachement page
+INFO	2019-04-09 11:12:53,226	167924	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	add comments
+INFO	2019-04-09 11:12:57,190	171888	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	done
+INFO	2019-04-09 11:12:57,190	171888	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check sent comment
+INFO	2019-04-09 11:13:00,282	174980	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent succesfully
+INFO	2019-04-09 11:21:57,359	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-09 11:22:15,143	17784	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-09 11:22:15,144	17785	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-09 11:22:25,675	28316	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-09 11:22:25,676	28317	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-09 11:22:29,123	31764	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-09 11:22:40,085	42726	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-09 11:23:23,035	85676	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-09 11:24:16,723	139364	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-09 11:24:22,748	145389	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-09 11:24:27,543	150184	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-09 11:24:29,144	151785	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-09 11:24:29,788	152429	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-09 11:24:30,476	153117	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-09 11:24:47,248	169889	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-09 11:24:48,560	171201	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-09 11:24:48,561	171202	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-09 11:24:49,908	172549	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-09 11:24:49,912	172553	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-09 11:24:50,844	173485	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open atachement page
+INFO	2019-04-09 11:24:50,844	173485	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	add comments
+INFO	2019-04-09 11:24:53,565	176206	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	done
+INFO	2019-04-09 11:24:53,566	176207	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check sent comment
+INFO	2019-04-09 11:24:56,483	179124	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent succesfully
+INFO	2019-04-09 11:31:23,332	1	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-09 11:31:39,178	15847	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-09 11:31:39,179	15848	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-09 11:31:49,617	26286	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-09 11:31:49,620	26289	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-09 11:31:54,244	30913	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-09 11:32:04,250	40919	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-09 11:32:28,817	65486	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-09 11:33:23,599	120268	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-09 11:33:29,572	126241	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-09 11:33:34,514	131183	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-09 11:33:35,192	131861	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-09 11:33:35,778	132447	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-09 11:33:37,470	134139	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-09 11:33:54,232	150901	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-09 11:33:56,616	153285	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-09 11:33:56,617	153286	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-09 11:33:57,154	153823	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-09 11:33:57,157	153826	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-09 11:33:57,884	154553	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open atachement page
+INFO	2019-04-09 11:33:57,884	154553	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	add comments
+INFO	2019-04-09 11:34:00,703	157372	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	done
+INFO	2019-04-09 11:34:00,704	157373	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check sent comment
+INFO	2019-04-09 11:34:03,379	160048	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent succesfully
+INFO	2019-04-09 11:35:19,006	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-09 11:35:36,324	17318	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-09 11:35:36,326	17320	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-09 11:35:50,968	31962	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-09 11:35:50,970	31964	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-09 11:35:56,547	37541	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-09 11:36:09,567	50561	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-09 11:36:51,729	92723	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-09 11:37:45,442	146436	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-09 11:37:51,306	152300	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-09 11:37:56,453	157447	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-09 11:37:57,590	158584	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-09 11:37:59,227	160221	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-09 11:38:00,474	161468	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-09 11:38:20,118	181112	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-09 11:38:21,432	182426	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-09 11:38:21,433	182427	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-09 11:38:22,616	183610	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-09 11:38:22,619	183613	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-09 11:38:23,519	184513	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open atachement page
+INFO	2019-04-09 11:38:23,520	184514	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	add comments
+INFO	2019-04-09 11:38:26,530	187524	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	done
+INFO	2019-04-09 11:38:26,530	187524	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check sent comment
+INFO	2019-04-09 11:38:29,791	190785	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent succesfully
+INFO	2019-04-09 11:38:29,794	190788	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement run
+INFO	2019-04-09 11:38:29,796	190790	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement access
+INFO	2019-04-09 11:38:30,671	191665	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent request
+INFO	2019-04-09 11:38:31,529	192523	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement done
+INFO	2019-04-09 20:42:10,003	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-09 20:42:30,106	20103	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-09 20:42:30,108	20105	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-09 20:42:41,749	31746	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-09 20:42:41,750	31747	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-09 20:42:45,888	35885	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-09 20:42:56,214	46211	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-09 20:43:36,437	86434	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-09 20:43:47,465	97462	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-09 20:43:53,892	103889	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-09 20:43:54,434	104431	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-09 20:43:54,903	104900	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement run
+INFO	2019-04-09 20:43:54,906	104903	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement access
+INFO	2019-04-09 20:45:58,379	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-09 20:46:16,587	18208	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-09 20:46:16,587	18208	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-09 20:46:25,204	26825	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-09 20:46:25,204	26825	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-09 20:46:28,583	30204	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-09 20:46:37,845	39466	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-09 20:47:08,381	70002	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-09 20:47:19,420	81041	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-09 20:47:25,837	87458	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-09 20:47:26,294	87915	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-09 20:47:26,739	88360	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement run
+INFO	2019-04-09 20:47:26,741	88362	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement access
+INFO	2019-04-10 15:00:23,415	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-10 15:00:39,600	16185	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-10 15:00:39,605	16190	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-10 15:00:50,142	26727	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-10 15:00:50,143	26728	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-10 15:00:55,074	31659	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-10 15:01:04,337	40922	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-10 15:01:36,745	73330	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-10 15:02:32,066	128651	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-10 15:02:39,545	136130	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-10 15:02:40,256	136841	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-10 15:02:40,924	137509	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement run
+INFO	2019-04-10 15:02:40,925	137510	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement access
+INFO	2019-04-10 15:26:23,553	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-10 15:26:36,049	12496	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-10 15:26:36,050	12497	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-10 15:26:47,966	24413	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-10 15:26:47,966	24413	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-10 15:26:53,700	30147	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-10 15:27:03,084	39531	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-10 15:27:34,778	71225	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-10 15:33:39,011	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-10 15:33:54,642	15631	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-10 15:33:54,643	15632	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-10 15:34:02,849	23838	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-10 15:34:02,855	23844	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-10 15:34:08,553	29542	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-10 15:34:17,919	38908	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-10 15:34:52,500	73489	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-10 15:35:45,829	126818	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-10 15:35:51,769	132758	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-10 15:36:10,279	151268	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-10 15:36:11,451	152440	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-10 15:36:11,451	152440	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-10 15:36:13,160	154149	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-10 15:36:13,164	154153	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-10 15:36:13,995	154984	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open atachement page
+INFO	2019-04-10 15:36:13,997	154986	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	add comments
+INFO	2019-04-10 15:36:16,921	157910	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	done
+INFO	2019-04-10 15:36:16,921	157910	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check sent comment
+INFO	2019-04-10 15:36:17,966	158955	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement run
+INFO	2019-04-10 15:36:17,969	158958	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement access
+INFO	2019-04-10 15:36:19,513	160502	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent request
+INFO	2019-04-10 15:36:20,354	161343	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement done
+INFO	2019-04-10 15:59:05,807	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-10 15:59:19,152	13345	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-10 15:59:19,153	13346	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-10 15:59:32,687	26880	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-10 15:59:32,687	26880	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-10 15:59:37,645	31838	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-10 15:59:46,967	41160	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-10 16:00:23,922	78115	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-10 16:01:18,627	132820	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-10 16:01:24,628	138821	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-10 16:01:28,501	142694	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-10 16:01:29,236	143429	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check name of the cusotmer okay
+INFO	2019-04-10 16:01:29,963	144156	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check button
+INFO	2019-04-10 16:01:31,764	145957	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	button check susccefully
+INFO	2019-04-10 16:01:49,191	163384	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-10 16:01:50,270	164463	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-10 16:01:50,270	164463	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-10 16:01:52,368	166561	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-10 16:01:52,371	166564	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-10 16:01:53,088	167281	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open atachement page
+INFO	2019-04-10 16:01:53,089	167282	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	add comments
+INFO	2019-04-10 16:01:56,936	171129	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	done
+INFO	2019-04-10 16:01:56,939	171132	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check sent comment
+INFO	2019-04-10 16:01:58,938	173131	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent succesfully
+INFO	2019-04-10 16:01:58,943	173136	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement run
+INFO	2019-04-10 16:01:58,945	173138	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement access
+INFO	2019-04-10 16:02:00,349	174542	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent request
+INFO	2019-04-10 16:02:01,505	175698	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement done
+INFO	2019-04-10 16:08:25,911	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-10 16:08:43,116	17205	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-10 16:08:43,116	17205	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-10 16:08:51,294	25383	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-10 16:08:51,295	25384	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-10 16:08:57,724	31813	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-10 16:09:07,189	41278	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-10 16:09:41,182	75271	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-10 16:10:35,759	129848	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-10 16:10:42,584	136673	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-10 16:10:43,116	137205	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-10 16:10:45,282	139371	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement run
+INFO	2019-04-10 16:10:45,283	139372	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement access
+INFO	2019-04-10 16:13:39,345	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-10 16:13:52,812	13467	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-10 16:13:52,812	13467	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-10 16:14:02,546	23201	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-10 16:14:02,548	23203	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-10 16:14:08,498	29153	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-10 16:14:17,851	38506	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-10 16:14:51,918	72573	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-10 16:15:45,370	126025	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request
+INFO	2019-04-10 16:15:51,256	131911	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	Perform Request DONE
+INFO	2019-04-10 16:16:10,604	151259	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click sales
+INFO	2019-04-10 16:16:11,789	152444	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open page
+INFO	2019-04-10 16:16:11,790	152445	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check request limit buton
+INFO	2019-04-10 16:16:12,297	152952	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check succefully limit buton
+INFO	2019-04-10 16:16:12,303	152958	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	click atachement
+INFO	2019-04-10 16:16:13,090	153745	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	open atachement page
+INFO	2019-04-10 16:16:13,090	153745	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	add comments
+INFO	2019-04-10 16:16:15,443	156098	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	done
+INFO	2019-04-10 16:16:15,443	156098	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check sent comment
+INFO	2019-04-10 16:16:17,599	158254	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent succesfully
+INFO	2019-04-10 16:16:17,601	158256	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement run
+INFO	2019-04-10 16:16:17,603	158258	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement access
+INFO	2019-04-10 16:16:18,304	158959	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	sent request
+INFO	2019-04-10 16:16:20,021	160676	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	atachement done
+INFO	2019-04-10 16:21:57,605	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-10 16:22:11,734	14129	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	end start load data 
+INFO	2019-04-10 16:22:11,734	14129	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login page 
+INFO	2019-04-10 16:22:23,175	25570	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login page loadded correctly
+INFO	2019-04-10 16:22:23,177	25572	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
+INFO	2019-04-10 16:22:27,291	29686	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
+INFO	2019-04-10 16:22:37,888	40283	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully

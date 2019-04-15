@@ -22,7 +22,7 @@ public class LoadDrivers {
 	  	public static final String ACCESS_KEY = "32f0fc00-750c-44a2-8def-61b30b9b4f09";
 	  	public static final String URL = "https://" + "METRO_FINS_MRC" + ":" + "32f0fc00-750c-44a2-8def-61b30b9b4f09" + "@ondemand.saucelabs.com:443/wd/hub";
 		
-    public  static  WebDriver Driver(String browser , String url) throws IOException {
+    public  static  WebDriver driver(String browser , String url) throws IOException {
     	
     	if (OperatingSystem.results().contains("Windows")){   		
     		OperatingSystem.proxymetro();	 

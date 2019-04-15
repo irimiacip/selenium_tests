@@ -1,4 +1,4 @@
-package Pages;
+package pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -6,10 +6,10 @@ import org.openqa.selenium.WebDriver;
 public class LimitCheck {
 	
 	static WebDriver driver;
-	 By limitcheck = By.partialLinkText("Limit Check");
+	 By limitcheck = By.cssSelector(".launchpad-tiles-tablet > a:nth-child(1) > div:nth-child(1) > h3:nth-child(1)"); 
 	 By search = By.cssSelector(".mrc-search > input:nth-child(1)");
-	 By customer = By.xpath("//*[@id=\"react\"]/div/main/div/section/ul/li[2]");
-	
+	 By customer = By.cssSelector(".mrc-search-result > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1) > div:nth-child(1) > h1:nth-child(1)");
+	         
 	 public LimitCheck(WebDriver driver) {
 		 this.driver = driver;
 	 }
