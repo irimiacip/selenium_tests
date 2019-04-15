@@ -1,1 +1,1 @@
-select * from  approvalservice.approval_process where state like 'IN_PROGRESS' and key_indicators_request_json like '%ES%'
+select * from approvalservice.approval_process where state like 'IN_PROGRESS' and key_indicators_request_json like '%ES%'
