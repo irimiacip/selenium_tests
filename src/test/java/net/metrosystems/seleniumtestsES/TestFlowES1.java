@@ -1,4 +1,4 @@
-package net.metrosystems.seleniumtestsDE;
+package net.metrosystems.seleniumtestsES;
 
 import static org.testng.Assert.assertEquals;
 
@@ -29,11 +29,11 @@ import pages.MainPage;
 import pages.Request;
 import pages.Sales;
 
-public class TestFlowDE1 {
+public class TestFlowES1 {
 	public WebDriver driver;
 	public static List<String> jsondata;
 	public static List<String> dbvalue;
-	final static Logger logger = Logger.getLogger(TestFlowDE1.class);
+	final static Logger logger = Logger.getLogger(TestFlowES1.class);
 
 	String browser = System.getProperty("propertyName");
 

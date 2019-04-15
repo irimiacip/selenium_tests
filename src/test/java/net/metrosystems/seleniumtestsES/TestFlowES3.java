@@ -1,4 +1,4 @@
-package net.metrosystems.seleniumtestsDE;
+package net.metrosystems.seleniumtestsES;
 import java.io.IOException;
 import java.util.List;
 
@@ -20,11 +20,11 @@ import pages.MainPage;
 
 
 
-public class TestFlowDE3 {
+public class TestFlowES3 {
 	public WebDriver driver;
 	public static List<String> jsondata;
 	public static List<String> dbvalue;
-final static Logger logger = Logger.getLogger(TestFlowDE1.class);
+final static Logger logger = Logger.getLogger(TestFlowES1.class);
 
 String browser = System.getProperty("propertyName");
 	
