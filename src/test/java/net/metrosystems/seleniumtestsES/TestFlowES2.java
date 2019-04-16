@@ -56,7 +56,7 @@ String browser = System.getProperty("propertyName");
 		
 	    }
 			
-//	@Test(priority = 1)
+	@Test(priority = 1)
    // go to inbox
 	public void test1App() throws InterruptedException {
 

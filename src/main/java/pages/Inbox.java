@@ -19,7 +19,7 @@ public void inboxclick() throws InterruptedException {
 	 driver.findElement(history_img).click(); 
 }
                             
-By customer = By.className(".mrc-inbox-header-title");
+By customer = By.cssSelector("div[class='mrc-detail clickable'] mrc-date");
 //??  indentifcator
 public void selectcustomer() throws InterruptedException {
 	Thread.sleep(20000);
