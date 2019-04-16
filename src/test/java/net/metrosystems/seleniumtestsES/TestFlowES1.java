@@ -61,7 +61,7 @@ public class TestFlowES1 {
 
 	}
 
-//	@Test(priority = 1)
+	@Test(priority = 1)
 
 	public void test1App() throws InterruptedException {
 
@@ -74,7 +74,7 @@ public class TestFlowES1 {
 
 	}
 
-//	@Test(priority = 2)
+	@Test(priority = 2)
 
 	public void test2App() throws InterruptedException {
 		logger.info("Insert Customer for credit amount = 5000");
@@ -98,7 +98,7 @@ public class TestFlowES1 {
 
 	}
 
-//	@Test(priority = 3)
+	@Test(priority = 3)
 
 	public void test3App() throws InterruptedException {
 
@@ -111,7 +111,7 @@ public class TestFlowES1 {
 		logger.info("Perform Request DONE");
 	}
 
-//	@Test(priority = 4)
+	@Test(priority = 4)
 
 	public void test4App() {
 		// Customer detail TAB open default
@@ -131,7 +131,7 @@ public class TestFlowES1 {
 		logger.info("button check susccefully");
 	}
 
-//	@Test(priority = 5)
+	@Test(priority = 5)
 
 	public void test5App() throws InterruptedException {
 
@@ -148,7 +148,7 @@ public class TestFlowES1 {
 		// The third value is autopopulated
 	}
 
-	//@Test(priority = 6)
+	@Test(priority = 6)
 
 	public void test6App() {
 		// sales tab
@@ -165,7 +165,7 @@ public class TestFlowES1 {
 
 	}
 
-//	@Test(priority = 7)
+	@Test(priority = 7)
 	public void test7App() {
 		logger.info("click atachement");
 		Comments comment = new Comments(driver);
@@ -182,7 +182,7 @@ public class TestFlowES1 {
 		logger.info("sent succesfully");
 	}
 
-//	@Test(priority = 8)
+	@Test(priority = 8)
 	public void test8App() {
 		logger.info("atachement run");
 
@@ -195,19 +195,7 @@ public class TestFlowES1 {
 		logger.info("atachement done");
 	}
 
-	 @Test (priority = 9)
-	public void test9App() throws InterruptedException {
-		// go to history page
-		History history = new History(driver);
-		
-		history.historyclick();
 
-		history.search(jsondata.get(10));
-		
-		history.searchCustomer();
-		
-		assertEquals(history.check_nextlevel(), "SM");
-	}
 
 	@AfterClass
 

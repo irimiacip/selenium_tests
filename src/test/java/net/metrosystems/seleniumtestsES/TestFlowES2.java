@@ -16,6 +16,7 @@ import net.metrosystems.seleniumtests.CredentialJson;
 import net.metrosystems.seleniumtests.DBconnect;
 import net.metrosystems.seleniumtests.LoadDrivers;
 import net.metrosystems.seleniumtests.QuitDrivers;
+import pages.History;
 import pages.Inbox;
 import pages.LimitCheck;
 import pages.LoginPage;
@@ -69,6 +70,20 @@ String browser = System.getProperty("propertyName");
 		assertEquals(inbox.amount(),"1,000");
         
 		inbox.click_cancel();//cancel request flow
+	}
+	
+	 @Test (priority = 2)
+	public void test2App() throws InterruptedException {
+		// go to history page
+		History history = new History(driver);
+		
+		history.historyclick();
+
+		history.search(jsondata.get(10));
+		
+		history.searchCustomer();
+		
+		assertEquals(history.check_nextlevel(), "SM");
 	}
 	
 	@AfterClass

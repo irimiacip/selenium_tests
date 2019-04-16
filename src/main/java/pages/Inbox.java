@@ -41,7 +41,11 @@ public void click_cancel() throws InterruptedException {
 	Thread.sleep(10000);
 	driver.findElement(cancelButton).click();
 }
-	
+   By bloclButton = By.id("mrc-block-button");
+public void click_block() throws InterruptedException {
+	Thread.sleep(10000);
+	driver.findElement(bloclButton).click();
+}	
 // CHECK IN THE DATA BASE IF THE APPROVAL IS CANCEL
 
 }

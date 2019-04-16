@@ -1,8 +1,11 @@
 package net.metrosystems.seleniumtestsES;
+import static org.testng.Assert.assertEquals;
+
 import java.io.IOException;
 import java.util.List;
 
 import org.apache.log4j.Logger;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
@@ -14,6 +17,8 @@ import net.metrosystems.seleniumtests.CredentialJson;
 import net.metrosystems.seleniumtests.DBconnect;
 import net.metrosystems.seleniumtests.LoadDrivers;
 import net.metrosystems.seleniumtests.QuitDrivers;
+import pages.History;
+import pages.Inbox;
 import pages.LimitCheck;
 import pages.LoginPage;
 import pages.MainPage;
@@ -32,7 +37,7 @@ String browser = System.getProperty("propertyName");
 	@BeforeClass
 	public void  before() throws IOException, InterruptedException {
 		logger.info("start load data ");
-		jsondata=CredentialJson.returnCredential(0); // return first block from json (country DE)
+		jsondata=CredentialJson.returnCredential(1); // return second block from json (country DE)
 		driver = LoadDrivers.driver(browser,jsondata.get(9));
 		logger.info("end start load data ");	
 		logger.info("check login page ");
@@ -53,44 +58,39 @@ String browser = System.getProperty("propertyName");
 		
 	    }
 			
-	@Test (priority = 1)
-   public void test1App() throws InterruptedException  {
+	@Test(priority = 1)
+   // go to inbox
+	public void test1App() throws InterruptedException {
 
-    
-	MainPage mainpage = new MainPage(driver);
-	boolean objectscheck_mainpage = mainpage.object_check();
-	Assert.assertTrue(objectscheck_mainpage);
-	mainpage.limitcheck();
-	mainpage.history();
-	mainpage.inbox();
-
-	}   
-
-	@Test (priority = 2)
+		Inbox inbox = new Inbox(driver);
 		
+		inbox.inboxclick(); // open inbox
+		
+		inbox.selectcustomer(); // select customer
+		
+		assertEquals(inbox.amount(),"1,000");
+        
+		inbox.click_block();;//cancel request flow
+		
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+
+		js.executeScript("alert('I am an alert box!')");
+	}
+	
+	 @Test (priority = 2)
 	public void test2App() throws InterruptedException {
-		logger.info("Insert Customer for credit amount = 5000");
-		Thread.sleep(5000);   	
-	String title = driver.getTitle();
-	Thread.sleep(9000);
-	System.out.println("afisare titlul 2: = " + title);
-	    	Assert.assertEquals(title, "Metro Risk Check");	  	    		
-			LimitCheck limit = new LimitCheck(driver);			
-     		limit.LimitCheckclick();
-			limit.InsertCustomer(jsondata.get(11)); // insert first value from test_data (customer number)
-			limit.SearchCustomer();
-			for (int i = 0; i<jsondata.size(); i++) {
-				System.out.println(jsondata.get(i));
-			}			
-			dbvalue=DBconnect.getPostrgresSqlConnection(jsondata.get(5), jsondata.get(3), jsondata.get(4));
-			
-			for (int i = 0 ; i<dbvalue.size(); i++) {
-				System.out.println("value from db : " + dbvalue.get(i));
-			}
-			
-		} 
+		// go to history page
+		History history = new History(driver);
+		
+		history.historyclick();
 
-
+		history.search(jsondata.get(10));
+		
+		history.searchCustomer();
+		
+		assertEquals(history.check_nextlevel(), "SM");
+	}
+	 
 	@AfterClass
 	public void after() throws IOException {
 		
