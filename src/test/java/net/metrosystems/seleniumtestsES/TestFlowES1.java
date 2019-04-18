@@ -195,8 +195,6 @@ public class TestFlowES1 {
 		logger.info("atachement done");
 	}
 
-
-
 	@AfterClass
 
 	public void after() throws IOException {
@@ -209,6 +207,6 @@ public class TestFlowES1 {
 			driver.quit();
 		}
 	}
-	// mvn clean test -Dvar1="firefox" -DtestngFile=testngDE.xml
+	// mvn clean test -Dvar1="firefox" -DtestngFile=testngES_CancelRequest.xml
 
 }

@@ -103,6 +103,6 @@ String browser = System.getProperty("propertyName");
 
   		}
 	}
-	//mvn clean test -Dvar1="firefox" -DtestngFile=testngDE.xml
+	//mvn clean test -Dvar1="firefox" -DtestngFile=testngES_CancelRequest.xml
 	
 }

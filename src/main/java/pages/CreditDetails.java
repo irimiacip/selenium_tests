@@ -23,7 +23,7 @@ public class CreditDetails {
 		 driver.findElement(Credit_Detail).click();
 	 }
 	 
-	  By Creditlimit = By.cssSelector("input.mrc-input");  
+	  By Creditlimit = By.cssSelector("input[class='m-input-element']");  
 	 
      public  void Amount(String x) {
     	 driver.findElement(Creditlimit).sendKeys(x);

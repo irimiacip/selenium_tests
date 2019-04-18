@@ -7,7 +7,7 @@ public class History {
 
 	
 	static WebDriver driver;
-	By history_img = By.cssSelector("a[href*='history']");
+	By history_img = By.cssSelector("a[href*='history'] img");
 	 
 	 public History(WebDriver driver) {
 		 this.driver = driver;
@@ -18,7 +18,7 @@ public class History {
 		 Thread.sleep(10000);
 	 }
 	 
-	 By search = By.cssSelector(".mrc-search > input");
+	 By search = By.cssSelector("input[class='m-input-element extra-class-on-input-tag']");
 	 
 	 public void search(String customer) throws InterruptedException {
 		 driver.findElement(search).sendKeys(customer);
@@ -45,7 +45,5 @@ public class History {
 		   public  String  check_nextlevel() {
 			return driver.findElement(level_approved).getText();			   
 		   }
-		    
-
-	 
+		    	 
 }

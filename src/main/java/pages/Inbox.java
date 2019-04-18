@@ -8,7 +8,7 @@ public class Inbox {
 
 
 static WebDriver driver;
-By history_img = By.cssSelector("a[href*='inbox']");
+By history_img = By.cssSelector("a[href*='inbox'] img");
 
 public Inbox(WebDriver driver) {
 	 this.driver = driver;

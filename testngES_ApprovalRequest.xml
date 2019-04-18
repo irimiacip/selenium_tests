@@ -4,8 +4,42 @@
   <test thread-count="5" name="Test">
   <parameter name="myName" value="manisha1"/> 
     <classes>
-      <class name="net.metrosystems.seleniumtests.TestFlowDE"/>
-     <!--   <class name="net.metrosystems.seleniumtests.SeleniumTestsApplicationTests"/> -->
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES1"/> 
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES2_sendBack"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES1_Resend"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES2_Approved"/>
+ 
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES3_sendBack"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES2_Resend"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES3_Approved"/>
+ 
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES4_sendBack"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES3_Resend"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES4_Approved"/>
+        
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES5_sendBack"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES4_Resend"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES5_Approved"/>
+    
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES6_sendBack"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES5_Resend"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES6_Approved"/>
+    
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES7_sendBack"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES6_Resend"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES7_sendBack(S1)"/>
+    
+    
+     <class name="net.metrosystems.seleniumtestsES.TestFlowES1_sendBack"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES1_Approved"/>
+
+    
+    
+    
+    
+    
+    
+    
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
