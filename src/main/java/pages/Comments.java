@@ -28,7 +28,7 @@ public class Comments {
 	 public  void sent_comment() {
 		 driver.findElement(comment_push).click();
 	 }
-	  By comment_value = By.cssSelector(".content");
+	  By comment_value = By.cssSelector("div[class='content']");
 	
 	 public  String getcomment_value() {
 		 return driver.findElement(comment_value).getText();
