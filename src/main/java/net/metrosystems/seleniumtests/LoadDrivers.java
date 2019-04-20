@@ -81,8 +81,6 @@ public class LoadDrivers {
              	    caps.setCapability("version", "latest");
                	    caps.setCapability("screenResolution", "1920x1200");
 
-             	   
-             	   
              	 //  caps.setCapability("app","sauce-storage:test.exe");
          //    	  caps.setCapability("prerun", WindowsExecutable.callExe());
              	    

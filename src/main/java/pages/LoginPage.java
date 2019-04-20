@@ -5,6 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import net.metrosystems.seleniumtests.Highlighlit;
 public class LoginPage {
 
 	static WebDriver driver;
@@ -34,7 +36,7 @@ public class LoginPage {
 	 {
 		 this.driver = driver;
 	 }	 
-	 public void typeUserName(String username_value) {
+	 public void typeUserName(String username_value) {		
 		 driver.findElement(username).sendKeys(username_value);
 	 }	 
  public void typePassword(String password_value) {
