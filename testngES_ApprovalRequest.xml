@@ -27,7 +27,7 @@
     
     <class name="net.metrosystems.seleniumtestsES.TestFlowES7_sendBack"/>
     <class name="net.metrosystems.seleniumtestsES.TestFlowES6_Resend"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES7_sendBack(S1)"/>
+    <class name="net.metrosystems.seleniumtestsES.TestFlowES7_sendBackS1"/>
     
     
      <class name="net.metrosystems.seleniumtestsES.TestFlowES1_sendBack"/>
