@@ -3,6 +3,7 @@ package net.metrosystems.seleniumtests;
 import java.io.IOException;
 import java.net.URL;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -39,7 +40,9 @@ public class LoadDrivers {
            	    caps.setCapability("platform", "Linux");
            	    caps.setCapability("version", "latest");
            	    caps.setCapability("screenResolution", "1024x768");
-           	 
+           	 caps.setCapability("name", "Web Driver demo Test");
+           	caps.setCapability("tags", "Tag1");
+           	caps.setCapability("build", "build-1234");
            	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
     	  		
 /*    	  		FirefoxOptions  options = new FirefoxOptions();
@@ -62,7 +65,9 @@ public class LoadDrivers {
        	    caps.setCapability("platform", "Linux");
        	    caps.setCapability("version", "latest");
        	    caps.setCapability("screenResolution", "1024x768");
-
+       	 caps.setCapability("name", "Web Driver demo Test");
+       	caps.setCapability("tags", "Tag1");
+       	caps.setCapability("build", "build-1234");
        	    WebDriver driver = new RemoteWebDriver(new URL(URL), caps);       	 
     	 /* 		ChromeOptions options = new ChromeOptions();
                 options.setExperimentalOption("useAutomationExtension", false);
@@ -80,7 +85,9 @@ public class LoadDrivers {
              	    caps.setCapability("platform", "Windows 10");
              	    caps.setCapability("version", "latest");
                	    caps.setCapability("screenResolution", "1920x1200");
-
+               	 caps.setCapability("name", "Web Driver demo Test");
+               	caps.setCapability("tags", "Tag1");
+               	caps.setCapability("build", "build-1234");
              	 //  caps.setCapability("app","sauce-storage:test.exe");
          //    	  caps.setCapability("prerun", WindowsExecutable.callExe());
              	    
@@ -101,6 +108,9 @@ public class LoadDrivers {
          	    caps.setCapability("platform", "Windows 10");
          	    caps.setCapability("version", "latest");
            	    caps.setCapability("screenResolution", "1280x1024");
+           	 caps.setCapability("name", "Web Driver demo Test");
+           	caps.setCapability("tags", "Tag1");
+           	caps.setCapability("build", "build-1234");
          	 //  caps.setCapability("app","sauce-storage:test.exe");
      //    	  caps.setCapability("prerun", WindowsExecutable.callExe());
          	    
@@ -121,6 +131,9 @@ public class LoadDrivers {
          	    caps.setCapability("platform", "Windows 10");
          	    caps.setCapability("version", "latest");
            	    caps.setCapability("screenResolution", "1280x1024");
+           	 caps.setCapability("name", "Web Driver demo Test");
+           	caps.setCapability("tags", "Tag1");
+           	caps.setCapability("build", "build-1234");
          	 //  caps.setCapability("app","sauce-storage:test.exe");
      //    	  caps.setCapability("prerun", WindowsExecutable.callExe());
          	    
@@ -137,16 +150,5 @@ public class LoadDrivers {
       	  	  }
     	  
     }
-    
-    	
-    	
-    
-    
-   
-    
-
-
-   
-
-    	
+ 	
 }

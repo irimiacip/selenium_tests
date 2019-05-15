@@ -17,6 +17,7 @@ import org.testng.annotations.Test;
 import net.metrosystems.seleniumtests.CredentialJson;
 import net.metrosystems.seleniumtests.DBconnect;
 import net.metrosystems.seleniumtests.File;
+import net.metrosystems.seleniumtests.Highlighlit;
 import net.metrosystems.seleniumtests.LoadDrivers;
 import net.metrosystems.seleniumtests.QuitDrivers;
 import pages.Attachements;
@@ -41,52 +42,40 @@ public class TestFlowES1 {
 
 	@BeforeClass
 	public void before() throws IOException, InterruptedException {
-		
-		
 		logger.info("start load data ");
 		jsondata = CredentialJson.returnCredential(0); // return first block from json (country DE)
 		driver = LoadDrivers.driver(browser, jsondata.get(9));
 		logger.info("end start load data ");
-		logger.info("check login page ");
 		LoginPage login = new LoginPage(driver);
 		boolean objectscheck_login = login.check_objects();
 		Assert.assertTrue(objectscheck_login);
-		logger.info("login page loadded correctly");
-		logger.info("perform login");
 		login.typeUserName(jsondata.get(7));
 		login.typePassword(jsondata.get(8));
 		login.clickOnLoginButton();
-		logger.info("check login");
-		Thread.sleep(9000);
+		Thread.sleep(5000);
 		String title = driver.getTitle();
 		System.out.println("afisare titlul 1: = " + title);
 		Assert.assertEquals(title, "Metro Risk Check");
 		logger.info("login succesfully");
-
 	}
 
 	@Test(priority = 1)
 
-	public void test1App() throws InterruptedException {
-
-		
-		
+	public void test1App() throws InterruptedException {		
 		MainPage mainpage = new MainPage(driver);
 		boolean objectscheck_mainpage = mainpage.object_check();
 		Assert.assertTrue(objectscheck_mainpage);
 		mainpage.limitcheck();
 		mainpage.history();
 		mainpage.inbox();
-
 	}
 
 	@Test(priority = 2)
 
 	public void test2App() throws InterruptedException {
-		logger.info("Insert Customer for credit amount = 5000");
+		logger.info("Insert Customer for credit amount = 1000");
 		Thread.sleep(5000);
 		String title = driver.getTitle();
-		Thread.sleep(5000);
 		System.out.println("afisare titlul 2: = " + title);
 		Assert.assertEquals(title, "Metro Risk Check");
 		LimitCheck limit = new LimitCheck(driver);
@@ -97,126 +86,73 @@ public class TestFlowES1 {
 			System.out.println(jsondata.get(i));
 		}
 		dbvalue = DBconnect.getPostrgresSqlConnection(jsondata.get(5), jsondata.get(3), jsondata.get(4));
-
 		for (int i = 0; i < dbvalue.size(); i++) {
 			System.out.println("value from db : " + dbvalue.get(i));
 		}
-
 	}
 
 	@Test(priority = 3)
 
 	public void test3App() throws InterruptedException {
-
-		// Request Credit ( click button)
-		logger.info("Perform Request");
-		// Request.RequestPerform();
 		Request request = new Request(driver);
 		request.RequestPerform();
-
-		logger.info("Perform Request DONE");
 	}
 
 	@Test(priority = 4) 
 
 	public void test4App() throws InterruptedException {
-		// Customer detail TAB open default
 		CustomerDetails customer_detail = new CustomerDetails(driver);
-		// check the name
 		String name_from_Screen = customer_detail.findName();
-		System.out.println("nume din ecran" + name_from_Screen);
-		logger.info("check name of the customer displayed in the screen");
 		assertEquals(customer_detail.findName(), "* 15/32901 BARLOS SC");
-		logger.info("check name of the cusotmer okay");
-
-		// check the button submit request exist
-
-		System.out.println("butonul exista " + customer_detail.check_RequestCredit());
-		logger.info("check button");
 		assertEquals(customer_detail.check_RequestCredit(), true);
-		logger.info("button check susccefully");
 	}
 
 	@Test(priority = 5) 
 
 	public void test5App() throws InterruptedException {
 
-		// Credit detail TAB
 		CreditDetails credit_details = new CreditDetails(driver);
-		// clik on the TAB
 		credit_details.Credit_Detail();
-		// insert value
 		credit_details.Amount("1000");
-		// select values from dropdown
 		credit_details.creditproduct();
-		Thread.sleep(5000);
 		credit_details.creditperiod();
-		// The third value is autopopulated
 	}
 
 	@Test(priority = 6) 
 
 	public void test6App() {
-		// sales tab
-		System.out.println("click sales");
-		logger.info("click sales");
-		// Sales.sales();
 		Sales sales = new Sales(driver);
 		sales.sales();
-		logger.info("open page");
-
-		logger.info("check request limit buton");
 		assertEquals(Sales.check_RequestCredit(), true);
-		logger.info("check succefully limit buton");
-
 	}
 
 	@Test(priority = 7) 
-	public void test7App() {
-		logger.info("click atachement");
+	public void test7App() {		
 		Comments comment = new Comments(driver);
-
-		comment.comments_access();
-		logger.info("open atachement page");
-
-		logger.info("add comments");
-		comment.add_comment("TEST QA1");
+		comment.comments_access();		
+		comment.add_comment("Comment sent by CC");
 		comment.sent_comment();
-		logger.info("done");
-		logger.info("check sent comment");
-		assertEquals(comment.getcomment_value(), "TEST QA1 ");
-		logger.info("sent succesfully");
+		assertEquals(comment.getcomment_value(), "Comment sent by CC ");
 	}
 
 	@Test(priority = 8) 
-	public void test8App() throws IOException {
-
-
-   
-		logger.info("atachement run");
-
+	public void test8App() throws IOException, InterruptedException {   
+		
 		Attachements atachement = new Attachements(driver);
-		logger.info("atachement access");
 		atachement.attachements_access();
-
-		// upload functionality is FUCK-UP
-/*		   File upload = new File(driver);
-		   upload.uploadfile("activex.vch");
-		   logger.info("perform upload");
+		// upload functionality in applicaiton is wrong implemented		
+		   File upload = new File(driver);
+		   upload.uploadfile("activex.vch");		
 		   atachement.click_upload();
-		   logger.info("upload succesfully");*/
-		   
+		   logger.info("upload succesfully");		   
 		logger.info("sent request");
 		atachement.sent_request();
-		logger.info("atachement done");
 	}
 
 
 	
 	@AfterClass
-
 	public void after() throws IOException {
-
 		String name = driver.getClass().getName();
 		if (name.contains("InternetExplorerDriver")) {
 			driver.quit();

@@ -28,7 +28,7 @@ public class TestFlowES2 {
 	public WebDriver driver;
 	public static List<String> jsondata;
 	public static List<String> dbvalue;
-final static Logger logger = Logger.getLogger(TestFlowES1.class);
+final static Logger logger = Logger.getLogger(TestFlowES2.class);
 
 String browser = System.getProperty("propertyName");
 	
@@ -39,17 +39,13 @@ String browser = System.getProperty("propertyName");
 		jsondata=CredentialJson.returnCredential(1); // return second block from json (country DE)
 		driver = LoadDrivers.driver(browser,jsondata.get(9));
 		logger.info("end start load data ");	
-		logger.info("check login page ");
 		LoginPage login = new LoginPage(driver);
        boolean objectscheck_login = login.check_objects();       
        Assert.assertTrue(objectscheck_login);
-       logger.info("login page loadded correctly");      
-       logger.info("perform login");
         login.typeUserName(jsondata.get(7));
 		login.typePassword(jsondata.get(8));
 		login.clickOnLoginButton();  
-		logger.info("check login");
-		Thread.sleep(9000);   	
+		Thread.sleep(5000);   	
 		String title = driver.getTitle();
 		System.out.println("afisare titlul 1: = " + title);
 		Assert.assertEquals(title, "Metro Risk Check");	  
@@ -58,31 +54,21 @@ String browser = System.getProperty("propertyName");
 	    }
 			
 	@Test(priority = 1)
-   // go to inbox
 	public void test1App() throws InterruptedException {
-
-		Inbox inbox = new Inbox(driver);
-		
-		inbox.inboxclick(); // open inbox
-		
-		inbox.selectcustomer(); // select customer
-		
-		assertEquals(inbox.amount(),"1,000");
-        
+		Inbox inbox = new Inbox(driver);		
+		inbox.inboxclick(); // open inbox		
+		inbox.selectcustomer(); // select customer		
+		assertEquals(inbox.amount(),"1,000");       
 		inbox.click_cancel();//cancel request flow
 	}
 	
 	 @Test (priority = 2)
 	public void test2App() throws InterruptedException {
 		// go to history page
-		History history = new History(driver);
-		
+		History history = new History(driver);		
 		history.historyclick();
-
-		history.search(jsondata.get(10));
-		
-		history.searchCustomer();
-		
+		history.search(jsondata.get(10));		
+		history.searchCustomer();		
 		assertEquals(history.check_nextlevel(), "SM");
 	}
 	

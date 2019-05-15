@@ -4,42 +4,30 @@
   <test thread-count="5" name="Test">
   <parameter name="myName" value="manisha1"/> 
     <classes>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES1"/> 
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES2_sendBack"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES1_Resend"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES2_Approved"/>
- 
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES3_sendBack"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES2_Resend"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES3_Approved"/>
- 
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES4_sendBack"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES3_Resend"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES4_Approved"/>
-        
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES5_sendBack"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES4_Resend"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES5_Approved"/>
-    
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES6_sendBack"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES5_Resend"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES6_Approved"/>
-    
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES7_sendBack"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES6_Resend"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES7_sendBackS1"/>
-    
-    
-     <class name="net.metrosystems.seleniumtestsES.TestFlowES1_sendBack"/>
-    <class name="net.metrosystems.seleniumtestsES.TestFlowES1_Approved"/>
+  <!--   <class name="net.metrosystems.seleniumtestsES.TestFlowES1"/> -->   <!-- CC -->
+   
 
+      <class name="net.metrosystems.seleniumtestsES.SM_sendBack"/>   <!-- SM -->
+      <class name="net.metrosystems.seleniumtestsES.CC_Resend"/>    <!--  CC-->
+       <class name="net.metrosystems.seleniumtestsES.SM_Approved"/>  <!-- SM -->
+ 
+   <class name="net.metrosystems.seleniumtestsES.CM_sendBack"/>  <!--CM  -->
+   <class name="net.metrosystems.seleniumtestsES.SM_Resend"/>     <!--  SM-->
+  <class name="net.metrosystems.seleniumtestsES.CM_Approved"/>  <!-- CM -->
+ 
+     <class name="net.metrosystems.seleniumtestsES.HOC_sendBack"/>     <!--  HOC-->
+   <class name="net.metrosystems.seleniumtestsES.CM_Resend"/>      <!--  CM-->
+  <class name="net.metrosystems.seleniumtestsES.HOC_Approved"/>    <!-- HOC -->
+         
+  <class name="net.metrosystems.seleniumtestsES.CFO_sendBack"/>     <!-- CFO -->
+    <class name="net.metrosystems.seleniumtestsES.HOC_Resend"/>      <!--  HOC-->
+  <class name="net.metrosystems.seleniumtestsES.CFO_Approved"/>     <!-- CFO -->
     
-    
-    
-    
-    
-    
-    
+
+    <class name="net.metrosystems.seleniumtestsES.CC_final_Approved"/>     <!--  -->
+   <class name="net.metrosystems.seleniumtestsES.AM_final_Approved"/>     <!--  -->
+
+   
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

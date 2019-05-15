@@ -1,7 +1,7 @@
 [
   {
   "id":1,
-  "env_data":"PP",
+  "env_data":"DEV",
   "country":"ES",
   "database_type":"PostgreSql", 
   "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","jdbc:postgresql://psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
@@ -11,7 +11,7 @@
   
   {
   "id":2,
-  "env_data":"PP",
+  "env_data":"DEV",
   "country":"ES",
   "database_type":"PostgreSql", 
   "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","jdbc:postgresql://psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
@@ -21,21 +21,31 @@
   
   {
   "id":3,
-  "env_data":"PP",
-  "country":"AT",
+  "env_data":"DEV",
+  "country":"ES",
   "database_type":"PostgreSql", 
-  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
-  "appl_connection":["user","pass","link"],
+  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","jdbc:postgresql://psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
+  "appl_connection":["ciprian.irimia@metrosystems.net","Metro_2019#04","https://mrc-dev.metrosystems.net/creditlimit#/"],
   "test_data": ["customervalueat_1","customervalueat_2","customervalueat_3","customervalueat_4"]  
   },
   
     {
   "id":4,
-  "env_data":"PP",
-  "country":"PK",
+  "env_data":"DEV",
+  "country":"ES",
   "database_type":"PostgreSql", 
-  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
-  "appl_connection":["user","pass","link"],
+  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","jdbc:postgresql://psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
+  "appl_connection":["ciprian.irimia@metrosystems.net","Metro_2019#04","https://mrc-dev.metrosystems.net/creditlimit#/"],
+  "test_data": ["customervaluepk_1","customervaluepk_2","customervaluepk_3","customervaluepk_4"]  
+  },
+  
+   {
+  "id":5,
+  "env_data":"DEV",
+  "country":"ES",
+  "database_type":"PostgreSql", 
+  "database_connection":["mcc_test9","3TUwMU0pBFM22VT$sYTh","jdbc:postgresql://psql0.opsql.mrcdev0.test9.mcc.be-gcw1.metroscales.io","5432"],
+  "appl_connection":["ciprian.irimia@metrosystems.net","Metro_2019#04","https://mrc-dev.metrosystems.net/creditlimit#/"],
   "test_data": ["customervaluepk_1","customervaluepk_2","customervaluepk_3","customervaluepk_4"]  
   }
  ]

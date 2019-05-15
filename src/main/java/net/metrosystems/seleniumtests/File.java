@@ -8,9 +8,14 @@ import java.nio.file.Paths;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+
+import pages.Attachements;
+
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 public class File {
 	static WebDriver driver;
+	final static Logger logger = Logger.getLogger(File.class);
 	public static String path_file = System.getProperty("user.home")+"/Desktop/";
 	
 	public static void createfile(String filename, String content) throws IOException {
@@ -27,10 +32,9 @@ public class File {
 		 this.driver = driver;
 	 }
 	public static void uploadfile(String filename) {
-		
+		logger.info("select file for upload");
 		WebElement uploadElement = driver.findElement(By.cssSelector("input[type='file']"));
 
-        // enter the file path onto the file-selection input field
         uploadElement.sendKeys("C:\\Windows\\SysWOW64\\Macromed\\Flash\\"+filename);
        
         

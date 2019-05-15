@@ -3,6 +3,7 @@ package pages;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -10,10 +11,13 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import net.metrosystems.seleniumtests.CredentialJson;
+import net.metrosystems.seleniumtests.Highlighlit;
+
 
 public class MainPage {
 	public static List<String> jsondata;
 	static WebDriver driver;
+	final static Logger logger = Logger.getLogger(MainPage.class);
 
 	      //By limitcheck = By.partialLinkText("Limit Check");
 	By limitcheck = By.cssSelector("a.mrc-tile:nth-child(1) > label:nth-child(1) > h2:nth-child(1)"); 
@@ -62,38 +66,49 @@ public class MainPage {
 			 this.driver = driver;
 		}
 		 public void limitcheck() throws InterruptedException {
+			 logger.info("check limitcheck_link");
+			 WebElement limitlink = driver.findElement(By.cssSelector("a.mrc-tile:nth-child(1) > label:nth-child(1) > h2:nth-child(1)"));
+			 Highlighlit.highLighterMethod(driver,limitlink);
 			 driver.findElement(limitcheck).click();
-			 Thread.sleep(1000);
+			 Thread.sleep(2000);
 			 driver.navigate().back();
+			 logger.info("check limitcheck_img");
+			 WebElement limitimg = driver.findElement(By.cssSelector("a[href*='limitCheck'] img"));
+			 Highlighlit.highLighterMethod(driver,limitimg);
 			 driver.findElement(limitcheck_img).click();
-			 Thread.sleep(1000);
+			 Thread.sleep(2000);
 			 driver.navigate().back();
 		 }	 
 	 public void history() throws InterruptedException {
+		 logger.info("history");
+		 WebElement historylink = driver.findElement(By.cssSelector("a.mrc-tile:nth-child(2) > label:nth-child(1) > h2:nth-child(1)"));
+		 Highlighlit.highLighterMethod(driver,historylink);
 		 driver.findElement(history).click();
-		 Thread.sleep(1000);
+		 Thread.sleep(2000);
 		 driver.navigate().back();
+		 logger.info("history_img");
+		 WebElement historyimg = driver.findElement(By.cssSelector("a[href*='history'] img"));
+		 Highlighlit.highLighterMethod(driver,historyimg);
 		 driver.findElement(history_img).click();
-		 Thread.sleep(1000);
+		 Thread.sleep(2000);
 		 driver.navigate().back();
 		 }	 
 	 
 
 		 
 	 public void inbox() throws InterruptedException {
-		 //Thread.sleep(9000);
-		 //System.out.println("TEST INBOX BEHAVIOUR");
-		// driver.findElement(inbox_img).click(); 
-		// jsondata=CredentialJson.returnCredential(0);
-		// LoginPage login = new LoginPage(driver);
-		// login.typeUserName(jsondata.get(7));
-		//	login.typePassword(jsondata.get(8));
-		//	login.clickOnLoginButton(); 
-
-		 Thread.sleep(1000);
+		 logger.info("check inbox_img");
+		 WebElement inboximg = driver.findElement(By.cssSelector("a.mrc-tile:nth-child(3) > label:nth-child(1) > h2:nth-child(1)"));
+		 Highlighlit.highLighterMethod(driver,inboximg);
+		 Thread.sleep(5000);
+		 driver.findElement(inbox_img).click();
+		 Thread.sleep(5000);
 		 driver.navigate().back();
+		 logger.info("check inbox");
+		 WebElement inboxlink = driver.findElement(By.cssSelector("a[href*='inbox'] img"));
+		 Highlighlit.highLighterMethod(driver,inboxlink);
 		 driver.findElement(inbox).click();
-		 Thread.sleep(1000);
+		 Thread.sleep(5000);
 		 driver.navigate().back();
 	 } 
 		
