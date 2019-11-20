@@ -703,3 +703,1858 @@ INFO	2019-04-10 16:22:23,175	25570	net.metrosystems.seleniumtestsDE.TestFlowDE1	
 INFO	2019-04-10 16:22:23,177	25572	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	perform login
 INFO	2019-04-10 16:22:27,291	29686	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	check login
 INFO	2019-04-10 16:22:37,888	40283	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	login succesfully
+INFO	2019-04-15 16:02:49,953	0	net.metrosystems.seleniumtestsDE.TestFlowDE1	[main]	start load data 
+INFO	2019-04-16 11:42:18,762	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-16 11:42:33,246	14484	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-16 11:42:33,246	14484	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-16 11:42:41,603	22841	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-16 11:42:41,604	22842	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-16 11:42:44,887	26125	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-16 11:42:54,278	35516	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-16 14:24:16,428	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-16 14:24:30,805	14377	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-16 14:24:30,806	14378	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-16 14:24:40,716	24288	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-16 14:24:40,716	24288	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-16 14:24:45,237	28809	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-16 14:24:54,582	38154	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-16 14:27:25,949	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-16 14:27:39,580	13631	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-16 14:27:39,580	13631	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-16 14:27:47,664	21715	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-16 14:27:47,664	21715	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-16 14:27:51,022	25073	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-16 14:28:00,300	34351	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-16 14:47:02,782	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-16 14:47:14,711	11929	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-16 14:47:14,711	11929	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-16 14:47:30,471	27689	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-16 14:47:30,473	27691	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-16 14:47:33,770	30988	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-16 14:47:45,078	42296	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-16 16:49:27,671	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-16 16:49:41,937	14266	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-16 16:49:41,938	14267	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-16 16:49:54,052	26381	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-16 16:49:54,053	26382	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-16 16:49:58,395	30724	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-16 16:50:07,691	40020	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-16 16:51:24,467	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-16 16:51:38,694	14227	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-16 16:51:38,694	14227	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-16 16:51:47,023	22556	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-16 16:51:47,029	22562	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-16 16:51:52,659	28192	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-16 16:52:01,913	37446	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-16 16:52:31,889	67422	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-16 16:53:25,274	120807	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-16 16:53:32,883	128416	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-16 16:53:36,383	131916	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-16 16:53:36,983	132516	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check name of the cusotmer okay
+INFO	2019-04-16 16:53:37,524	133057	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check button
+INFO	2019-04-16 16:53:38,060	133593	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	button check susccefully
+INFO	2019-04-16 16:53:55,839	151372	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click sales
+INFO	2019-04-16 16:53:57,041	152574	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open page
+INFO	2019-04-16 16:53:57,041	152574	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check request limit buton
+INFO	2019-04-16 16:53:57,665	153198	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check succefully limit buton
+INFO	2019-04-16 16:53:57,672	153205	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-16 16:53:58,647	154180	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open atachement page
+INFO	2019-04-16 16:53:58,649	154182	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	add comments
+INFO	2019-04-16 16:54:01,105	156638	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	done
+INFO	2019-04-16 16:54:01,105	156638	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check sent comment
+INFO	2019-04-16 16:54:03,068	158601	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent succesfully
+INFO	2019-04-16 16:54:03,070	158603	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-16 16:54:03,072	158605	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-16 16:54:04,681	160214	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-16 16:54:05,547	161080	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement done
+INFO	2019-04-16 16:54:50,718	206251	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-16 16:55:06,212	221745	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-16 16:55:06,213	221746	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-16 16:55:14,484	230017	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-16 16:55:14,484	230017	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-16 16:55:20,004	235537	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-16 16:55:29,276	244809	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-16 17:06:15,191	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-16 17:06:31,044	15853	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-16 17:06:31,045	15854	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-16 17:06:41,772	26581	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-16 17:06:41,772	26581	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-16 17:06:46,975	31784	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-16 17:06:56,283	41092	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-16 17:07:23,690	68499	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-16 17:08:16,924	121733	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-16 17:08:22,665	127474	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-16 17:08:26,505	131314	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-16 17:08:27,044	131853	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check name of the cusotmer okay
+INFO	2019-04-16 17:08:29,612	134421	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check button
+INFO	2019-04-16 17:08:30,133	134942	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	button check susccefully
+INFO	2019-04-16 17:08:44,526	149335	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click sales
+INFO	2019-04-16 17:08:45,970	150779	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open page
+INFO	2019-04-16 17:08:45,971	150780	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check request limit buton
+INFO	2019-04-16 17:08:46,497	151306	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check succefully limit buton
+INFO	2019-04-16 17:08:46,498	151307	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-16 17:08:47,170	151979	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open atachement page
+INFO	2019-04-16 17:08:47,171	151980	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	add comments
+INFO	2019-04-16 17:08:49,627	154436	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	done
+INFO	2019-04-16 17:08:49,628	154437	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check sent comment
+INFO	2019-04-16 17:08:51,324	156133	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent succesfully
+INFO	2019-04-16 17:08:51,325	156134	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-16 17:08:51,326	156135	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-16 17:08:52,015	156824	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-16 17:08:53,674	158483	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement done
+INFO	2019-04-16 17:09:38,424	203233	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-16 17:09:54,567	219376	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-16 17:09:54,568	219377	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-16 17:10:02,504	227313	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-16 17:10:02,504	227313	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-16 17:10:05,485	230294	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-16 17:10:14,815	239624	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 16:16:26,108	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 16:16:38,441	12333	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 16:16:38,444	12336	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 16:16:45,059	18951	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 16:16:45,060	18952	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 16:16:48,471	22363	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 16:18:11,165	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 16:18:27,487	16322	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 16:18:27,489	16324	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 16:18:34,202	23037	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 16:18:34,203	23038	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 16:18:38,471	27306	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 16:18:47,704	36539	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 16:21:49,066	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 16:22:01,763	12697	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 16:22:01,763	12697	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 16:22:07,923	18857	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 16:22:07,925	18859	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 16:22:11,694	22628	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 16:22:21,965	32899	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 16:22:50,430	61364	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 16:23:45,173	116107	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 16:23:50,946	121880	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-19 16:24:10,242	141176	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click sales
+INFO	2019-04-19 16:24:11,122	142056	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open page
+INFO	2019-04-19 16:24:11,122	142056	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check request limit buton
+INFO	2019-04-19 16:24:11,638	142572	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check succefully limit buton
+INFO	2019-04-19 16:24:11,641	142575	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-19 16:24:12,328	143262	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open atachement page
+INFO	2019-04-19 16:24:12,328	143262	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	add comments
+INFO	2019-04-19 16:24:15,239	146173	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	done
+INFO	2019-04-19 16:24:15,240	146174	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check sent comment
+INFO	2019-04-19 16:27:43,463	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 16:27:56,060	12597	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 16:27:56,062	12599	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 16:28:02,910	19447	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 16:28:02,910	19447	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 16:28:07,395	23932	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 16:28:16,689	33226	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 16:28:44,671	61208	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 17:14:42,955	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 17:15:06,355	23400	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 17:15:06,358	23403	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 17:15:10,798	27843	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 17:15:10,801	27846	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 17:15:15,650	32695	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 17:15:25,103	42148	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 17:16:08,314	85359	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 17:17:06,717	143762	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 17:30:39,929	1	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 17:31:09,924	29996	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 17:31:09,924	29996	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 17:31:14,850	34922	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 17:31:14,851	34923	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 17:31:20,429	40501	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 17:31:29,803	49875	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 17:32:09,195	89267	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 17:33:05,145	145217	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 17:33:11,415	151487	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-19 17:33:27,609	167681	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click sales
+INFO	2019-04-19 17:33:28,927	168999	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open page
+INFO	2019-04-19 17:33:28,927	168999	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check request limit buton
+INFO	2019-04-19 17:33:30,391	170463	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check succefully limit buton
+INFO	2019-04-19 17:33:30,394	170466	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-19 17:33:31,625	171697	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open atachement page
+INFO	2019-04-19 17:33:31,626	171698	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	add comments
+INFO	2019-04-19 17:33:36,457	176529	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	done
+INFO	2019-04-19 17:33:36,458	176530	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check sent comment
+INFO	2019-04-19 17:33:37,484	177556	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-19 17:33:37,485	177557	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-19 17:33:43,794	183866	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-19 17:33:45,228	185300	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement done
+INFO	2019-04-19 18:29:59,441	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 18:30:24,935	25494	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 18:30:24,937	25496	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 18:30:31,439	31998	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 18:30:31,440	31999	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 18:30:36,794	37353	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 18:30:46,201	46760	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 18:31:25,931	86490	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 18:32:22,263	142822	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 18:33:34,609	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 18:34:02,346	27737	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 18:34:02,347	27738	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 18:34:05,940	31331	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 18:34:05,940	31331	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 18:34:10,965	36356	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 18:34:20,318	45709	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 18:34:58,714	84105	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 18:35:56,051	141442	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 18:36:02,200	147591	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-19 18:36:16,940	162331	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click sales
+INFO	2019-04-19 18:36:18,079	163470	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open page
+INFO	2019-04-19 18:36:18,079	163470	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check request limit buton
+INFO	2019-04-19 18:36:18,823	164214	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check succefully limit buton
+INFO	2019-04-19 18:36:18,824	164215	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-19 18:36:19,914	165305	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open atachement page
+INFO	2019-04-19 18:36:19,914	165305	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	add comments
+INFO	2019-04-19 18:36:24,307	169698	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	done
+INFO	2019-04-19 18:36:24,308	169699	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check sent comment
+INFO	2019-04-19 18:36:25,350	170741	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent succesfully
+INFO	2019-04-19 18:36:25,352	170743	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-19 18:36:25,354	170745	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-19 18:36:30,718	176109	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform upload
+INFO	2019-04-19 18:36:33,024	178415	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	upload succesfully
+INFO	2019-04-19 18:36:33,024	178415	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-19 18:47:09,374	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 18:47:40,737	31363	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 18:47:40,737	31363	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 18:47:45,880	36506	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 18:47:45,881	36507	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 18:47:51,964	42590	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 18:48:01,426	52052	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 18:48:46,182	96808	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 18:49:42,355	152981	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 18:49:49,230	159856	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-19 18:49:56,816	167442	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-19 18:50:18,845	189471	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click sales
+INFO	2019-04-19 18:50:19,997	190623	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open page
+INFO	2019-04-19 18:50:19,998	190624	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check request limit buton
+INFO	2019-04-19 18:50:21,377	192003	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check succefully limit buton
+INFO	2019-04-19 18:50:21,378	192004	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-19 18:50:22,917	193543	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open atachement page
+INFO	2019-04-19 18:50:22,918	193544	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	add comments
+INFO	2019-04-19 18:50:28,246	198872	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	done
+INFO	2019-04-19 18:50:28,247	198873	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check sent comment
+INFO	2019-04-19 18:50:29,370	199996	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent succesfully
+INFO	2019-04-19 18:50:29,374	200000	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-19 18:50:29,376	200002	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-19 18:50:36,433	207059	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform upload
+INFO	2019-04-19 18:50:38,145	208771	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	upload succesfully
+INFO	2019-04-19 18:50:38,145	208771	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-19 19:42:30,549	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 19:42:48,451	17902	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 19:42:48,452	17903	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 19:42:55,787	25238	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 19:42:55,787	25238	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 19:42:59,922	29373	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 19:43:09,293	38744	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 19:43:32,634	62085	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 19:44:29,332	118783	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 19:44:35,505	124956	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-19 19:44:35,507	124958	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-19 19:44:35,508	124959	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-19 19:44:37,053	126504	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-19 19:44:38,256	127707	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open atachement page
+INFO	2019-04-19 19:44:38,256	127707	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	add comments
+INFO	2019-04-19 19:44:42,958	132409	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	done
+INFO	2019-04-19 19:44:42,960	132411	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check sent comment
+INFO	2019-04-19 19:44:43,965	133416	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent succesfully
+INFO	2019-04-19 19:44:43,968	133419	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click sales
+INFO	2019-04-19 19:44:45,648	135099	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open page
+INFO	2019-04-19 19:44:45,649	135100	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check request limit buton
+INFO	2019-04-19 19:44:46,339	135790	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check succefully limit buton
+INFO	2019-04-19 19:45:05,343	154794	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-19 19:45:11,217	160668	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-19 19:45:11,218	160669	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-19 19:45:12,296	161747	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-19 19:45:14,225	163676	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement done
+INFO	2019-04-19 19:47:35,462	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 19:47:56,793	21331	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 19:47:56,794	21332	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 19:48:01,149	25687	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 19:48:01,150	25688	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 19:48:05,378	29916	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 19:48:14,734	39272	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 19:48:41,577	66115	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 19:49:37,232	121770	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 19:49:43,608	128146	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-19 19:49:43,610	128148	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-19 19:49:43,611	128149	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-19 19:54:20,467	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 19:54:42,719	22252	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 19:54:42,719	22252	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 19:54:47,448	26981	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 19:54:47,450	26983	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 19:54:51,530	31063	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 19:55:00,842	40375	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 19:55:34,232	73765	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 19:56:30,448	129981	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 19:56:36,614	136147	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-19 19:56:36,616	136149	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-19 19:56:36,618	136151	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-19 19:59:42,217	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 20:00:09,346	27129	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 20:00:09,346	27129	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 20:00:12,516	30299	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 20:00:12,517	30300	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 20:00:16,966	34749	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 20:00:26,258	44041	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 20:00:26,277	44060	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 20:01:21,802	99585	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 20:01:28,168	105951	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-19 20:01:28,171	105954	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-19 20:01:29,823	107606	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-19 20:01:29,824	107607	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-19 20:01:34,565	112348	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform upload
+INFO	2019-04-19 20:01:35,748	113531	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	upload succesfully
+INFO	2019-04-19 20:01:35,749	113532	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-19 20:04:18,617	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-19 20:04:44,426	25809	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-19 20:04:44,426	25809	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-19 20:04:47,836	29219	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-19 20:04:47,839	29222	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-19 20:04:52,973	34356	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-19 20:05:03,152	44535	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-19 20:05:03,158	44541	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-19 20:06:00,998	102381	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-19 20:06:07,315	108698	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-19 20:06:07,318	108701	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-19 20:06:09,125	110508	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-19 20:06:09,125	110508	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-19 20:06:15,006	116389	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform upload
+INFO	2019-04-19 20:06:16,319	117702	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	upload succesfully
+INFO	2019-04-19 20:06:16,320	117703	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-19 20:06:31,751	133134	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-19 20:06:31,751	133134	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-19 20:06:32,889	134272	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-19 20:06:34,003	135386	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement done
+INFO	2019-04-20 16:31:24,612	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-20 16:31:46,604	21992	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-20 16:31:46,609	21997	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-20 16:37:08,426	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-20 16:37:34,516	26090	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-20 16:37:34,517	26091	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-20 16:37:38,350	29924	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-20 16:37:38,351	29925	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-20 16:37:43,690	35264	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-20 16:37:52,971	44545	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-20 16:37:54,388	45962	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-20 16:38:49,850	101424	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-20 16:38:56,028	107602	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-20 16:39:01,752	113326	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-20 16:39:21,332	132906	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click sales
+INFO	2019-04-20 16:39:22,331	133905	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open page
+INFO	2019-04-20 16:39:22,332	133906	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check request limit buton
+INFO	2019-04-20 16:39:23,030	134604	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check succefully limit buton
+INFO	2019-04-20 16:39:23,034	134608	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-20 16:39:24,113	135687	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open atachement page
+INFO	2019-04-20 16:39:24,114	135688	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	add comments
+INFO	2019-04-20 16:39:28,827	140401	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	done
+INFO	2019-04-20 16:39:28,828	140402	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check sent comment
+INFO	2019-04-20 16:39:29,785	141359	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-20 16:39:29,786	141360	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-20 16:39:31,087	142661	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-20 16:39:32,278	143852	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement done
+INFO	2019-04-20 16:51:04,864	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-20 16:51:27,604	22740	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-20 16:51:27,605	22741	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-20 16:51:30,826	25962	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-20 16:51:30,826	25962	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-20 16:51:36,113	31249	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-20 16:51:45,700	40836	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-20 16:51:46,769	41905	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-20 16:52:42,046	97182	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-20 16:52:48,140	103276	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-20 16:52:53,866	109002	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-20 16:53:11,677	126813	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click sales
+INFO	2019-04-20 16:53:12,606	127742	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open page
+INFO	2019-04-20 16:53:12,607	127743	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check request limit buton
+INFO	2019-04-20 16:53:13,391	128527	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check succefully limit buton
+INFO	2019-04-20 16:53:13,394	128530	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-20 16:53:14,413	129549	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open atachement page
+INFO	2019-04-20 16:53:14,413	129549	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	add comments
+INFO	2019-04-20 16:53:19,437	134573	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	done
+INFO	2019-04-20 16:53:19,437	134573	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check sent comment
+INFO	2019-04-20 16:53:20,114	135250	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent succesfully
+INFO	2019-04-20 16:53:20,117	135253	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-20 16:53:20,119	135255	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-20 16:53:21,235	136371	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-20 16:53:22,352	137488	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement done
+INFO	2019-04-20 17:08:50,182	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-20 17:09:13,505	23323	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-20 17:09:13,506	23324	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-20 17:09:16,688	26506	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-20 17:09:16,691	26509	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-20 17:16:07,208	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-20 17:16:29,522	22314	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-20 17:16:29,526	22318	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-20 17:16:34,476	27268	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-20 17:16:34,478	27270	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-20 17:16:38,671	31463	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-20 17:16:47,951	40743	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-20 17:17:19,852	72644	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-20 17:18:15,359	128151	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request
+INFO	2019-04-20 17:18:21,443	134235	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Perform Request DONE
+INFO	2019-04-20 17:18:27,184	139976	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check name of the customer displayed in the screen
+INFO	2019-04-20 17:18:33,567	146359	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check name of the cusotmer okay
+INFO	2019-04-20 17:18:34,240	147032	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check button
+INFO	2019-04-20 17:18:34,899	147691	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	button check susccefully
+INFO	2019-04-20 17:18:46,836	159628	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click sales
+INFO	2019-04-20 17:18:47,904	160696	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open page
+INFO	2019-04-20 17:18:47,904	160696	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check request limit buton
+INFO	2019-04-20 17:18:48,657	161449	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check succefully limit buton
+INFO	2019-04-20 17:18:48,659	161451	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	click atachement
+INFO	2019-04-20 17:18:49,689	162481	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	open atachement page
+INFO	2019-04-20 17:18:49,689	162481	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	add comments
+INFO	2019-04-20 17:18:53,958	166750	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	done
+INFO	2019-04-20 17:18:53,958	166750	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check sent comment
+INFO	2019-04-20 17:18:55,656	168448	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement run
+INFO	2019-04-20 17:18:55,656	168448	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement access
+INFO	2019-04-20 17:18:56,790	169582	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-20 17:18:57,973	170765	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	atachement done
+INFO	2019-04-20 17:23:22,067	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-20 17:23:47,037	24970	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-20 17:23:47,038	24971	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-20 17:23:50,350	28283	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-20 17:23:50,351	28284	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-20 17:23:54,312	32245	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-20 17:24:03,574	41507	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-20 17:48:26,017	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-20 17:48:47,419	21402	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-20 17:48:47,419	21402	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login page 
+INFO	2019-04-20 17:48:51,175	25158	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login page loadded correctly
+INFO	2019-04-20 17:48:51,175	25158	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	perform login
+INFO	2019-04-20 17:48:51,176	25159	pages.LoginPage	[main]	insert user
+INFO	2019-04-20 17:48:52,754	26737	pages.LoginPage	[main]	insert passs
+INFO	2019-04-20 17:48:54,292	28275	pages.LoginPage	[main]	insert click login
+INFO	2019-04-20 17:48:55,331	29314	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	check login
+INFO	2019-04-20 17:49:04,613	38596	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-21 16:21:40,370	1	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-21 16:21:59,721	19352	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-21 16:24:31,281	0	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-21 16:24:53,737	22456	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-21 16:24:57,605	26324	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 16:24:59,342	28061	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 16:25:00,701	29420	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 16:28:02,982	0	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-21 16:28:26,962	23980	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-21 16:28:30,715	27733	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 16:28:32,631	29649	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 16:28:34,969	31987	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 16:28:41,438	38456	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-21 16:29:01,472	58490	pages.Inbox	[main]	click history img
+INFO	2019-04-21 16:29:37,185	94203	pages.Inbox	[main]	select customer
+INFO	2019-04-21 16:29:49,214	106232	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 16:29:49,988	107006	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 16:29:51,285	108303	pages.Comments	[main]	click in text area
+INFO	2019-04-21 16:29:52,848	109866	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 16:29:53,804	110822	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	sent request
+INFO	2019-04-21 16:29:53,804	110822	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-21 16:29:55,570	112588	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 16:39:30,435	0	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-21 16:39:50,956	20521	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-21 16:39:54,950	24515	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 16:39:56,520	26085	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 16:39:57,872	27437	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 16:40:05,104	34669	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-21 16:40:25,117	54682	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 16:40:54,248	83813	pages.Inbox	[main]	select customer
+INFO	2019-04-21 16:41:05,291	94856	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 16:41:06,017	95582	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 16:41:07,095	96660	pages.Comments	[main]	click in text area
+INFO	2019-04-21 16:41:08,148	97713	pages.Comments	[main]	insert comment
+INFO	2019-04-21 16:41:09,584	99149	pages.Comments	[main]	click send comment
+INFO	2019-04-21 16:41:10,639	100204	pages.Comments	[main]	read value updated
+INFO	2019-04-21 16:41:11,518	101083	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 16:41:12,561	102126	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	sent request
+INFO	2019-04-21 16:41:12,561	102126	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-21 16:41:14,279	103844	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 16:52:44,245	0	net.metrosystems.seleniumtestsES.CC_Resend	[main]	start load data 
+INFO	2019-04-21 16:53:03,774	19529	net.metrosystems.seleniumtestsES.CC_Resend	[main]	end start load data 
+INFO	2019-04-21 16:53:07,248	23003	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 16:53:09,252	25007	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 16:53:10,566	26321	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 16:53:16,916	32671	net.metrosystems.seleniumtestsES.CC_Resend	[main]	login succesfully
+INFO	2019-04-21 16:53:36,931	52686	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 16:54:06,519	82274	pages.Inbox	[main]	select customer
+INFO	2019-04-21 16:54:17,910	93665	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 16:54:18,715	94470	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 16:54:19,931	95686	pages.Comments	[main]	click in text area
+INFO	2019-04-21 16:54:20,954	96709	pages.Comments	[main]	insert comment
+INFO	2019-04-21 16:54:22,361	98116	pages.Comments	[main]	click send comment
+INFO	2019-04-21 16:54:23,844	99599	pages.Comments	[main]	read value updated
+INFO	2019-04-21 16:54:24,662	100417	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 16:54:25,662	101417	net.metrosystems.seleniumtestsES.CC_Resend	[main]	sent info for approval
+INFO	2019-04-21 16:54:25,663	101418	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 17:01:56,974	0	net.metrosystems.seleniumtestsES.SM_Approved	[main]	start load data 
+INFO	2019-04-21 17:02:16,801	19827	net.metrosystems.seleniumtestsES.SM_Approved	[main]	end start load data 
+INFO	2019-04-21 17:02:21,149	24175	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 17:02:22,982	26008	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 17:02:24,312	27338	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 17:03:42,252	0	net.metrosystems.seleniumtestsES.SM_Approved	[main]	start load data 
+INFO	2019-04-21 17:04:06,833	24581	net.metrosystems.seleniumtestsES.SM_Approved	[main]	end start load data 
+INFO	2019-04-21 17:04:10,030	27778	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 17:04:11,759	29507	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 17:04:13,196	30944	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 17:04:19,717	37465	net.metrosystems.seleniumtestsES.SM_Approved	[main]	login succesfully
+INFO	2019-04-21 17:04:39,725	57473	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 17:05:01,038	78786	pages.Inbox	[main]	select customer
+INFO	2019-04-21 17:05:12,119	89867	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 17:05:23,823	101571	pages.Inbox	[main]	approve request
+INFO	2019-04-21 17:18:13,317	0	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	start load data 
+INFO	2019-04-21 17:18:44,605	31288	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	end start load data 
+INFO	2019-04-21 17:18:49,796	36479	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 17:18:51,573	38256	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 17:18:53,431	40114	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 17:18:59,942	46625	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	login succesfully
+INFO	2019-04-21 17:19:19,947	66630	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 17:19:41,345	88028	pages.Inbox	[main]	select customer
+INFO	2019-04-21 17:19:52,488	99171	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 17:19:53,323	100006	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 17:19:54,520	101203	pages.Comments	[main]	click in text area
+INFO	2019-04-21 17:19:55,707	102390	pages.Comments	[main]	insert comment
+INFO	2019-04-21 17:19:58,142	104825	pages.Comments	[main]	click send comment
+INFO	2019-04-21 17:19:59,703	106386	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 17:20:00,888	107571	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	sent request
+INFO	2019-04-21 17:20:00,888	107571	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-21 17:20:03,343	110026	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 17:28:35,778	0	net.metrosystems.seleniumtestsES.SM_Resend	[main]	start load data 
+INFO	2019-04-21 17:28:55,704	19926	net.metrosystems.seleniumtestsES.SM_Resend	[main]	end start load data 
+INFO	2019-04-21 17:29:00,629	24851	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 17:29:02,632	26854	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 17:29:04,869	29091	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 17:29:11,439	35661	net.metrosystems.seleniumtestsES.SM_Resend	[main]	login succesfully
+INFO	2019-04-21 17:29:31,453	55675	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 17:30:01,236	85458	pages.Inbox	[main]	select customer
+INFO	2019-04-21 17:30:12,399	96621	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 17:30:13,398	97620	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 17:30:14,767	98989	pages.Comments	[main]	click in text area
+INFO	2019-04-21 17:30:16,124	100346	pages.Comments	[main]	insert comment
+INFO	2019-04-21 17:30:18,305	102527	pages.Comments	[main]	click send comment
+INFO	2019-04-21 17:30:19,632	103854	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 17:30:21,028	105250	net.metrosystems.seleniumtestsES.SM_Resend	[main]	sent info for approval
+INFO	2019-04-21 17:30:21,028	105250	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 17:35:41,320	0	net.metrosystems.seleniumtestsES.CM_Approved	[main]	start load data 
+INFO	2019-04-21 17:36:02,235	20915	net.metrosystems.seleniumtestsES.CM_Approved	[main]	end start load data 
+INFO	2019-04-21 17:36:05,689	24369	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 17:36:07,290	25970	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 17:36:08,756	27436	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 17:36:15,103	33783	net.metrosystems.seleniumtestsES.CM_Approved	[main]	login succesfully
+INFO	2019-04-21 17:36:35,129	53809	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 17:37:09,050	87730	pages.Inbox	[main]	select customer
+INFO	2019-04-21 17:37:20,158	98838	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 17:37:30,840	109520	pages.Inbox	[main]	approve request
+INFO	2019-04-21 17:53:08,287	0	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	start load data 
+INFO	2019-04-21 17:53:33,237	24950	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	end start load data 
+INFO	2019-04-21 17:53:36,839	28552	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 17:53:38,909	30622	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 17:53:40,257	31970	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 17:53:46,874	38587	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	login succesfully
+INFO	2019-04-21 17:54:06,882	58595	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 17:54:28,284	79997	pages.Inbox	[main]	select customer
+INFO	2019-04-21 17:54:39,347	91060	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 17:54:40,691	92404	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 17:54:42,121	93834	pages.Comments	[main]	click in text area
+INFO	2019-04-21 17:54:43,456	95169	pages.Comments	[main]	insert comment
+INFO	2019-04-21 17:54:44,990	96703	pages.Comments	[main]	click send comment
+INFO	2019-04-21 17:54:46,200	97913	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 17:54:47,432	99145	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	sent request
+INFO	2019-04-21 17:54:47,432	99145	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-21 17:54:49,801	101514	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 17:54:52,329	104042	net.metrosystems.seleniumtestsES.CM_Resend	[main]	start load data 
+INFO	2019-04-21 17:55:09,933	121646	net.metrosystems.seleniumtestsES.CM_Resend	[main]	end start load data 
+INFO	2019-04-21 17:55:13,275	124988	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 17:55:14,887	126600	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 17:55:16,244	127957	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 17:55:23,214	134927	net.metrosystems.seleniumtestsES.CM_Resend	[main]	login succesfully
+INFO	2019-04-21 17:55:43,218	154931	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 17:56:14,229	185942	pages.Inbox	[main]	select customer
+INFO	2019-04-21 17:56:25,291	197004	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 17:56:26,766	198479	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 17:56:27,900	199613	pages.Comments	[main]	click in text area
+INFO	2019-04-21 17:56:28,882	200595	pages.Comments	[main]	insert comment
+INFO	2019-04-21 17:56:30,356	202069	pages.Comments	[main]	click send comment
+INFO	2019-04-21 17:56:31,492	203205	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 17:56:32,585	204298	net.metrosystems.seleniumtestsES.CM_Resend	[main]	sent info for approval
+INFO	2019-04-21 17:56:32,585	204298	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 17:56:34,218	205931	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	start load data 
+INFO	2019-04-21 17:56:56,415	228128	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	end start load data 
+INFO	2019-04-21 17:56:59,544	231257	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 17:57:01,072	232785	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 17:57:02,612	234325	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 17:57:09,168	240881	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	login succesfully
+INFO	2019-04-21 17:57:29,172	260885	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 17:57:51,024	282737	pages.Inbox	[main]	select customer
+INFO	2019-04-21 17:58:02,107	293820	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 18:04:44,508	0	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	start load data 
+INFO	2019-04-21 18:05:10,865	26357	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	end start load data 
+INFO	2019-04-21 18:05:15,190	30682	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 18:05:17,134	32626	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 18:05:18,595	34087	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 18:05:25,179	40671	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	login succesfully
+INFO	2019-04-21 18:05:45,202	60694	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 18:06:06,815	82307	pages.Inbox	[main]	select customer
+INFO	2019-04-21 18:06:18,950	94442	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 18:06:29,830	105322	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 18:06:31,193	106685	pages.Comments	[main]	click in text area
+INFO	2019-04-21 18:06:32,488	107980	pages.Comments	[main]	insert comment
+INFO	2019-04-21 18:06:33,994	109486	pages.Comments	[main]	click send comment
+INFO	2019-04-21 18:06:35,382	110874	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 18:06:36,794	112286	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	sent request
+INFO	2019-04-21 18:06:36,795	112287	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-21 18:06:39,086	114578	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 18:06:40,876	116368	net.metrosystems.seleniumtestsES.CM_Resend	[main]	start load data 
+INFO	2019-04-21 18:06:59,336	134828	net.metrosystems.seleniumtestsES.CM_Resend	[main]	end start load data 
+INFO	2019-04-21 18:07:03,334	138826	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 18:07:04,959	140451	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 18:07:06,310	141802	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 18:07:12,649	148141	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	start load data 
+INFO	2019-04-21 18:07:30,712	166204	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	end start load data 
+INFO	2019-04-21 18:07:34,977	170469	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 18:07:36,529	172021	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 18:07:38,131	173623	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 18:07:44,444	179936	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	login succesfully
+INFO	2019-04-21 18:08:04,447	199939	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 18:08:25,443	220935	pages.Inbox	[main]	select customer
+INFO	2019-04-21 18:08:36,422	231914	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 18:09:48,924	0	net.metrosystems.seleniumtestsES.CM_Resend	[main]	start load data 
+INFO	2019-04-21 18:10:08,726	19802	net.metrosystems.seleniumtestsES.CM_Resend	[main]	end start load data 
+INFO	2019-04-21 18:10:12,062	23138	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 18:10:13,580	24656	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 18:10:15,010	26086	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 18:10:21,396	32472	net.metrosystems.seleniumtestsES.CM_Resend	[main]	login succesfully
+INFO	2019-04-21 18:10:41,425	52501	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 18:11:10,747	81823	pages.Inbox	[main]	select customer
+INFO	2019-04-21 18:11:21,798	92874	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 18:11:32,490	103566	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 18:11:34,280	105356	pages.Comments	[main]	click in text area
+INFO	2019-04-21 18:11:35,376	106452	pages.Comments	[main]	insert comment
+INFO	2019-04-21 18:11:36,779	107855	pages.Comments	[main]	click send comment
+INFO	2019-04-21 18:11:37,828	108904	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 18:11:39,003	110079	net.metrosystems.seleniumtestsES.CM_Resend	[main]	sent info for approval
+INFO	2019-04-21 18:11:39,004	110080	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 18:11:40,625	111701	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	start load data 
+INFO	2019-04-21 18:11:57,473	128549	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	end start load data 
+INFO	2019-04-21 18:12:01,534	132610	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 18:12:03,430	134506	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 18:12:04,931	136007	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 18:12:11,789	142865	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	login succesfully
+INFO	2019-04-21 18:12:31,792	162868	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 18:12:53,081	184157	pages.Inbox	[main]	select customer
+INFO	2019-04-21 18:13:04,969	196045	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 18:13:25,654	216730	pages.Inbox	[main]	approve request
+INFO	2019-04-21 18:18:08,541	0	net.metrosystems.seleniumtestsES.CM_Resend	[main]	start load data 
+INFO	2019-04-21 18:18:28,537	19996	net.metrosystems.seleniumtestsES.CM_Resend	[main]	end start load data 
+INFO	2019-04-21 18:18:31,906	23365	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 18:18:34,522	25981	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 18:18:36,210	27669	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 18:18:42,583	34042	net.metrosystems.seleniumtestsES.CM_Resend	[main]	login succesfully
+INFO	2019-04-21 18:19:02,601	54060	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 18:19:33,647	85106	pages.Inbox	[main]	select customer
+INFO	2019-04-21 18:19:44,617	96076	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 18:19:55,359	106818	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 18:19:56,409	107868	pages.Comments	[main]	click in text area
+INFO	2019-04-21 18:19:58,099	109558	pages.Comments	[main]	insert comment
+INFO	2019-04-21 18:19:59,447	110906	pages.Comments	[main]	click send comment
+INFO	2019-04-21 18:20:00,595	112054	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 18:20:11,649	123108	net.metrosystems.seleniumtestsES.CM_Resend	[main]	sent info for approval
+INFO	2019-04-21 18:20:11,655	123114	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 18:20:23,226	134685	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	start load data 
+INFO	2019-04-21 18:20:47,840	159299	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	end start load data 
+INFO	2019-04-21 18:20:51,333	162792	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 18:20:52,934	164393	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 18:20:54,278	165737	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 18:21:00,596	172055	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	login succesfully
+INFO	2019-04-21 18:21:20,603	192062	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 18:21:50,093	221552	pages.Inbox	[main]	select customer
+INFO	2019-04-21 18:22:01,702	233161	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 18:22:22,471	253930	pages.Inbox	[main]	approve request
+INFO	2019-04-21 18:53:53,461	0	net.metrosystems.seleniumtestsES.CM_Resend	[main]	start load data 
+INFO	2019-04-21 18:54:16,872	23411	net.metrosystems.seleniumtestsES.CM_Resend	[main]	end start load data 
+INFO	2019-04-21 18:54:20,817	27356	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 18:54:22,961	29500	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 18:54:24,430	30969	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 18:54:31,009	37548	net.metrosystems.seleniumtestsES.CM_Resend	[main]	login succesfully
+INFO	2019-04-21 18:54:51,022	57561	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 18:56:56,328	0	net.metrosystems.seleniumtestsES.CM_Resend	[main]	start load data 
+INFO	2019-04-21 18:57:22,482	26154	net.metrosystems.seleniumtestsES.CM_Resend	[main]	end start load data 
+INFO	2019-04-21 18:57:26,364	30036	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 18:57:28,501	32173	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 18:57:30,352	34024	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 18:57:37,174	40846	net.metrosystems.seleniumtestsES.CM_Resend	[main]	login succesfully
+INFO	2019-04-21 18:57:57,186	60858	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 18:58:18,446	82118	pages.Inbox	[main]	select customer
+INFO	2019-04-21 18:58:30,807	94479	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 18:58:41,565	105237	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 18:58:43,193	106865	pages.Comments	[main]	click in text area
+INFO	2019-04-21 18:58:44,996	108668	pages.Comments	[main]	insert comment
+INFO	2019-04-21 18:58:46,492	110164	pages.Comments	[main]	click send comment
+INFO	2019-04-21 18:58:47,813	111485	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 18:58:59,022	122694	net.metrosystems.seleniumtestsES.CM_Resend	[main]	sent info for approval
+INFO	2019-04-21 18:58:59,023	122695	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 18:59:10,904	134576	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	start load data 
+INFO	2019-04-21 18:59:29,784	153456	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	end start load data 
+INFO	2019-04-21 18:59:33,265	156937	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 18:59:35,171	158843	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 18:59:36,471	160143	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 18:59:42,803	166475	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	login succesfully
+INFO	2019-04-21 19:00:02,805	186477	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 19:00:31,783	215455	pages.Inbox	[main]	select customer
+INFO	2019-04-21 19:03:12,724	0	net.metrosystems.seleniumtestsES.CM_Resend	[main]	start load data 
+INFO	2019-04-21 19:03:30,832	18108	net.metrosystems.seleniumtestsES.CM_Resend	[main]	end start load data 
+INFO	2019-04-21 19:03:36,833	24109	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 19:03:39,189	26465	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 19:03:40,827	28103	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 19:03:47,327	34603	net.metrosystems.seleniumtestsES.CM_Resend	[main]	login succesfully
+INFO	2019-04-21 19:04:07,338	54614	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 19:04:37,692	84968	pages.Inbox	[main]	select customer
+INFO	2019-04-21 19:04:48,627	95903	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 19:04:59,415	106691	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 19:05:01,523	108799	pages.Comments	[main]	click in text area
+INFO	2019-04-21 19:05:03,362	110638	pages.Comments	[main]	insert comment
+INFO	2019-04-21 19:05:04,739	112015	pages.Comments	[main]	click send comment
+INFO	2019-04-21 19:05:06,852	114128	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 19:05:18,108	125384	net.metrosystems.seleniumtestsES.CM_Resend	[main]	sent info for approval
+INFO	2019-04-21 19:05:18,109	125385	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 19:05:30,149	137425	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	start load data 
+INFO	2019-04-21 19:05:52,810	160086	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	end start load data 
+INFO	2019-04-21 19:05:56,454	163730	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 19:05:58,183	165459	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 19:05:59,555	166831	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 19:06:06,171	173447	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	login succesfully
+INFO	2019-04-21 19:06:26,171	193447	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 19:06:47,279	214555	pages.Inbox	[main]	select customer
+INFO	2019-04-21 19:06:58,587	225863	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 19:07:19,511	246787	pages.Inbox	[main]	approve request
+INFO	2019-04-21 19:07:21,162	248438	net.metrosystems.seleniumtestsES.CFO_sendBack	[main]	start load data 
+INFO	2019-04-21 19:07:41,843	269119	net.metrosystems.seleniumtestsES.CFO_sendBack	[main]	end start load data 
+INFO	2019-04-21 19:07:45,619	272895	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 19:07:47,534	274810	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 19:07:49,057	276333	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 19:07:55,565	282841	net.metrosystems.seleniumtestsES.CFO_sendBack	[main]	login succesfully
+INFO	2019-04-21 19:08:15,569	302845	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 19:56:56,284	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-21 19:57:18,581	22297	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-21 19:57:23,738	27454	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 19:57:25,309	29025	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 19:57:26,948	30664	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 19:57:29,232	32948	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-21 19:57:52,723	56439	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-21 19:57:56,050	59766	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 19:57:57,567	61283	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 19:57:59,066	62782	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 19:58:06,063	69779	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-21 19:58:26,083	89799	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 19:58:47,617	111333	pages.Inbox	[main]	select customer
+INFO	2019-04-21 19:58:58,842	122558	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 19:59:10,162	133878	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 19:59:11,142	134858	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 19:59:22,737	146453	net.metrosystems.seleniumtestsES.CC_Resend	[main]	start load data 
+INFO	2019-04-21 19:59:43,472	167188	net.metrosystems.seleniumtestsES.CC_Resend	[main]	end start load data 
+INFO	2019-04-21 19:59:46,813	170529	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 19:59:48,359	172075	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 19:59:49,969	173685	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 19:59:56,367	180083	net.metrosystems.seleniumtestsES.CC_Resend	[main]	login succesfully
+INFO	2019-04-21 20:00:16,368	200084	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:00:46,847	230563	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:00:58,695	242411	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:01:09,938	253654	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 20:01:10,857	254573	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 20:01:22,362	266078	net.metrosystems.seleniumtestsES.SM_Approved	[main]	start load data 
+INFO	2019-04-21 20:01:48,865	292581	net.metrosystems.seleniumtestsES.SM_Approved	[main]	end start load data 
+INFO	2019-04-21 20:01:53,389	297105	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:01:54,885	298601	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:01:56,271	299987	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:02:02,664	306380	net.metrosystems.seleniumtestsES.SM_Approved	[main]	login succesfully
+INFO	2019-04-21 20:02:22,665	326381	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:02:43,840	347556	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:02:55,086	358802	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:03:06,992	370708	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	start load data 
+INFO	2019-04-21 20:03:25,933	389649	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	end start load data 
+INFO	2019-04-21 20:03:30,465	394181	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:03:32,980	396696	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:03:34,253	397969	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:03:41,369	405085	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	login succesfully
+INFO	2019-04-21 20:04:01,371	425087	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:04:22,380	446096	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:04:33,316	457032	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:04:44,586	468302	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 20:04:45,433	469149	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 20:04:56,806	480522	net.metrosystems.seleniumtestsES.SM_Resend	[main]	start load data 
+INFO	2019-04-21 20:05:19,524	503240	net.metrosystems.seleniumtestsES.SM_Resend	[main]	end start load data 
+INFO	2019-04-21 20:05:24,846	508562	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:05:26,563	510279	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:05:28,177	511893	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:05:34,529	518245	net.metrosystems.seleniumtestsES.SM_Resend	[main]	login succesfully
+INFO	2019-04-21 20:05:54,533	538249	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:06:16,013	559729	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:06:27,285	571001	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:06:38,784	582500	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 20:06:39,732	583448	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 20:06:51,565	595281	net.metrosystems.seleniumtestsES.CM_Approved	[main]	start load data 
+INFO	2019-04-21 20:07:10,881	614597	net.metrosystems.seleniumtestsES.CM_Approved	[main]	end start load data 
+INFO	2019-04-21 20:07:14,109	617825	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:07:15,833	619549	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:07:17,484	621200	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:07:23,808	627524	net.metrosystems.seleniumtestsES.CM_Approved	[main]	login succesfully
+INFO	2019-04-21 20:07:43,816	647532	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:08:04,855	668571	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:08:16,563	680279	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:08:28,251	691967	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	start load data 
+INFO	2019-04-21 20:08:49,692	713408	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	end start load data 
+INFO	2019-04-21 20:08:52,799	716515	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:08:54,254	717970	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:08:55,792	719508	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:09:02,017	725733	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	login succesfully
+INFO	2019-04-21 20:09:22,019	745735	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:09:51,426	775142	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:10:02,328	786044	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:10:13,538	797254	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 20:10:14,472	798188	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 20:10:25,698	809414	net.metrosystems.seleniumtestsES.CM_Resend	[main]	start load data 
+INFO	2019-04-21 20:10:44,822	828538	net.metrosystems.seleniumtestsES.CM_Resend	[main]	end start load data 
+INFO	2019-04-21 20:10:47,948	831664	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:10:49,403	833119	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:10:50,850	834566	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:10:57,217	840933	net.metrosystems.seleniumtestsES.CM_Resend	[main]	login succesfully
+INFO	2019-04-21 20:11:17,218	860934	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:11:38,460	882176	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:11:50,337	894053	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:12:01,572	905288	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 20:12:02,577	906293	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 20:12:13,787	917503	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	start load data 
+INFO	2019-04-21 20:12:34,567	938283	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	end start load data 
+INFO	2019-04-21 20:12:37,977	941693	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:12:39,451	943167	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:12:40,839	944555	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:12:47,169	950885	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	login succesfully
+INFO	2019-04-21 20:13:07,171	970887	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:13:38,849	1002565	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:13:49,798	1013514	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:14:01,354	1025070	net.metrosystems.seleniumtestsES.CFO_sendBack	[main]	start load data 
+INFO	2019-04-21 20:14:22,640	1046356	net.metrosystems.seleniumtestsES.CFO_sendBack	[main]	end start load data 
+INFO	2019-04-21 20:14:26,951	1050667	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:14:29,112	1052828	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:14:30,537	1054253	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:14:37,401	1061117	net.metrosystems.seleniumtestsES.CFO_sendBack	[main]	login succesfully
+INFO	2019-04-21 20:14:57,403	1081119	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:15:18,533	1102249	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:15:29,596	1113312	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:15:40,801	1124517	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 20:15:41,884	1125600	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 20:15:53,584	1137300	net.metrosystems.seleniumtestsES.HOC_Resend	[main]	start load data 
+INFO	2019-04-21 20:16:16,147	1159863	net.metrosystems.seleniumtestsES.HOC_Resend	[main]	end start load data 
+INFO	2019-04-21 20:16:19,491	1163207	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:16:21,530	1165246	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:16:22,972	1166688	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:16:29,240	1172956	net.metrosystems.seleniumtestsES.HOC_Resend	[main]	login succesfully
+INFO	2019-04-21 20:16:49,241	1192957	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:17:10,252	1213968	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:17:22,355	1226071	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:17:34,186	1237902	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 20:17:35,073	1238789	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 20:17:46,562	1250278	net.metrosystems.seleniumtestsES.CFO_Approved	[main]	start load data 
+INFO	2019-04-21 20:18:04,175	1267891	net.metrosystems.seleniumtestsES.CFO_Approved	[main]	end start load data 
+INFO	2019-04-21 20:18:07,523	1271239	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:18:09,057	1272773	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:18:10,390	1274106	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:18:16,663	1280379	net.metrosystems.seleniumtestsES.CFO_Approved	[main]	login succesfully
+INFO	2019-04-21 20:18:36,664	1300380	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:18:57,629	1321345	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:19:08,609	1332325	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:19:20,111	1343827	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	start load data 
+INFO	2019-04-21 20:19:39,669	1363385	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	end start load data 
+INFO	2019-04-21 20:19:43,067	1366783	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:19:44,630	1368346	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:19:46,032	1369748	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:19:52,340	1376056	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	login succesfully
+INFO	2019-04-21 20:20:12,341	1396057	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:20:49,982	1433698	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:21:00,890	1444606	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:21:12,140	1455856	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 20:21:12,922	1456638	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 20:21:24,142	1467858	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	start load data 
+INFO	2019-04-21 20:21:46,377	1490093	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	end start load data 
+INFO	2019-04-21 20:21:49,481	1493197	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 20:21:51,038	1494754	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 20:21:52,353	1496069	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 20:21:58,701	1502417	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	login succesfully
+INFO	2019-04-21 20:22:18,702	1522418	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 20:22:52,224	1555940	pages.Inbox	[main]	select customer
+INFO	2019-04-21 20:23:03,247	1566963	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 20:23:14,591	1578307	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 20:23:15,590	1579306	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 21:30:06,138	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-21 21:30:26,827	20689	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-21 21:30:30,125	23987	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:30:31,672	25534	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:30:33,091	26953	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:30:39,330	33192	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-21 21:30:49,876	43738	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-21 21:30:52,545	46407	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-21 21:30:55,307	49169	pages.MainPage	[main]	history
+INFO	2019-04-21 21:30:58,074	51936	pages.MainPage	[main]	history_img
+INFO	2019-04-21 21:31:00,935	54797	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-21 21:31:12,788	66650	pages.MainPage	[main]	check inbox
+INFO	2019-04-21 21:31:16,667	70529	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-21 21:32:12,416	126278	pages.Request	[main]	Request credit
+INFO	2019-04-21 21:32:21,599	135461	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-21 21:32:22,587	136449	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-21 21:32:23,476	137338	pages.Sales	[main]	open sales tab
+INFO	2019-04-21 21:32:24,396	138258	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 21:32:25,337	139199	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 21:32:46,601	160463	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-21 21:33:05,573	179435	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-21 21:33:10,800	184662	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:33:12,405	186267	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:33:13,725	187587	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:33:20,000	193862	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-21 21:33:40,005	213867	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:34:01,133	234995	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:34:12,144	246006	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:34:22,852	256714	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 21:34:23,900	257762	pages.Comments	[main]	click in text area
+INFO	2019-04-21 21:34:24,944	258806	pages.Comments	[main]	insert comment
+INFO	2019-04-21 21:34:26,629	260491	pages.Comments	[main]	click send comment
+INFO	2019-04-21 21:34:27,972	261834	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 21:34:49,010	282872	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	sent request
+INFO	2019-04-21 21:34:49,010	282872	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-21 21:34:50,706	284568	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 21:35:12,273	306135	net.metrosystems.seleniumtestsES.CC_Resend	[main]	start load data 
+INFO	2019-04-21 21:35:32,551	326413	net.metrosystems.seleniumtestsES.CC_Resend	[main]	end start load data 
+INFO	2019-04-21 21:35:36,432	330294	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:35:38,024	331886	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:35:39,389	333251	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:35:45,749	339611	net.metrosystems.seleniumtestsES.CC_Resend	[main]	login succesfully
+INFO	2019-04-21 21:36:05,750	359612	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:36:26,787	380649	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:36:38,677	392539	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:36:49,395	403257	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 21:36:50,416	404278	pages.Comments	[main]	click in text area
+INFO	2019-04-21 21:36:51,582	405444	pages.Comments	[main]	insert comment
+INFO	2019-04-21 21:36:53,127	406989	pages.Comments	[main]	click send comment
+INFO	2019-04-21 21:36:54,269	408131	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 21:37:15,240	429102	net.metrosystems.seleniumtestsES.CC_Resend	[main]	sent info for approval
+INFO	2019-04-21 21:37:15,240	429102	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 21:37:36,821	450683	net.metrosystems.seleniumtestsES.SM_Approved	[main]	start load data 
+INFO	2019-04-21 21:37:54,688	468550	net.metrosystems.seleniumtestsES.SM_Approved	[main]	end start load data 
+INFO	2019-04-21 21:37:57,873	471735	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:37:59,240	473102	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:38:00,783	474645	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:38:07,360	481222	net.metrosystems.seleniumtestsES.SM_Approved	[main]	login succesfully
+INFO	2019-04-21 21:38:27,362	501224	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:38:48,384	522246	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:38:59,319	533181	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:39:19,991	553853	pages.Inbox	[main]	approve request
+INFO	2019-04-21 21:39:22,335	556197	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	start load data 
+INFO	2019-04-21 21:39:44,481	578343	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	end start load data 
+INFO	2019-04-21 21:39:47,641	581503	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:39:49,177	583039	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:39:51,502	585364	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:39:57,852	591714	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	login succesfully
+INFO	2019-04-21 21:40:17,854	611716	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:40:38,983	632845	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:40:49,995	643857	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:41:00,691	654553	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 21:41:01,832	655694	pages.Comments	[main]	click in text area
+INFO	2019-04-21 21:41:02,874	656736	pages.Comments	[main]	insert comment
+INFO	2019-04-21 21:41:04,560	658422	pages.Comments	[main]	click send comment
+INFO	2019-04-21 21:41:06,764	660626	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 21:41:27,782	681644	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	sent request
+INFO	2019-04-21 21:41:27,783	681645	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-21 21:41:30,872	684734	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 21:41:52,560	706422	net.metrosystems.seleniumtestsES.SM_Resend	[main]	start load data 
+INFO	2019-04-21 21:42:11,416	725278	net.metrosystems.seleniumtestsES.SM_Resend	[main]	end start load data 
+INFO	2019-04-21 21:42:14,729	728591	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:42:16,381	730243	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:42:17,726	731588	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:42:24,720	738582	net.metrosystems.seleniumtestsES.SM_Resend	[main]	login succesfully
+INFO	2019-04-21 21:42:44,721	758583	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:43:05,764	779626	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:43:17,516	791378	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:43:28,230	802092	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 21:43:29,240	803102	pages.Comments	[main]	click in text area
+INFO	2019-04-21 21:43:30,258	804120	pages.Comments	[main]	insert comment
+INFO	2019-04-21 21:43:31,893	805755	pages.Comments	[main]	click send comment
+INFO	2019-04-21 21:43:32,993	806855	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 21:43:54,006	827868	net.metrosystems.seleniumtestsES.SM_Resend	[main]	sent info for approval
+INFO	2019-04-21 21:43:54,007	827869	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 21:44:15,575	849437	net.metrosystems.seleniumtestsES.CM_Approved	[main]	start load data 
+INFO	2019-04-21 21:44:35,126	868988	net.metrosystems.seleniumtestsES.CM_Approved	[main]	end start load data 
+INFO	2019-04-21 21:44:38,212	872074	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:44:39,620	873482	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:44:41,056	874918	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:44:47,282	881144	net.metrosystems.seleniumtestsES.CM_Approved	[main]	login succesfully
+INFO	2019-04-21 21:45:07,284	901146	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:45:28,291	922153	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:45:39,250	933112	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:46:00,008	953870	pages.Inbox	[main]	approve request
+INFO	2019-04-21 21:46:01,597	955459	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	start load data 
+INFO	2019-04-21 21:46:20,592	974454	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	end start load data 
+INFO	2019-04-21 21:46:23,662	977524	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:46:25,410	979272	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:46:26,817	980679	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:46:34,203	988065	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	login succesfully
+INFO	2019-04-21 21:46:54,205	1008067	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:47:15,141	1029003	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:47:26,149	1040011	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:47:36,918	1050780	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 21:47:38,023	1051885	pages.Comments	[main]	click in text area
+INFO	2019-04-21 21:47:39,073	1052935	pages.Comments	[main]	insert comment
+INFO	2019-04-21 21:47:40,702	1054564	pages.Comments	[main]	click send comment
+INFO	2019-04-21 21:47:41,773	1055635	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 21:48:02,718	1076580	net.metrosystems.seleniumtestsES.HOC_sendBack	[main]	sent request
+INFO	2019-04-21 21:48:02,718	1076580	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-21 21:48:04,766	1078628	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 21:48:27,049	1100911	net.metrosystems.seleniumtestsES.CM_Resend	[main]	start load data 
+INFO	2019-04-21 21:48:48,856	1122718	net.metrosystems.seleniumtestsES.CM_Resend	[main]	end start load data 
+INFO	2019-04-21 21:48:53,236	1127098	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:48:55,031	1128893	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:48:56,449	1130311	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:49:02,887	1136749	net.metrosystems.seleniumtestsES.CM_Resend	[main]	login succesfully
+INFO	2019-04-21 21:49:22,888	1156750	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:49:57,660	1191522	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:50:08,686	1202548	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:50:19,475	1213337	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 21:50:20,518	1214380	pages.Comments	[main]	click in text area
+INFO	2019-04-21 21:50:21,542	1215404	pages.Comments	[main]	insert comment
+INFO	2019-04-21 21:50:23,389	1217251	pages.Comments	[main]	click send comment
+INFO	2019-04-21 21:50:24,664	1218526	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 21:50:45,608	1239470	net.metrosystems.seleniumtestsES.CM_Resend	[main]	sent info for approval
+INFO	2019-04-21 21:50:45,608	1239470	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 21:51:07,240	1261102	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	start load data 
+INFO	2019-04-21 21:51:29,164	1283026	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	end start load data 
+INFO	2019-04-21 21:51:32,077	1285939	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:51:33,638	1287500	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:51:35,086	1288948	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:51:41,357	1295219	net.metrosystems.seleniumtestsES.HOC_Approved	[main]	login succesfully
+INFO	2019-04-21 21:52:01,360	1315222	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:52:22,283	1336145	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:52:33,245	1347107	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:52:53,904	1367766	pages.Inbox	[main]	approve request
+INFO	2019-04-21 21:52:55,372	1369234	net.metrosystems.seleniumtestsES.CFO_sendBack	[main]	start load data 
+INFO	2019-04-21 21:53:12,226	1386088	net.metrosystems.seleniumtestsES.CFO_sendBack	[main]	end start load data 
+INFO	2019-04-21 21:53:15,260	1389122	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:53:16,722	1390584	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:53:18,099	1391961	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:53:24,742	1398604	net.metrosystems.seleniumtestsES.CFO_sendBack	[main]	login succesfully
+INFO	2019-04-21 21:53:44,744	1418606	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:54:13,918	1447780	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:54:24,769	1458631	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:54:35,447	1469309	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 21:54:36,481	1470343	pages.Comments	[main]	click in text area
+INFO	2019-04-21 21:54:37,556	1471418	pages.Comments	[main]	insert comment
+INFO	2019-04-21 21:54:39,415	1473277	pages.Comments	[main]	click send comment
+INFO	2019-04-21 21:54:40,501	1474363	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 21:55:01,522	1495384	net.metrosystems.seleniumtestsES.CFO_sendBack	[main]	sent request
+INFO	2019-04-21 21:55:01,523	1495385	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-21 21:55:04,518	1498380	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 21:55:25,962	1519824	net.metrosystems.seleniumtestsES.HOC_Resend	[main]	start load data 
+INFO	2019-04-21 21:55:45,100	1538962	net.metrosystems.seleniumtestsES.HOC_Resend	[main]	end start load data 
+INFO	2019-04-21 21:55:48,283	1542145	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:55:49,777	1543639	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:55:51,113	1544975	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:55:57,414	1551276	net.metrosystems.seleniumtestsES.HOC_Resend	[main]	login succesfully
+INFO	2019-04-21 21:56:17,415	1571277	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:56:38,440	1592302	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:56:49,345	1603207	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:57:00,149	1614011	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 21:57:01,256	1615118	pages.Comments	[main]	click in text area
+INFO	2019-04-21 21:57:02,284	1616146	pages.Comments	[main]	insert comment
+INFO	2019-04-21 21:57:04,177	1618039	pages.Comments	[main]	click send comment
+INFO	2019-04-21 21:57:05,211	1619073	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 21:57:26,285	1640147	net.metrosystems.seleniumtestsES.HOC_Resend	[main]	sent info for approval
+INFO	2019-04-21 21:57:26,285	1640147	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-21 21:57:48,084	1661946	net.metrosystems.seleniumtestsES.CFO_Approved	[main]	start load data 
+INFO	2019-04-21 21:58:14,477	1688339	net.metrosystems.seleniumtestsES.CFO_Approved	[main]	end start load data 
+INFO	2019-04-21 21:58:17,715	1691577	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 21:58:19,191	1693053	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 21:58:20,476	1694338	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 21:58:26,833	1700695	net.metrosystems.seleniumtestsES.CFO_Approved	[main]	login succesfully
+INFO	2019-04-21 21:58:46,834	1720696	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 21:59:16,776	1750638	pages.Inbox	[main]	select customer
+INFO	2019-04-21 21:59:27,721	1761583	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 21:59:48,394	1782256	pages.Inbox	[main]	approve request
+INFO	2019-04-21 21:59:49,923	1783785	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	start load data 
+INFO	2019-04-21 22:00:08,929	1802791	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	end start load data 
+INFO	2019-04-21 22:00:12,103	1805965	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 22:00:13,793	1807655	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 22:00:15,139	1809001	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 22:00:21,502	1815364	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	login succesfully
+INFO	2019-04-21 22:00:41,504	1835366	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 22:01:11,612	1865474	pages.Inbox	[main]	select customer
+INFO	2019-04-21 22:01:22,593	1876455	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 22:01:33,389	1887251	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 22:01:34,394	1888256	pages.Comments	[main]	click in text area
+INFO	2019-04-21 22:01:35,419	1889281	pages.Comments	[main]	insert comment
+INFO	2019-04-21 22:01:36,675	1890537	pages.Comments	[main]	click send comment
+INFO	2019-04-21 22:01:37,758	1891620	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 22:01:58,720	1912582	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	sent request
+INFO	2019-04-21 22:02:08,720	1922582	pages.Inbox	[main]	approve request
+INFO	2019-04-21 22:02:10,373	1924235	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	start load data 
+INFO	2019-04-21 22:02:35,652	1949514	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	end start load data 
+INFO	2019-04-21 22:02:39,114	1952976	pages.LoginPage	[main]	insert user
+INFO	2019-04-21 22:02:40,764	1954626	pages.LoginPage	[main]	insert passs
+INFO	2019-04-21 22:02:42,135	1955997	pages.LoginPage	[main]	insert click login
+INFO	2019-04-21 22:02:48,566	1962428	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	login succesfully
+INFO	2019-04-21 22:03:08,567	1982429	pages.Inbox	[main]	click inbox img
+INFO	2019-04-21 22:03:29,934	2003796	pages.Inbox	[main]	select customer
+INFO	2019-04-21 22:03:41,848	2015710	pages.Inbox	[main]	get amount value
+INFO	2019-04-21 22:04:02,595	2036457	pages.Inbox	[main]	approve request
+INFO	2019-04-21 22:04:04,886	2038748	pages.Comments	[main]	open tab comment
+INFO	2019-04-21 22:04:06,212	2040074	pages.Comments	[main]	click in text area
+INFO	2019-04-21 22:04:07,973	2041835	pages.Comments	[main]	insert comment
+INFO	2019-04-21 22:04:09,734	2043596	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-21 22:04:30,961	2064823	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	sent request
+INFO	2019-04-21 22:04:40,962	2074824	pages.Inbox	[main]	approve request
+INFO	2019-04-23 12:07:34,946	1	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 12:07:53,505	18560	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 12:08:02,088	27143	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 12:08:03,963	29018	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 12:08:05,038	30093	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 12:08:14,781	39836	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 12:08:27,698	52753	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 12:08:30,869	55924	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 12:08:34,350	59405	pages.MainPage	[main]	history
+INFO	2019-04-23 12:08:38,098	63153	pages.MainPage	[main]	history_img
+INFO	2019-04-23 12:08:40,972	66027	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 12:08:53,320	78375	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 12:08:58,257	83312	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-23 12:09:52,952	138007	pages.Request	[main]	Request credit
+INFO	2019-04-23 12:09:56,815	141870	pages.Request	[main]	Click on button succesfully
+INFO	2019-04-23 12:10:01,816	146871	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 12:10:07,674	152729	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 12:10:08,428	153483	pages.CustomerDetails	[main]	Check the button request credit is Enable
+INFO	2019-04-23 12:10:10,334	155389	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 12:10:11,273	156328	pages.CreditDetails	[main]	insert amount value
+INFO	2019-04-23 12:10:12,794	157849	pages.CreditDetails	[main]	select first value from drop down list
+INFO	2019-04-23 12:10:17,215	162270	pages.CreditDetails	[main]	select second value from drop down list
+INFO	2019-04-23 12:10:19,670	164725	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 12:10:20,501	165556	pages.Sales	[main]	check button request credit exist
+INFO	2019-04-23 12:10:21,100	166155	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 12:10:22,036	167091	pages.Comments	[main]	click in text area
+INFO	2019-04-23 12:10:22,862	167917	pages.Comments	[main]	insert comment
+INFO	2019-04-23 12:10:23,887	168942	pages.Comments	[main]	click send comment
+INFO	2019-04-23 12:10:25,395	170450	pages.Comments	[main]	read value updated
+INFO	2019-04-23 12:10:27,825	172880	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 12:10:48,660	193715	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-23 12:10:48,661	193716	pages.Attachements	[main]	click to send the reguest to the next level
+INFO	2019-04-23 12:11:10,030	215085	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 12:11:24,545	229600	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 12:11:34,111	239166	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 12:11:36,033	241088	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 12:11:37,200	242255	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 12:11:43,649	248704	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-23 12:12:03,654	268709	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 12:12:24,526	289581	pages.Inbox	[main]	select customer
+INFO	2019-04-23 12:12:35,376	300431	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 12:12:56,122	321177	pages.Inbox	[main]	cancel request
+INFO	2019-04-23 12:42:15,118	1	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 12:42:35,324	20207	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 12:42:44,461	29344	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 12:42:47,306	32189	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 12:42:49,804	34687	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 12:44:15,212	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 12:44:29,047	13835	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 12:44:37,933	22721	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 12:44:41,043	25831	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 12:44:43,009	27797	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 12:44:53,717	38505	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 12:45:05,509	50297	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 12:45:07,984	52772	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 12:45:10,923	55711	pages.MainPage	[main]	history
+INFO	2019-04-23 12:45:13,664	58452	pages.MainPage	[main]	history_img
+INFO	2019-04-23 12:45:16,074	60862	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 13:17:20,176	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 13:17:34,531	14355	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 13:17:47,377	27201	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 13:17:49,839	29663	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 13:17:51,860	31684	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 13:18:01,525	41349	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 13:18:09,392	49216	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 13:18:14,126	53950	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 13:18:17,904	57728	pages.MainPage	[main]	history
+INFO	2019-04-23 13:18:20,850	60674	pages.MainPage	[main]	history_img
+INFO	2019-04-23 13:18:24,095	63919	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 13:18:35,711	75535	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 13:18:42,751	82575	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-23 13:19:32,100	131924	pages.Request	[main]	Request credit
+INFO	2019-04-23 13:19:35,642	135466	pages.Request	[main]	Click on button succesfully
+INFO	2019-04-23 13:19:38,647	138471	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 13:19:42,586	142410	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 13:19:43,070	142894	pages.CustomerDetails	[main]	Check the button request credit is Enable
+INFO	2019-04-23 13:19:44,401	144225	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 13:19:45,859	145683	pages.CreditDetails	[main]	insert amount value
+INFO	2019-04-23 13:19:46,942	146766	pages.CreditDetails	[main]	select first value from drop down list
+INFO	2019-04-23 13:19:51,344	151168	pages.CreditDetails	[main]	select second value from drop down list
+INFO	2019-04-23 13:19:54,572	154396	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 13:19:55,406	155230	pages.Sales	[main]	check button request credit exist
+INFO	2019-04-23 13:19:56,606	156430	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 13:19:57,294	157118	pages.Comments	[main]	click in text area
+INFO	2019-04-23 13:19:58,404	158228	pages.Comments	[main]	insert comment
+INFO	2019-04-23 13:19:59,315	159139	pages.Comments	[main]	click send comment
+INFO	2019-04-23 13:20:00,906	160730	pages.Comments	[main]	read value updated
+INFO	2019-04-23 13:20:04,452	164276	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 13:20:25,344	185168	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-23 13:20:25,345	185169	pages.Attachements	[main]	click to send the reguest to the next level
+INFO	2019-04-23 13:20:46,800	206624	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 13:20:59,403	219227	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 13:21:07,596	227420	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 13:21:10,301	230125	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 13:21:12,071	231895	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 13:21:19,722	239546	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-23 13:21:39,727	259551	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 13:22:00,612	280436	pages.Inbox	[main]	select customer
+INFO	2019-04-23 13:22:11,362	291186	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 13:22:31,985	311809	pages.Inbox	[main]	cancel request
+INFO	2019-04-23 14:40:47,386	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 14:41:02,505	15119	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 14:41:02,567	15181	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 14:41:16,976	29590	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 14:41:25,617	38231	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 14:41:29,190	41804	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 14:41:31,399	44013	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 14:41:38,387	51001	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-23 14:42:48,008	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 14:43:12,437	24429	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 14:43:24,372	36364	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 14:43:26,693	38685	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 14:43:28,975	40967	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 14:43:43,412	55404	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 14:43:50,812	62804	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 14:43:55,223	67215	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 14:43:58,372	70364	pages.MainPage	[main]	history
+INFO	2019-04-23 14:44:01,466	73458	pages.MainPage	[main]	history_img
+INFO	2019-04-23 14:44:04,982	76974	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 14:44:16,805	88797	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 14:44:22,734	94726	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-23 14:45:14,551	146543	pages.Request	[main]	Request credit
+INFO	2019-04-23 14:45:17,449	149441	pages.Request	[main]	Click on button succesfully
+INFO	2019-04-23 14:45:20,463	152455	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 14:45:24,740	156732	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 14:45:25,498	157490	pages.CustomerDetails	[main]	Check the button request credit is Enable
+INFO	2019-04-23 14:45:27,336	159328	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 14:45:28,983	160975	pages.CreditDetails	[main]	insert amount value
+INFO	2019-04-23 14:45:30,074	162066	pages.CreditDetails	[main]	select first value from drop down list
+INFO	2019-04-23 14:45:34,174	166166	pages.CreditDetails	[main]	select second value from drop down list
+INFO	2019-04-23 14:45:36,445	168437	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 14:45:37,306	169298	pages.Sales	[main]	check button request credit exist
+INFO	2019-04-23 14:45:38,769	170761	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 14:45:39,487	171479	pages.Comments	[main]	click in text area
+INFO	2019-04-23 14:45:40,758	172750	pages.Comments	[main]	insert comment
+INFO	2019-04-23 14:45:41,814	173806	pages.Comments	[main]	click send comment
+INFO	2019-04-23 14:45:42,943	174935	pages.Comments	[main]	read value updated
+INFO	2019-04-23 14:45:44,738	176730	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 14:46:05,970	197962	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-23 14:46:05,976	197968	pages.Attachements	[main]	click to send the reguest to the next level
+INFO	2019-04-23 14:46:28,106	220098	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 14:46:45,407	237399	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 14:46:57,928	249920	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 14:47:00,320	252312	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 14:47:03,929	255921	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 14:47:11,210	263202	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-23 14:47:31,214	283206	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 14:47:52,348	304340	pages.Inbox	[main]	select customer
+INFO	2019-04-23 14:48:03,202	315194	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 14:48:23,810	335802	pages.Inbox	[main]	cancel request
+INFO	2019-04-23 15:36:34,447	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 15:37:06,259	31812	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 15:37:10,959	36512	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 15:37:14,746	40299	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 15:37:17,824	43377	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 15:37:26,112	51665	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 15:37:38,655	64208	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 15:37:44,410	69963	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 15:37:52,292	77845	pages.MainPage	[main]	history
+INFO	2019-04-23 15:37:57,116	82669	pages.MainPage	[main]	history_img
+INFO	2019-04-23 15:38:02,647	88200	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 15:38:09,473	95026	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 15:38:26,771	112324	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-23 15:39:20,209	165762	pages.Request	[main]	Request credit
+INFO	2019-04-23 15:39:23,870	169423	pages.Request	[main]	Click on button succesfully
+INFO	2019-04-23 15:39:26,875	172428	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 15:39:30,953	176506	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 15:39:32,047	177600	pages.CustomerDetails	[main]	Check the button request credit is Enable
+INFO	2019-04-23 15:39:32,851	178404	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 15:39:34,218	179771	pages.CreditDetails	[main]	insert amount value
+INFO	2019-04-23 15:39:35,652	181205	pages.CreditDetails	[main]	select first value from drop down list
+INFO	2019-04-23 15:39:38,295	183848	pages.CreditDetails	[main]	select second value from drop down list
+INFO	2019-04-23 15:39:41,995	187548	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 15:39:43,138	188691	pages.Sales	[main]	check button request credit exist
+INFO	2019-04-23 15:39:43,914	189467	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 15:39:45,658	191211	pages.Comments	[main]	click in text area
+INFO	2019-04-23 15:39:47,372	192925	pages.Comments	[main]	insert comment
+INFO	2019-04-23 15:39:49,251	194804	pages.Comments	[main]	click send comment
+INFO	2019-04-23 15:39:51,308	196861	pages.Comments	[main]	read value updated
+INFO	2019-04-23 15:39:52,230	197783	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 15:40:13,704	219257	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-23 15:40:13,705	219258	pages.Attachements	[main]	click to send the reguest to the next level
+INFO	2019-04-23 15:40:36,157	241710	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 15:41:00,083	265636	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 15:41:03,939	269492	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 15:41:06,846	272399	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 15:41:09,118	274671	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 15:44:37,936	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 15:45:04,752	26816	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 15:45:08,758	30822	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 15:45:11,363	33427	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 15:45:14,021	36085	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 15:45:22,332	44396	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 15:45:33,259	55323	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 15:45:36,853	58917	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 15:45:41,893	63957	pages.MainPage	[main]	history
+INFO	2019-04-23 15:45:45,335	67399	pages.MainPage	[main]	history_img
+INFO	2019-04-23 15:45:48,825	70889	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 15:46:05,555	87619	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 15:46:10,641	92705	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-23 15:47:03,060	145124	pages.Request	[main]	Request credit
+INFO	2019-04-23 15:47:09,380	151444	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 15:47:10,288	152352	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 15:47:11,339	153403	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 15:47:12,488	154552	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 15:47:13,637	155701	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 15:49:07,494	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 15:49:38,100	30606	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 15:49:42,065	34571	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 15:49:44,917	37423	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 15:49:47,871	40377	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 15:49:56,077	48583	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 15:50:05,429	57935	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 15:50:09,027	61533	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 15:50:12,957	65463	pages.MainPage	[main]	history
+INFO	2019-04-23 15:50:16,715	69221	pages.MainPage	[main]	history_img
+INFO	2019-04-23 15:50:20,038	72544	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 15:50:24,502	77008	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 15:50:26,070	78576	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-23 15:51:18,660	131166	pages.Request	[main]	Request credit
+INFO	2019-04-23 15:51:22,032	134538	pages.Request	[main]	Click on button succesfully
+INFO	2019-04-23 15:51:25,034	137540	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 15:51:28,915	141421	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 15:51:29,694	142200	pages.CustomerDetails	[main]	Check the button request credit is Enable
+INFO	2019-04-23 15:51:30,441	142947	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 15:51:31,608	144114	pages.CreditDetails	[main]	insert amount value
+INFO	2019-04-23 15:51:32,834	145340	pages.CreditDetails	[main]	select first value from drop down list
+INFO	2019-04-23 15:51:35,794	148300	pages.CreditDetails	[main]	select second value from drop down list
+INFO	2019-04-23 15:51:38,296	150802	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 15:51:39,261	151767	pages.Sales	[main]	check button request credit exist
+INFO	2019-04-23 15:51:39,948	152454	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 15:51:41,348	153854	pages.Comments	[main]	click in text area
+INFO	2019-04-23 15:51:42,349	154855	pages.Comments	[main]	insert comment
+INFO	2019-04-23 15:51:43,707	156213	pages.Comments	[main]	click send comment
+INFO	2019-04-23 15:51:44,851	157357	pages.Comments	[main]	read value updated
+INFO	2019-04-23 15:51:45,761	158267	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 15:52:06,965	179471	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-23 15:52:06,965	179471	pages.Attachements	[main]	click to send the reguest to the next level
+INFO	2019-04-23 15:52:29,488	201994	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 15:52:51,075	223581	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 15:52:55,037	227543	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 15:52:57,458	229964	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 15:52:59,908	232414	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 15:53:03,668	236174	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-23 15:53:23,670	256176	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 15:53:44,947	277453	pages.Inbox	[main]	select customer
+INFO	2019-04-23 15:53:56,285	288791	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 15:54:17,002	309508	pages.Inbox	[main]	cancel request
+INFO	2019-04-23 16:00:04,968	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 16:00:28,507	23539	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 16:00:32,924	27956	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 16:00:35,604	30636	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 16:00:38,265	33297	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 16:00:45,263	40295	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 16:00:56,389	51421	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 16:00:59,731	54763	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 16:01:03,620	58652	pages.MainPage	[main]	history
+INFO	2019-04-23 16:01:07,620	62652	pages.MainPage	[main]	history_img
+INFO	2019-04-23 16:01:10,780	65812	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 16:01:27,181	82213	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 16:01:30,220	85252	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-23 16:01:37,604	92636	pages.Request	[main]	Request credit
+INFO	2019-04-23 16:01:43,544	98576	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 16:01:44,379	99411	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 16:01:45,775	100807	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 16:01:46,632	101664	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 16:01:47,534	102566	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 16:01:58,747	113779	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 16:02:29,417	144449	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 16:02:38,719	153751	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 16:02:42,698	157730	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 16:02:45,754	160786	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 16:04:13,215	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 16:04:37,091	23876	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 16:04:41,458	28243	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 16:04:44,600	31385	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 16:04:48,098	34883	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 16:04:54,439	41224	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 16:05:18,862	65647	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 16:05:22,346	69131	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 16:05:25,424	72209	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 16:05:27,809	74594	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 16:05:32,173	78958	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-23 16:07:05,503	1	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 16:07:30,118	24616	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 16:07:33,696	28194	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 16:07:36,427	30925	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 16:07:38,997	33495	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 16:07:46,006	40504	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 16:07:57,490	51988	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 16:08:00,854	55352	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 16:08:04,420	58918	pages.MainPage	[main]	history
+INFO	2019-04-23 16:08:08,046	62544	pages.MainPage	[main]	history_img
+INFO	2019-04-23 16:08:12,071	66569	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 16:08:17,095	71593	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 16:08:19,256	73754	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-23 16:09:14,140	128638	pages.Request	[main]	Request credit
+INFO	2019-04-23 16:09:17,651	132149	pages.Request	[main]	Click on button succesfully
+INFO	2019-04-23 16:09:20,656	135154	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 16:09:24,590	139088	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 16:09:25,469	139967	pages.CustomerDetails	[main]	Check the button request credit is Enable
+INFO	2019-04-23 16:09:26,325	140823	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 16:09:28,184	142682	pages.CreditDetails	[main]	insert amount value
+INFO	2019-04-23 16:09:29,414	143912	pages.CreditDetails	[main]	select first value from drop down list
+INFO	2019-04-23 16:09:32,416	146914	pages.CreditDetails	[main]	select second value from drop down list
+INFO	2019-04-23 16:09:35,013	149511	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 16:09:36,089	150587	pages.Sales	[main]	check button request credit exist
+INFO	2019-04-23 16:09:37,135	151633	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 16:09:38,421	152919	pages.Comments	[main]	click in text area
+INFO	2019-04-23 16:09:39,583	154081	pages.Comments	[main]	insert comment
+INFO	2019-04-23 16:09:41,275	155773	pages.Comments	[main]	click send comment
+INFO	2019-04-23 16:09:42,439	156937	pages.Comments	[main]	read value updated
+INFO	2019-04-23 16:09:43,431	157929	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 16:09:54,836	169334	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-23 16:09:54,837	169335	pages.Attachements	[main]	click to send the reguest to the next level
+INFO	2019-04-23 16:10:06,549	181047	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 16:10:29,496	203994	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 16:10:34,250	208748	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 16:10:37,104	211602	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 16:10:39,655	214153	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 16:12:47,746	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 16:13:14,244	26498	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 16:13:18,814	31068	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 16:13:22,162	34416	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 16:13:24,694	36948	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 16:13:32,455	44709	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 16:13:44,752	57006	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 16:13:48,271	60525	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 16:13:52,614	64868	pages.MainPage	[main]	history
+INFO	2019-04-23 16:13:58,286	70540	pages.MainPage	[main]	history_img
+INFO	2019-04-23 16:14:02,780	75034	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 16:14:06,869	79123	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 16:14:09,499	81753	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-23 16:15:02,923	135177	pages.Request	[main]	Request credit
+INFO	2019-04-23 16:15:09,093	141347	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 16:15:10,153	142407	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 16:15:11,297	143551	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 16:15:12,281	144535	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 16:15:13,297	145551	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 16:15:24,852	157106	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 16:15:57,459	189713	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 16:16:01,768	194022	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 16:16:05,953	198207	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 16:16:09,187	201441	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 16:23:21,960	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 16:23:48,883	26923	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 16:23:53,420	31460	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 16:23:58,138	36178	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 16:24:00,624	38664	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 16:24:10,254	48294	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 16:24:21,058	59098	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 16:24:26,984	65024	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 16:24:33,109	71149	pages.MainPage	[main]	history
+INFO	2019-04-23 16:24:39,059	77099	pages.MainPage	[main]	history_img
+INFO	2019-04-23 16:24:45,035	83075	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 16:24:51,966	90006	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 16:25:08,024	106064	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 5000
+INFO	2019-04-23 16:25:59,374	157414	pages.Request	[main]	Request credit
+INFO	2019-04-23 16:26:05,658	163698	pages.Request	[main]	Click on button succesfully
+INFO	2019-04-23 16:26:13,673	171713	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 16:26:22,663	180703	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 16:26:23,467	181507	pages.CustomerDetails	[main]	Check the button request credit is Enable
+INFO	2019-04-23 16:26:24,520	182560	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 16:26:26,944	184984	pages.CreditDetails	[main]	insert amount value
+INFO	2019-04-23 16:26:28,237	186277	pages.CreditDetails	[main]	select first value from drop down list
+INFO	2019-04-23 16:26:31,465	189505	pages.CreditDetails	[main]	select second value from drop down list
+INFO	2019-04-23 16:26:34,199	192239	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 16:26:35,351	193391	pages.Sales	[main]	check button request credit exist
+INFO	2019-04-23 16:26:36,095	194135	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 16:26:37,253	195293	pages.Comments	[main]	click in text area
+INFO	2019-04-23 16:26:38,483	196523	pages.Comments	[main]	insert comment
+INFO	2019-04-23 16:26:40,594	198634	pages.Comments	[main]	click send comment
+INFO	2019-04-23 16:26:42,027	200067	pages.Comments	[main]	read value updated
+INFO	2019-04-23 16:26:43,714	201754	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 16:26:55,028	213068	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 16:26:59,180	217220	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 16:27:10,486	228526	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	upload succesfully
+INFO	2019-04-23 16:27:10,487	228527	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-23 16:27:10,487	228527	pages.Attachements	[main]	click to send the reguest to the next level
+INFO	2019-04-23 18:07:26,018	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 18:07:55,816	29798	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 18:08:01,828	35810	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 18:08:06,242	40224	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 18:08:09,793	43775	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 18:08:18,589	52571	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 18:08:32,671	66653	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 18:08:38,114	72096	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 18:08:46,010	79992	pages.MainPage	[main]	history
+INFO	2019-04-23 18:08:51,354	85336	pages.MainPage	[main]	history_img
+INFO	2019-04-23 18:08:57,377	91359	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 18:09:04,156	98138	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 18:09:20,873	114855	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 1000
+INFO	2019-04-23 18:10:16,323	170305	pages.Request	[main]	Request credit
+INFO	2019-04-23 18:11:14,041	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 18:11:42,144	28103	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 18:11:48,821	34780	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 18:11:52,463	38422	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 18:11:55,817	41776	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 18:12:04,973	50932	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 18:12:17,263	63222	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 18:12:22,598	68557	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 18:12:28,419	74378	pages.MainPage	[main]	history
+INFO	2019-04-23 18:12:33,607	79566	pages.MainPage	[main]	history_img
+INFO	2019-04-23 18:12:40,245	86204	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 18:12:58,173	104132	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 18:13:00,678	106637	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 1000
+INFO	2019-04-23 18:13:44,943	150902	pages.Request	[main]	Request credit
+INFO	2019-04-23 18:13:52,300	158259	pages.Request	[main]	Click on button succesfully
+INFO	2019-04-23 18:14:00,305	166264	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 18:14:10,208	176167	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 18:14:12,870	178829	pages.CustomerDetails	[main]	Check the button request credit is Enable
+INFO	2019-04-23 18:14:15,033	180992	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 18:14:18,165	184124	pages.CreditDetails	[main]	insert amount value
+INFO	2019-04-23 18:14:20,856	186815	pages.CreditDetails	[main]	select first value from drop down list
+INFO	2019-04-23 18:14:25,356	191315	pages.CreditDetails	[main]	select second value from drop down list
+INFO	2019-04-23 18:14:30,116	196075	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 18:14:32,230	198189	pages.Sales	[main]	check button request credit exist
+INFO	2019-04-23 18:14:34,238	200197	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 18:14:37,111	203070	pages.Comments	[main]	click in text area
+INFO	2019-04-23 18:14:38,134	204093	pages.Comments	[main]	insert comment
+INFO	2019-04-23 18:14:40,683	206642	pages.Comments	[main]	click send comment
+INFO	2019-04-23 18:14:43,564	209523	pages.Comments	[main]	read value updated
+INFO	2019-04-23 18:14:45,836	211795	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 18:14:57,110	223069	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 18:15:00,777	226736	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 18:15:12,058	238017	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	upload succesfully
+INFO	2019-04-23 18:15:12,059	238018	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-23 18:15:12,059	238018	pages.Attachements	[main]	click to send the reguest to the next level
+INFO	2019-04-23 18:24:58,208	0	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 18:25:28,421	30213	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 18:25:33,691	35483	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 18:25:36,600	38392	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 18:25:39,037	40829	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 18:25:47,256	49048	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-23 18:26:07,277	69069	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 18:26:32,101	93893	pages.Inbox	[main]	select customer
+INFO	2019-04-23 18:26:43,308	105100	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 18:26:56,925	118717	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 18:26:59,268	121060	pages.Comments	[main]	click in text area
+INFO	2019-04-23 18:27:00,496	122288	pages.Comments	[main]	insert comment
+INFO	2019-04-23 18:27:04,038	125830	pages.Comments	[main]	click send comment
+INFO	2019-04-23 18:27:06,246	128038	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 18:27:17,986	139778	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 18:27:21,997	143789	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 18:27:33,355	155147	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	upload succesfully
+INFO	2019-04-23 18:27:33,355	155147	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	sent request
+INFO	2019-04-23 18:27:33,356	155148	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-23 18:34:21,158	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 18:34:45,184	24026	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 18:34:51,392	30234	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 18:34:55,037	33879	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 18:34:58,496	37338	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 18:35:06,042	44884	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 18:35:18,436	57278	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 18:35:24,780	63622	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 18:35:31,179	70021	pages.MainPage	[main]	history
+INFO	2019-04-23 18:35:37,091	75933	pages.MainPage	[main]	history_img
+INFO	2019-04-23 18:35:42,779	81621	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 18:36:04,494	103336	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 18:36:06,874	105716	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 1000
+INFO	2019-04-23 18:36:51,862	150704	pages.Request	[main]	Request credit
+INFO	2019-04-23 18:36:59,443	158285	pages.Request	[main]	Click on button succesfully
+INFO	2019-04-23 18:37:07,449	166291	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 18:37:17,369	176211	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 18:37:19,610	178452	pages.CustomerDetails	[main]	Check the button request credit is Enable
+INFO	2019-04-23 18:37:21,463	180305	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 18:37:25,024	183866	pages.CreditDetails	[main]	insert amount value
+INFO	2019-04-23 18:37:28,197	187039	pages.CreditDetails	[main]	select first value from drop down list
+INFO	2019-04-23 18:37:32,296	191138	pages.CreditDetails	[main]	select second value from drop down list
+INFO	2019-04-23 18:37:37,613	196455	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 18:37:40,413	199255	pages.Sales	[main]	check button request credit exist
+INFO	2019-04-23 18:37:42,649	201491	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 18:37:46,143	204985	pages.Comments	[main]	click in text area
+INFO	2019-04-23 18:37:47,459	206301	pages.Comments	[main]	insert comment
+INFO	2019-04-23 18:37:50,283	209125	pages.Comments	[main]	click send comment
+INFO	2019-04-23 18:37:53,493	212335	pages.Comments	[main]	read value updated
+INFO	2019-04-23 18:37:55,886	214728	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 18:38:07,167	226009	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 18:38:11,393	230235	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 18:38:22,978	241820	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	upload succesfully
+INFO	2019-04-23 18:38:22,979	241821	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-23 18:38:22,980	241822	pages.Attachements	[main]	click to send the reguest to the next level
+INFO	2019-04-23 18:42:44,734	0	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 18:43:13,645	28911	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 18:43:18,479	33745	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 18:43:20,951	36217	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 18:43:23,725	38991	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 18:43:31,667	46933	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-23 18:43:51,673	66939	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 18:44:13,938	89204	pages.Inbox	[main]	select customer
+INFO	2019-04-23 18:44:25,085	100351	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 18:44:37,135	112401	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 18:44:39,326	114592	pages.Comments	[main]	click in text area
+INFO	2019-04-23 18:44:40,790	116056	pages.Comments	[main]	insert comment
+INFO	2019-04-23 18:44:43,541	118807	pages.Comments	[main]	click send comment
+INFO	2019-04-23 18:44:46,709	121975	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 18:44:58,442	133708	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 18:45:01,542	136808	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 18:45:12,795	148061	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	upload succesfully
+INFO	2019-04-23 18:45:12,800	148066	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	sent request
+INFO	2019-04-23 18:45:12,801	148067	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-23 18:54:00,784	0	net.metrosystems.seleniumtestsES.CC_Resend	[main]	start load data 
+INFO	2019-04-23 18:54:26,211	25427	net.metrosystems.seleniumtestsES.CC_Resend	[main]	end start load data 
+INFO	2019-04-23 18:54:30,490	29706	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 18:54:33,825	33041	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 18:54:36,186	35402	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 18:54:44,102	43318	net.metrosystems.seleniumtestsES.CC_Resend	[main]	login succesfully
+INFO	2019-04-23 18:55:04,122	63338	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 18:55:26,867	86083	pages.Inbox	[main]	select customer
+INFO	2019-04-23 18:55:38,044	97260	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 18:55:50,184	109400	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 18:55:53,541	112757	pages.Comments	[main]	click in text area
+INFO	2019-04-23 18:55:54,722	113938	pages.Comments	[main]	insert comment
+INFO	2019-04-23 18:55:57,758	116974	pages.Comments	[main]	click send comment
+INFO	2019-04-23 18:56:00,378	119594	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 18:56:12,327	131543	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 18:56:16,166	135382	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 19:16:41,496	0	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	start load data 
+INFO	2019-04-23 19:17:07,868	26372	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	end start load data 
+INFO	2019-04-23 19:17:12,574	31078	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 19:17:16,850	35354	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 19:17:19,191	37695	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 19:17:29,036	47540	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	login succesfully
+INFO	2019-04-23 19:17:39,688	58192	pages.MainPage	[main]	check limitcheck_link
+INFO	2019-04-23 19:17:45,028	63532	pages.MainPage	[main]	check limitcheck_img
+INFO	2019-04-23 19:17:51,031	69535	pages.MainPage	[main]	history
+INFO	2019-04-23 19:17:56,777	75281	pages.MainPage	[main]	history_img
+INFO	2019-04-23 19:18:01,995	80499	pages.MainPage	[main]	check inbox_img
+INFO	2019-04-23 19:18:17,651	96155	pages.MainPage	[main]	check inbox
+INFO	2019-04-23 19:18:34,534	113038	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	Insert Customer for credit amount = 1000
+INFO	2019-04-23 19:19:18,230	156734	pages.Request	[main]	Request credit
+INFO	2019-04-23 19:19:25,327	163831	pages.Request	[main]	Click on button succesfully
+INFO	2019-04-23 19:19:33,330	171834	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 19:19:43,133	181637	pages.CustomerDetails	[main]	return the name of the customer from tab CustomerDetailed
+INFO	2019-04-23 19:19:44,818	183322	pages.CustomerDetails	[main]	Check the button request credit is Enable
+INFO	2019-04-23 19:19:46,864	185368	pages.CreditDetails	[main]	open credit detail tab
+INFO	2019-04-23 19:19:49,497	188001	pages.CreditDetails	[main]	insert amount value
+INFO	2019-04-23 19:19:52,324	190828	pages.CreditDetails	[main]	select first value from drop down list
+INFO	2019-04-23 19:19:57,184	195688	pages.CreditDetails	[main]	select second value from drop down list
+INFO	2019-04-23 19:20:01,173	199677	pages.Sales	[main]	open sales tab
+INFO	2019-04-23 19:20:03,859	202363	pages.Sales	[main]	check button request credit exist
+INFO	2019-04-23 19:20:05,411	203915	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 19:20:07,605	206109	pages.Comments	[main]	click in text area
+INFO	2019-04-23 19:20:09,134	207638	pages.Comments	[main]	insert comment
+INFO	2019-04-23 19:20:12,759	211263	pages.Comments	[main]	click send comment
+INFO	2019-04-23 19:20:16,057	214561	pages.Comments	[main]	read value updated
+INFO	2019-04-23 19:20:18,829	217333	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 19:20:30,080	228584	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 19:20:34,503	233007	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 19:20:45,769	244273	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	upload succesfully
+INFO	2019-04-23 19:20:45,769	244273	net.metrosystems.seleniumtestsES.TestFlowES1	[main]	sent request
+INFO	2019-04-23 19:20:45,769	244273	pages.Attachements	[main]	click to send the reguest to the next level
+INFO	2019-04-23 19:20:57,525	256029	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	start load data 
+INFO	2019-04-23 19:21:31,646	290150	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	end start load data 
+INFO	2019-04-23 19:21:36,184	294688	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 19:21:40,479	298983	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 19:21:43,102	301606	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 19:21:51,381	309885	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	login succesfully
+INFO	2019-04-23 19:22:11,384	329888	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 19:22:33,373	351877	pages.Inbox	[main]	select customer
+INFO	2019-04-23 19:22:44,641	363145	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 19:22:56,608	375112	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 19:22:59,113	377617	pages.Comments	[main]	click in text area
+INFO	2019-04-23 19:23:00,770	379274	pages.Comments	[main]	insert comment
+INFO	2019-04-23 19:23:03,644	382148	pages.Comments	[main]	click send comment
+INFO	2019-04-23 19:23:06,029	384533	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 19:23:18,005	396509	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 19:23:21,216	399720	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 19:23:32,365	410869	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	upload succesfully
+INFO	2019-04-23 19:23:32,368	410872	net.metrosystems.seleniumtestsES.TestFlowES2	[main]	sent request
+INFO	2019-04-23 19:23:32,370	410874	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-23 19:23:43,971	422475	net.metrosystems.seleniumtestsES.CC_Resend	[main]	start load data 
+INFO	2019-04-23 19:24:08,911	447415	net.metrosystems.seleniumtestsES.CC_Resend	[main]	end start load data 
+INFO	2019-04-23 19:24:14,798	453302	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 19:24:18,231	456735	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 19:24:21,440	459944	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 19:24:29,996	468500	net.metrosystems.seleniumtestsES.CC_Resend	[main]	login succesfully
+INFO	2019-04-23 19:24:49,999	488503	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 19:25:24,546	523050	pages.Inbox	[main]	select customer
+INFO	2019-04-23 19:25:36,287	534791	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 19:25:49,852	548356	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 19:25:54,183	552687	pages.Comments	[main]	click in text area
+INFO	2019-04-23 19:25:55,908	554412	pages.Comments	[main]	insert comment
+INFO	2019-04-23 19:26:00,154	558658	pages.Comments	[main]	click send comment
+INFO	2019-04-23 19:26:04,226	562730	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 19:26:15,935	574439	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 19:26:20,567	579071	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 19:26:33,264	591768	net.metrosystems.seleniumtestsES.CC_Resend	[main]	upload succesfully
+INFO	2019-04-23 19:26:33,265	591769	net.metrosystems.seleniumtestsES.CC_Resend	[main]	sent info for approval
+INFO	2019-04-23 19:26:33,267	591771	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-23 19:34:11,281	0	net.metrosystems.seleniumtestsES.SM_Approved	[main]	start load data 
+INFO	2019-04-23 19:34:38,319	27038	net.metrosystems.seleniumtestsES.SM_Approved	[main]	end start load data 
+INFO	2019-04-23 19:34:42,497	31216	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 19:34:45,372	34091	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 19:34:48,172	36891	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 19:34:57,039	45758	net.metrosystems.seleniumtestsES.SM_Approved	[main]	login succesfully
+INFO	2019-04-23 19:35:17,066	65785	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 19:35:39,642	88361	pages.Inbox	[main]	select customer
+INFO	2019-04-23 19:35:52,018	100737	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 19:36:14,578	123297	pages.Inbox	[main]	approve request
+INFO	2019-04-23 19:41:39,811	0	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	start load data 
+INFO	2019-04-23 19:42:16,192	36381	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	end start load data 
+INFO	2019-04-23 19:42:20,400	40589	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 19:42:24,786	44975	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 19:42:28,318	48507	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 19:42:37,900	58089	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	login succesfully
+INFO	2019-04-23 19:42:57,936	78125	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 19:43:21,864	102053	pages.Inbox	[main]	select customer
+INFO	2019-04-23 19:43:33,336	113525	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 19:43:45,156	125345	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 19:43:47,378	127567	pages.Comments	[main]	click in text area
+INFO	2019-04-23 19:43:48,654	128843	pages.Comments	[main]	insert comment
+INFO	2019-04-23 19:43:51,529	131718	pages.Comments	[main]	click send comment
+INFO	2019-04-23 19:43:54,195	134384	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 19:44:05,618	145807	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 19:44:09,663	149852	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 19:44:21,285	161474	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	upload succesfully
+INFO	2019-04-23 19:44:21,285	161474	net.metrosystems.seleniumtestsES.CM_sendBack	[main]	sent request
+INFO	2019-04-23 19:44:21,286	161475	pages.Inbox	[main]	select level to send back for more data
+INFO	2019-04-23 19:44:24,475	164664	net.metrosystems.seleniumtestsES.SM_Resend	[main]	start load data 
+INFO	2019-04-23 19:44:47,225	187414	net.metrosystems.seleniumtestsES.SM_Resend	[main]	end start load data 
+INFO	2019-04-23 19:44:53,246	193435	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 19:44:56,408	196597	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 19:44:59,659	199848	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 19:45:08,638	208827	net.metrosystems.seleniumtestsES.SM_Resend	[main]	login succesfully
+INFO	2019-04-23 19:45:28,641	228830	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 19:45:50,880	251069	pages.Inbox	[main]	select customer
+INFO	2019-04-23 19:46:02,032	262221	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 19:46:13,975	274164	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 19:46:16,124	276313	pages.Comments	[main]	click in text area
+INFO	2019-04-23 19:46:18,159	278348	pages.Comments	[main]	insert comment
+INFO	2019-04-23 19:46:20,879	281068	pages.Comments	[main]	click send comment
+INFO	2019-04-23 19:46:23,630	283819	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 19:46:34,717	294906	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 19:46:38,019	298208	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 19:46:49,770	309959	net.metrosystems.seleniumtestsES.SM_Resend	[main]	upload succesfully
+INFO	2019-04-23 19:46:49,770	309959	net.metrosystems.seleniumtestsES.SM_Resend	[main]	sent info for approval
+INFO	2019-04-23 19:46:49,771	309960	pages.Attachements	[main]	click to send the reguest back to CC
+INFO	2019-04-23 19:47:01,848	322037	net.metrosystems.seleniumtestsES.CM_Approved	[main]	start load data 
+INFO	2019-04-23 19:47:24,321	344510	net.metrosystems.seleniumtestsES.CM_Approved	[main]	end start load data 
+INFO	2019-04-23 19:47:30,323	350512	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 19:47:33,969	354158	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 19:47:37,375	357564	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 19:47:45,486	365675	net.metrosystems.seleniumtestsES.CM_Approved	[main]	login succesfully
+INFO	2019-04-23 19:48:05,492	385681	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 19:48:27,808	407997	pages.Inbox	[main]	select customer
+INFO	2019-04-23 19:48:38,951	419140	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 19:49:00,832	441021	pages.Inbox	[main]	approve request
+INFO	2019-04-23 23:10:07,502	0	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	start load data 
+INFO	2019-04-23 23:10:38,098	30596	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	end start load data 
+INFO	2019-04-23 23:10:41,776	34274	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 23:10:45,189	37687	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 23:10:48,392	40890	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 23:10:56,441	48939	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	login succesfully
+INFO	2019-04-23 23:11:16,465	68963	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 23:11:53,402	105900	pages.Inbox	[main]	select customer
+INFO	2019-04-23 23:12:04,517	117015	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 23:12:06,291	118789	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 23:12:07,483	119981	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 23:12:19,232	131730	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 23:12:24,034	136532	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 23:12:35,550	148048	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	upload succesfully
+INFO	2019-04-23 23:12:35,550	148048	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	sent request
+INFO	2019-04-23 23:12:45,551	158049	pages.Inbox	[main]	approve request
+INFO	2019-04-23 23:12:47,105	159603	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	start load data 
+INFO	2019-04-23 23:13:10,252	182750	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	end start load data 
+INFO	2019-04-23 23:13:18,388	190886	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 23:13:22,723	195221	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 23:13:26,351	198849	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 23:13:36,160	208658	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	login succesfully
+INFO	2019-04-23 23:13:56,164	228662	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 23:14:34,013	266511	pages.Inbox	[main]	select customer
+INFO	2019-04-23 23:14:45,166	277664	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 23:14:46,922	279420	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 23:14:47,922	280420	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 23:14:59,414	291912	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 23:15:03,704	296202	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 23:15:15,931	308429	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	upload succesfully
+INFO	2019-04-23 23:15:15,931	308429	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	sent request
+INFO	2019-04-23 23:15:25,932	318430	pages.Inbox	[main]	approve request
+INFO	2019-04-23 23:20:24,544	0	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	start load data 
+INFO	2019-04-23 23:20:49,151	24607	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	end start load data 
+INFO	2019-04-23 23:20:54,569	30025	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 23:20:57,390	32846	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 23:21:00,366	35822	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 23:21:08,608	44064	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	login succesfully
+INFO	2019-04-23 23:21:28,625	64081	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 23:22:01,738	97194	pages.Inbox	[main]	select customer
+INFO	2019-04-23 23:22:12,804	108260	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 23:22:14,317	109773	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 23:22:15,302	110758	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 23:22:26,696	122152	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	start load data 
+INFO	2019-04-23 23:22:52,600	148056	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	end start load data 
+INFO	2019-04-23 23:22:58,110	153566	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 23:23:01,241	156697	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 23:23:04,356	159812	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 23:23:13,427	168883	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	login succesfully
+INFO	2019-04-23 23:23:33,428	188884	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 23:23:57,017	212473	pages.Inbox	[main]	select customer
+INFO	2019-04-23 23:24:09,983	225439	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 23:24:11,956	227412	pages.Comments	[main]	open tab comment
+INFO	2019-04-23 23:24:13,269	228725	pages.Attachements	[main]	open tab attchement
+INFO	2019-04-23 23:24:24,898	240354	net.metrosystems.seleniumtests.File	[main]	select file for upload
+INFO	2019-04-23 23:24:29,715	245171	pages.Attachements	[main]	push upload button
+INFO	2019-04-23 23:24:41,688	257144	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	upload succesfully
+INFO	2019-04-23 23:24:41,688	257144	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	sent request
+INFO	2019-04-23 23:24:51,688	267144	pages.Inbox	[main]	approve request
+INFO	2019-04-23 23:42:54,275	0	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	start load data 
+INFO	2019-04-23 23:43:19,524	25249	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	end start load data 
+INFO	2019-04-23 23:43:24,312	30037	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 23:43:28,389	34114	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 23:43:32,072	37797	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 23:43:40,442	46167	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	login succesfully
+INFO	2019-04-23 23:44:00,452	66177	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 23:44:23,382	89107	pages.Inbox	[main]	select customer
+INFO	2019-04-23 23:44:34,641	100366	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 23:44:46,216	111941	net.metrosystems.seleniumtestsES.CC_final_Approved	[main]	sent request
+INFO	2019-04-23 23:44:56,217	121942	pages.Inbox	[main]	approve request
+INFO	2019-04-23 23:44:58,992	124717	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	start load data 
+INFO	2019-04-23 23:45:20,152	145877	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	end start load data 
+INFO	2019-04-23 23:45:25,033	150758	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 23:45:28,355	154080	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 23:45:31,693	157418	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 23:45:39,870	165595	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	login succesfully
+INFO	2019-04-23 23:45:59,874	185599	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 23:46:32,383	218108	pages.Inbox	[main]	select customer
+INFO	2019-04-23 23:46:43,496	229221	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 23:46:55,012	240737	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	sent request
+INFO	2019-04-23 23:47:05,012	250737	pages.Inbox	[main]	approve request
+INFO	2019-04-23 23:50:24,447	0	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	start load data 
+INFO	2019-04-23 23:50:51,878	27431	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	end start load data 
+INFO	2019-04-23 23:50:55,836	31389	pages.LoginPage	[main]	insert user
+INFO	2019-04-23 23:50:58,960	34513	pages.LoginPage	[main]	insert passs
+INFO	2019-04-23 23:51:01,482	37035	pages.LoginPage	[main]	insert click login
+INFO	2019-04-23 23:51:10,035	45588	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	login succesfully
+INFO	2019-04-23 23:51:30,054	65607	pages.Inbox	[main]	click inbox img
+INFO	2019-04-23 23:51:52,703	88256	pages.Inbox	[main]	select customer
+INFO	2019-04-23 23:52:04,082	99635	pages.Inbox	[main]	get amount value
+INFO	2019-04-23 23:52:15,562	111115	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	sent request
+INFO	2019-04-23 23:52:25,562	121115	pages.Inbox	[main]	approve request
+INFO	2019-04-24 00:09:54,990	0	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	start load data 
+INFO	2019-04-24 00:10:20,481	25491	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	end start load data 
+INFO	2019-04-24 00:10:26,160	31170	pages.LoginPage	[main]	insert user
+INFO	2019-04-24 00:10:29,831	34841	pages.LoginPage	[main]	insert passs
+INFO	2019-04-24 00:10:32,505	37515	pages.LoginPage	[main]	insert click login
+INFO	2019-04-24 00:10:40,274	45284	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	login succesfully
+INFO	2019-04-24 00:11:10,287	75297	pages.Inbox	[main]	click inbox img
+INFO	2019-04-24 00:11:41,909	106919	pages.Inbox	[main]	select customer
+INFO	2019-04-24 00:11:53,226	118236	pages.Inbox	[main]	get amount value
+INFO	2019-04-24 00:12:04,735	129745	net.metrosystems.seleniumtestsES.AM_final_Approved	[main]	sent request
+INFO	2019-04-24 00:12:14,735	139745	pages.Inbox	[main]	approve request

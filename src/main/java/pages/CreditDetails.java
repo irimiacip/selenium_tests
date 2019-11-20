@@ -55,7 +55,5 @@ public class CreditDetails {
 		 
     	 Select creditperiod_value = new Select(driver.findElement(By.cssSelector("select[name='creditPeriod']")));
     	 creditperiod_value.selectByVisibleText("mrc.payment.30");
-     }
-
-    	 
+     }    	 
 }
