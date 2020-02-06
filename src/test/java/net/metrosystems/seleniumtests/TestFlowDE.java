@@ -77,6 +77,7 @@ String browser = System.getProperty("propertyName");
 			for (int i = 0; i<jsondata.size(); i++) {
 				
 				System.out.println("incepe afisarea: " + jsondata.get(i));
+				
 			}
 			
 			dbvalue=DBconnect.getPostrgresSqlConnection(jsondata.get(5), jsondata.get(3), jsondata.get(4));
