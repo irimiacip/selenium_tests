@@ -74,11 +74,9 @@ String browser = System.getProperty("propertyName");
      		limit.LimitCheckclick();
 			limit.InsertCustomer(jsondata.get(10));
 			limit.SearchCustomer();
-			for (int i = 0; i<jsondata.size(); i++) {
-				
-				System.out.println("incepe afisarea: " + jsondata.get(i));				
-			}
-			
+			for (int i = 0; i<jsondata.size(); i++) {				
+				System.out.println("incepe afisarea: " + jsondata.get(i));						
+			}			
 			dbvalue=DBconnect.getPostrgresSqlConnection(jsondata.get(5), jsondata.get(3), jsondata.get(4));
 			
 			for (int i = 0 ; i<dbvalue.size(); i++) {

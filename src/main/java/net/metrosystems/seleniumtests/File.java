@@ -34,7 +34,6 @@ public class File {
 	public static void uploadfile(String filename) {
 		logger.info("select file for upload");
 		WebElement uploadElement = driver.findElement(By.cssSelector("input[type='file']"));
-
         uploadElement.sendKeys("C:\\Windows\\SysWOW64\\Macromed\\Flash\\"+filename);
        
         
