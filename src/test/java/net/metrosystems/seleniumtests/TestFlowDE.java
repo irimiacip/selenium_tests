@@ -21,8 +21,6 @@ import org.openqa.selenium.WebDriver;
 import org.postgresql.Driver;
 import org.testng.Assert;
 
-
-
 public class TestFlowDE {
 	public WebDriver driver;
 	public static List<String> jsondata;
