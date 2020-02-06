@@ -30,8 +30,7 @@ public class TestFlowDE {
 final static Logger logger = Logger.getLogger(TestFlowDE.class);
 
 String browser = System.getProperty("propertyName");
-	
-	
+		
 	@BeforeClass
 	public void  before() throws IOException, InterruptedException {
 		logger.info("start load data ");
@@ -46,8 +45,7 @@ String browser = System.getProperty("propertyName");
        logger.info("perform login");
         login.typeUserName(jsondata.get(7));
 		login.typePassword(jsondata.get(8));
-		login.clickOnLoginButton();  
-	  
+		login.clickOnLoginButton();  	  
 	    }
 			
 	@Test (priority = 1)
