@@ -61,8 +61,7 @@ String browser = System.getProperty("propertyName");
 	mainpage.inbox();
 	}   
 
-	@Test (priority = 2)
-		
+	@Test (priority = 2)	
 	public void test2App() throws InterruptedException {
 		logger.info("Insert Customer for credit amount = 5000");
 		Thread.sleep(5000);   	
