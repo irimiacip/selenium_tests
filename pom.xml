@@ -64,7 +64,7 @@
 
 		<!-- END Dependencies for logstash-logback-encoder -->
 		<!--END LOGGING -->
-	
+	<!--check -->
 
 		<dependency>
 			<groupId>log4j</groupId>
