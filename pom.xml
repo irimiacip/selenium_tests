@@ -12,12 +12,8 @@
 	<name>selenium-tests</name>
 	<description>Selenium tests for MRC project</description>
 
-	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.0.5.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
-	</parent>
+
+
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -26,48 +22,11 @@
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-		<!--START MONITORING -->
-		<dependency>
-			<groupId>io.micrometer</groupId>
-			<artifactId>micrometer-registry-datadog</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-actuator</artifactId>
-		</dependency>
-		<!--END MONITORING -->
-		<!--START LOGGING -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-logging</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>net.rakugakibox.spring.boot</groupId>
-			<artifactId>logback-access-spring-boot-starter</artifactId>
-			<version>2.7.0</version>
-			<exclusions>
-				<exclusion>
-					<!-- Exclude because it depends on spring boot 2 M3 -->
-					<groupId>org.springframework.boot</groupId>
-					<artifactId>spring-boot-starter-web</artifactId>
-				</exclusion>
-			</exclusions>
-		</dependency>
-		<dependency>
-			<groupId>net.logstash.logback</groupId>
-			<artifactId>logstash-logback-encoder</artifactId>
-			<version>4.11</version>
-			<scope>runtime</scope>
-		</dependency>
-		<!-- START Dependencies for logstash-logback-encoder -->
-		<dependency>
-			<groupId>ch.qos.logback</groupId>
-			<artifactId>logback-access</artifactId>
-		</dependency>
+		
+		
+		
+		
+		
 		<dependency>
 			<!-- JSR310: Java 8 Time APIs for Jackson -->
 			<groupId>com.fasterxml.jackson.datatype</groupId>
@@ -105,11 +64,7 @@
 
 		<!-- END Dependencies for logstash-logback-encoder -->
 		<!--END LOGGING -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
+	
 
 		<dependency>
 			<groupId>log4j</groupId>
